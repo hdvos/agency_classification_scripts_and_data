@@ -1,0 +1,40 @@
+Average CO2 emissions from new cars and new vans increased in 2018
+
+PDF
+News  Published 24 Jun 2019  Last modified 10 Dec 2019  5 min read
+Image copyright: chuttersnap on Unsplash
+Climate change mitigation Policy instruments Transport
+According to provisional data published today by the European Environment Agency (EEA), the average carbon dioxide (CO2) emissions from new passenger cars registered in the European Union (EU) in 2018 increased for the second consecutive year, reaching 120.4 grammes of CO2 per kilometre. For the first time, the average CO2 emissions from new vans also increased. Manufacturers will have to reduce emissions of their fleet significantly to meet the upcoming 2020 and 2021 targets.
+The EEA has published the provisional data for the average CO2 emissions from new passenger cars and vans registered in the EU and in Iceland in 2018.
+
+After a steady decline from 2010 to 2016, by almost 22 grammes of CO2 per kilometre (g CO2/km), average emissions from new passenger cars increased in 2017 by 0.4 g CO2/km. According the provisional data, the upward trend continued with an additional increase of 2.0 g CO2/km in 2018.
+
+Vans registered in the EU and Iceland in 2018 emitted on average 158.1 g CO2/km, which is 2.0 grams more than in 2017. This is the first increase in average CO2 emissions from new vans since the regulation came into force in 2011, following a sharp decrease in 2017.
+
+The main factors contributing to the increase of new passenger cars’ emissions in 2018 include the growing share of petrol cars in new registrations, in particular in the sport utility vehicle (SUV) segment. Moreover, the market penetration of zero- and low-emission vehicles, including electric cars, remained slow in 2018. With the 2021 target of 95 g CO2/km approaching, much faster deployment of cars with low emissions is needed across Europe.
+
+Many factors affected the increase in CO2 emissions from new vans in 2018, including an increase in the mass, engine capacity and size of the vehicles. The market share of petrol vehicles also increased, constituting 3.6 % of the new vans fleet (2.4 % in 2017). The share of zero- and low-emission vans remained at the same level (1.7 %) as in 2017. Further efficiency improvements are needed to reach the EU target of 147 g CO2/km set for 2020.
+
+Other key findings:
+New cars
+Petrol cars were the most sold passenger vehicles in the EU and in Iceland, constituting almost 60 % of all new registrations. Diesel vehicles constituted 36 % of the new registrations, marking a drop of 9 percentage points from 2017, and 19 percentage points from 2011 when diesel cars peaked with a 55 % share of new registrations.
+On average, the CO2 emissions of diesel cars (121.5 g CO2/km) are now very close to those of petrol cars (123.4 g CO2/km). The difference of 1.9 g CO2/km was the lowest observed in the past 5 years.
+Around 4.5 million new cars sold in the EU and in Iceland in 2018 — almost one out of three — were SUVs. Compared to cars in similar segment, SUVs are typically heavier and have more powerful engines and larger frontal areas — all features that increase fuel consumption. The majority of new SUVs sold were powered by petrol, with average emissions of 133 g CO2/km, which is around 13 g CO2/km higher than the average emissions of other new petrol cars.
+Sales of plug-in hybrid electric vehicles (PHEV) and battery-electric vehicles (BEV) continued to increase. With around 150 000 registrations, sales of BEVs increased by 50 % compared to 2017. However, the combined share of PHEVs and BEVs in all car sales remains low (2 % compared to 1.5% in 2017).
+The combined shares of PHEV and BEV sales were highest in Iceland (15 %), Sweden (8.4 %) and the Netherlands (6.8 %). Together with Estonia, Finland and Malta, these were the only countries where the average emissions of new cars decreased from 2017 to 2018.
+New vans
+
+In 2018, 1.66 million new vans were registered in the EU and in Iceland, which is an increase of 3.5% compared with 2017. Higher sales in Poland (+46 %), Croatia (+28 %) and Hungary (+21 %) were accompanied by lower sales in Italy (-6 %) and Spain (-5 %).
+Diesel vehicles continue to make up the vast majority of the new van fleet, constituting 94.7% of sales in 2018. However, the market share of petrol vans has been increasing since 2016.
+Two out of three new vans (70 %) registered in the EU and in Iceland were sold in just five Member States: the United Kingdom (20 %), France (19 %), Germany (15 %), Italy (9 %) and Spain (7 %).
+The average fuel-efficiency of new vans varied widely across Member States due to the different models and sizes of vehicles sold in each country. As in recent years, average emissions were lowest in Portugal (133.7 g CO2/km), followed by Bulgaria (134.4 g CO2/km) and Cyprus (135.1 g CO2/km). Average emissions were highest in Germany (173.4 g CO2/km), the Czech Republic (170.0 g CO2/km) and Slovakia (169.7 g CO2/km).
+The average weight of new vans registered in 2018 was 1839 kg, which is a slight increase of 1%, if compared with 2017. It also varied across countries: smaller vehicles were sold in Bulgaria and Cyprus (< 1 590 kg); larger vehicles (>1 955 kg) in Slovakia, Finland and Czech Republic.
+In addition to the increase in the average mass of registered vans, a larger average engine capacity (+1 %) and a larger average vehicle size (+1.4 % in the average distance between front and rear wheels) also contributed to the increase in average CO2 emissions from new vans in 2018 compared to 2017.
+Testing vehicle emissions
+The emissions of new vehicles are systematically tested using ‘type approval’ procedures. Since 2017, the new Worldwide Harmonized Light Vehicle Test Procedure (WLTP) has been put in place, with the objective to gradually replace the outdated New European Driving Cycle (NEDC). The WLTP allows to obtain more realistic information on vehicle emissions in the type approval tests. In 2018, Member States reported both NEDC and WLTP emission factors for around 4.4 million cars (around 30 % of new registrations). For those vehicles, the WLTP emission factor was on average 20 % higher than the NEDC emission factor.
+
+EEA activities
+The EEA collects and regularly makes available data on new passenger cars and vans registered in Europe, in accordance with EU Regulation (EC) No 443/2009 and Regulation (EU) No 510/2011. The data reported by all EU Member States and Iceland in order to evaluate the efficiency of the new vehicle fleet includes information on CO2 emissions and vehicle mass. For the first time, data reported by Iceland were also included.
+
+Compliance with targets
+The European Commission will confirm whether individual manufacturers or pools have met their own specific annual targets, which are based on the average mass of the cars registered, when the EEA publishes the final data in late 2019 or early 2020.

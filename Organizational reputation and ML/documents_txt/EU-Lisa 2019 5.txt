@@ -1,0 +1,6 @@
+26/11/2019
+EU Data Protection Authority Selects a New Supervisor 
+On 26 November 2019, the European Parliament's Civil Liberties committee (LIBE) confirmed Polish privacy regulator Wojtek Wiewiorowski as the head of the European Data Protection Supervisor. The Polish official currently serves as Assistant Supervisor and acting Supervisor of the watchdog, responsible for monitoring  EU institutions' compliance with data protection rules, ensuring that the rights to privacy and data protection are respected. Wiewiorowski will officially take up the job of Supervisor on December 6, for a five year mandate.
+ 
+Given the sensitivity of the personal data stored in the large-scale IT systems eu-LISA manages, the Agency strictly applies the provisions foreseen in  on the protection of natural persons. Further to this, eu-LISA ensures that all systems under its mandate operate following the latest IT-security standards and protocols. eu-LISA makes sure that Europe's freedom, security and justice management systems, and the data therein, are safeguarded for generations to come.
+

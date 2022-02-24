@@ -1,0 +1,5 @@
+2019 CONFERENCE ON BIG DATA FROM SPACE
+The  (jointly organised by ESA, SatCen and JRC) took place on 19-21 February 2019; BiDS’19 was hosted by the German Aerospace Center (DLR) in Munich.
+The event was a big success, with 511 participants from all around Europe attending 42 high quality presentations.
+This 4th edition of the Big Data from Space conference focussed on ’Turning Data into Insights’. Indeed, while the first editions of the conference concentrated on technologies and platforms capable of sustaining the sharp increase of data streams originating from space sensors, the development of efficient and effective methodologies and algorithms capable of extracting insights from these data is gradually becoming the main challenge. In this context, artificial intelligence and machine learning techniques have started to play a key role as illustrated by numerous papers of this conference edition.
+Conference Proceedings are now available .

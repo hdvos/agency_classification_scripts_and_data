@@ -1,0 +1,13 @@
+ESMA CONSULTS ON PERIODIC REPORTING RULES FOR TRADE REPOSITORIES 
+27 May 2019 
+MARKET INTEGRITY
+POST TRADING
+The European Securities and Markets Authority (ESMA) has published today  setting out the information that should be periodically submitted by trade repositories (TRs) to ESMA. 
+Such reporting enables ESMA to conduct a consistent supervision of TRs by aligning content and format of reports to ESMA’s supervision and its risk assessment processes. Furthermore, the Guidelines specify certain aspects relating to the notification of material changes by TRs.
+The Guidelines thus clarify the format and frequency of the different categories of information which ESMA expects to receive in its role as supervisor of TRs in relation to the European Market Infrastructure and Securities Financing Transactions Regulations (EMIR and SFTR). This is carried out by:
+Establishing reporting schedules for TR;
+Establishing reporting calendars for TRs based on reporting schedules;
+Standardising reporting templates, channels and naming conventions; and
+Providing additional reporting clarifications in areas where ESMA has identified a supervisory need.
+Next steps
+The consultation is open for feedback until 27 August 2019. ESMA will consider the feedback it receives to the consultation with a view to finalising the proposed guidelines and publishing a final report in Q4 2019.

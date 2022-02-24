@@ -1,0 +1,13 @@
+GDPR & deploying pseudonymisation techniques
+On 12 November 2019, ENISA, the European Union Agency for Cybersecurity, co-organised a workshop on “Pseudonymisation and relevant security techniques” with the Unabhängige Landeszentrum für Datenschutz Schleswig-Holstein (ULD), the Data Protection Authority of the German Federal State of Schleswig-Holstein.
+Published on November 15, 2019
+
+Tagged with 
+
+
+
+Pseudonymisation is a well-known de-identification process that has gained additional attention following the adoption of GDPR, where it is referenced as both a security and data protection by design mechanism. In addition, in the GDPR context, pseudonymisation can motivate the relaxation, to a certain degree, of data controllers’ legal obligations if properly applied.
+Given the growing importance of pseudonymisation for several data processing sectors, the main objective of the ULD-ENISA workshop, held in Berlin, was to advance existing debates on the deployment of pseudonymisation solutions as a means to meet GDPR requirements and data controller/processor obligations. To this end, the workshop aimed to discuss and touch upon core pseudonymisation techniques, practical approaches and existing application instantiations along to legal and economic issues.
+One of the main outcomes of the workshop was that there is not one single pseudonymisation solution that could be applied in all cases. Indeed, while several different technical approaches are available today, a risk assessment process should provide for the best possible one for each particular case, based on the context and the desired utility level. Further work is, thus, needed as regards practical examples and real-life implementation scenarios, both on the technical, as well as on the legal side.
+For further information and material about the workshop, please visit the dedicated page: .
+ENISA will be publishing a report entitled ‘Pseudonymisation techniques and best practices’ in the coming week. The report aims to contribute to and advance the relevant discussions in the field, regarding practical implementation of data pseudonymisation.

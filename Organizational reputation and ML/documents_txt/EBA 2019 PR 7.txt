@@ -1,0 +1,16 @@
+EBA consults to amend standards on benchmarking of internal models 
+13 December 2019
+The introduction of IFRS9 templates is the main change to the standards;
+The objective of the exercise is to collect data on the IFRS9 expected credit losses;
+In the first phase of the exercise, the EBA will collect data on low default portfolios and focus on the probability of default.
+The European Banking Authority (EBA) launched today a consultation to amend the Commission's Implementing Regulation on benchmarking of internal models to adjust the benchmarking portfolios and reporting requirements in view of the benchmarking exercise it will carry out in 2021. On the credit risk side, the amended standards will allow to complement the analysis of credit risk models through the introduction of IFRS 9 templates and the collection of risk weighted exposure value (RWA) calculated under the Standardised Approach (SA) and hypothetical RWA calculated with empirical default rates. On the market risk side, the framework remains stable, with the consultation restricted to clarifications on the setting of reference dates and instruments/portfolios definitions. The consultation runs until 13 February 2020.
+The main update of the 2021 ITS relates to the introduction of the IFRS 9 benchmarking templates. In line with the staggered approach communicated by the EBA in the , in this first phase of the exercise, the IFRS 9 templates solely collect data on low default portfolios (LDP) with a focus on the probability of default (PD).
+The objective of the exercise is to collect quantitative data on the IFRS 9 Expected Credit Loss (ECL) parameters and other relevant information that, combined with a qualitative questionnaire to be filled by the institutions separately, will be used to gain a deeper understanding of the different methodologies, models, and scenarios that could lead to material inconsistencies in ECL outcomes, affecting own funds and regulatory ratios.
+Consultation process
+Responses to the consultations can be sent to the EBA by clicking on the "send your comments" button on the consultation page.
+All contributions received will be published after the consultation closes, unless requested otherwise. The deadline for the submission of comments is 13 February 2020.
+A public hearing on this consultation will take place at the EBA premises on 3 February 2020 from 15:00 to 17:00 CET. Deadline for registration is 21 January 2020 at 16:00 CET.
+Legal basis
+These draft ITS have been developed in accordance with article 78 of the Capital Requirements Directive (CRD), which requires the EBA to specify the benchmarking portfolios, templates and definitions to be used as part of the annual benchmarking exercises. These are used by competent authorities to conduct an annual assessment of the quality of internal approaches used for the calculation of own funds requirements.
+In addition, IFRS9, the new international accounting standard recently adopted, introduced new rules for the measurement of credit losses. As a result, it directly impacts on the amount of own funds and regulatory ratios reported and it is, therefore, necessary to reflect such impact also on the reporting requirements under Regulation (EU) No 2016/2070 as regards benchmarking portfolios, reporting templates and reporting instructions.
+

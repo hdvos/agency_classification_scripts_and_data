@@ -1,0 +1,12 @@
+ESMA PUBLISHES ITS ANNUAL PEER REVIEW REPORT ON EU CCPS SUPERVISION
+22 July 2019 
+POST TRADING
+The European Securities and Markets Authority (ESMA) has today published its on the overall supervision of EU Central Counterparties (CCPs) by National Competent Authorities (NCAs).
+The review focused on the effectiveness of NCAs supervisory practices to assess CCPs’ compliance with EMIR’s requirements on collateral and funding arrangements.
+Overall, the review found that NCAs’ supervisory activities on CCPs’ collateral and funding arrangements, is satisfactory. However, the review found that the use by NCAs of quantitative metrics to assess the liquidity and low market risk of collateral was quite limited. While, regarding funding arrangements, the degree of convergence on the basic conditions that identify committed credit and repo lines is in general high, different supervisory practices apply for pre-arranged funding arrangements involving repos and liquidity generation from outright sales of securities.
+The report also identifies several best practices and considerations to further enhance supervisory convergence with respect to CCPs’ collateral and liquidity arrangements.  
+On the functioning of the colleges, ESMA acknowledges the efforts of chairing NCAs to meet the expectations and best practices highlighted in past peer reviews in this area.
+ESMA will follow up on the report’s findings to identify, where relevant, the most appropriate tools to further enhance supervisory convergence.
+Background
+ESMA is required, at least annually, to conduct a peer review analysis of the supervisory activities of all NCAs in relation to the authorisation and the supervision of CCPs in accordance with Article 30 of Regulation (EU) No 1095/2010 (ESMA Regulation).
+ESMA’s peer reviews under EMIR assess the overall functioning of CCP colleges and provide an in-depth analysis of supervisory activities by NCAs on CCPs in relation to EMIR’s requirements. The reviews also assess if NCAs are following the relevant guidelines and opinions agreed at ESMA and identifies best practices.

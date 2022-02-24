@@ -1,0 +1,13 @@
+MIFID II: ESMA MAKES NEW BOND LIQUIDITY DATA AVAILABLE
+08 November 2019 
+MIFID - SECONDARY MARKETS
+MIFID II: TRANSPARENCY CALCULATIONS AND DVC
+The European Securities and Markets Authority (ESMA) has started today to make available new data for bonds subject to the pre- and post-trade requirements of the Markets in Financial Instruments Directive (MiFID II) and Regulation (MiFIR) through its data register.
+As on 30 October 2019, ESMA has started today to make available the latest quarterly liquidity assessment for bonds available for trading on EU trading venues. For this period, there are currently 611 liquid bonds subject to MiFID II transparency requirements.
+ESMA’s liquidity assessment for bonds is based on a quarterly assessment of quantitative liquidity criteria, which include the daily average trading activity (trades and notional amount) and percentage of days traded per quarter. ESMA updates the bond market liquidity assessments quarterly. However, additional data and corrections submitted to ESMA may result in further updates within each quarter, published in ESMA’s , which shall be applicable the day following publication. 
+The full list of assessed bonds will be available through FITRS in the XML files with publication date from 8 November 2019 () and through the Register web interface ().
+As communicated on , ESMA is also publishing two  related to bond liquidity data.
+Background
+MiFID II became applicable on 3 January 2018 introducing, amongst others, pre- and post-trade transparency requirements for equity and non-equity instruments, including for bonds. Post-trade, MiFID II requires real-time publication of the price and quantity of trades in liquid bonds. It is possible to defer the publication of post-trade reports if the instrument does not have a liquid market, or if the transaction size is above large-in-scale thresholds (LIS), or above a size specific to the instrument (SSTI). In order to assist market participants to know whether a bond should be considered as liquid or not, ESMA publishes these quarterly liquidity assessments for bonds.
+Next steps
+The transparency requirements for bonds deemed liquid today will apply from 16 November 2019 to 15 February 2020. 

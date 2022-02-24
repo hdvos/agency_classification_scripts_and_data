@@ -1,0 +1,14 @@
+How will pharmacovigilance look in 2030? 
+Share
+News 10/12/2019
+Smarter collection and reporting of safety reports of suspected adverse reactions, measurement of on-market performance of medicines, and improved engagement between regulators, patients and healthcare professionals will be key elements of  in 2030. These predictions are made in an  from Guido Rasi, EMA's Executive Director, Sabine Straus, the chair of EMA's safety committee () and Peter Arlett, the Agency's Head of  and Epidemiology, published in Clinical Pharmacology and Therapeutics.
+Medicines prevent, diagnose or treat diseases, but they also can have side effects. Therefore, their risks need to be balanced against their benefits and only medicines with a positive benefit-risk balance are authorised for marketing in the EU. The  has established a robust system for monitoring and managing the risks of medicines on the market. Coordinated by EMA, this 
+
+pharmacovigilancesystem is designed to enable patients to benefit from medicines while making them as safe as possible.
+ systems across the globe are changing significantly due to technology advancements, increasing volumes of data available to regulators and companies, and increasing engagement of patients in healthcare decision making. In this context, the authors anticipate three major trends in the next ten years.
+ (ICSR) will continue to be a key data source for detecting potential new safety issues and can be further improved. By 2030, ICSR reporting will be much smarter. New technologies such as e-Health applications, as well as ongoing collaboration between the industry and regulators to revise the  provide opportunities to optimise the collection and management of ICSRs.
+
+
+Pharmacovigilance has made great progress in moving from a reactive activity driven solely by spontaneous reports of suspected adverse reactions to a more proactive monitoring activity based on careful planning before the product is placed on the market. By 2030, for key new medicines this monitoring will encompass both the safety and  of medicines and will facilitate real-time decision-making by regulators to optimise the safe and effective use of medicines. 
+In 2030, regulators will dedicate significantly more time to engaging with patients and healthcare professionals and thus ensuring that the information provided to them is impactful. Here the authors highlight the electronic , which will be updated near real-time to support prescription, dispensing, and use of medicines.
+The  is freely available in Clinical Pharmacology and Therapeutics.

@@ -1,0 +1,21 @@
+Get ready for new REACH requirements for nanomaterials
+ECHA/NR/19/35
+By 1 January 2020, companies must provide more information on nanomaterials on the EU market under the REACH Regulation. ECHA encourages potential registrants to familiarise themselves with the new legal requirements and get ready.
+Helsinki, 8 October 2019 – The new information requirements concern companies that manufacture or import nanoforms of substances that are subject to registration under REACH. Nanoforms of substances are those that fulfil the European Commission’s recommendation for a definition of a nanomaterial. The revised REACH annexes addressing nanoforms introduce clarifications and new provisions for:
+characterisation of nanoforms or sets of nanoforms covered by the registration (Annex VI);
+the chemical safety assessment (Annex I);
+registration information requirements (Annexes III and VII-XI); and
+downstream user obligations (Annex XII).
+The purpose is to make sure companies provide enough information to demonstrate the safe use of their nanoforms for human health and the environment. The amendments apply to all the new and existing registrations covering nanoforms. This means that registrants are expected to update their existing dossiers with nanoform-specific information by 1 January 2020.
+Available guidance and test guidelines
+ECHA’s new nano-specific guidance helps companies to comply with the changes in Annex VI. In addition, the guidance on read-across between nanoforms or sets of nanoforms is being updated to reflect the changes. Both documents are expected to be ready by the end of 2019. The draft documents are published on the .
+The 2017 ECHA guidance for human health and the environment is also being updated. The OECD is revising some of their existing test guidelines used under REACH, to ensure that data generated on nanoforms is reliable and meets regulatory standards. An  are available on the EU observatory for nanomaterials (EUON).
+IT tools and reporting formats for nanomaterials
+On 30 October 2019, IUCLID will be updated with new data fields for reporting the characteristics of nanoforms and sets of nanoforms. From that day onwards, registrants who intend to submit registrations covering substances in nanoform must provide complete characterisation information on their nanoforms or sets of nanoforms. The completeness check will include a verification that the sets of nanoforms are accompanied by a justification for creating the set. As before, the IUCLID tool will include the means to link these nanoforms or sets of nanoforms with the relevant data on their properties and hazards in the other parts of the dossier.
+The updated IUCLID manual will advise registrants on how to fill the data fields. They are also encouraged to use the Validation assistant tool to check that all the required elements for their nanoforms are included before submitting their dossier to ECHA.
+ECHA will update its manual on dissemination and confidentiality under the REACH Regulation, which, together with the Dissemination preview tool in IUCLID, will assist registrants in preparing their dossiers.
+Companies submitting information on nanoforms must use the new version of IUCLID as it is not possible to prepare a successful submission with previous versions.
+Support activities
+ECHA is hosting a  to introduce the guidance on identifying and reporting nanoforms and sets of nanoforms. During the webinar, companies have the possibility to get advice directly from ECHA’s experts.
+ECHA’s helpdesk is ready to assist companies to prepare for the new requirements.
+

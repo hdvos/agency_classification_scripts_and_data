@@ -1,0 +1,9 @@
+19/03/2019
+Creation of ECRIS-TCN Approved by European Parliament 
+MEPs agreed in a vote today to create a new database on the past convictions of third country nationals (ECRIS-TCN), to complement the existing European Criminal Records Information System (ECRIS) that is used to exchange information on the previous convictions of EU citizens.
+The new centralised database will improve the exchange of information in regard to criminal records of non-EU nationals, throughout the EU, contributing to the EU's fight against cross-border crime and terrorism.
+The new ECRIS Third Country National (ECRIS-TCN) system will:
+Enable national authorities to quickly establish whether any EU member state holds criminal records on a non-EU citizen,
+Include data on dual nationals, who possess the nationality of a third country and of an EU country to ensure that individuals cannot hide past convictions simply by virtue of having two passports.
+The Parliament and Council negotiators have agreed that Europol, Eurojust and the future European Public Prosecutor's Office will also have access to ECRIS and the Third Country National system, in addition to judges and prosecutors in EU countries.
+ECRIS-TCN will be developed and managed by eu-LISA. A Member State wishing to identify the Member State(s) holding criminal record information on a particular TCN can do so by performing a 'hit/no hit' search in the central TCN system.

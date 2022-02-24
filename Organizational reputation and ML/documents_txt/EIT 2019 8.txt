@@ -1,0 +1,18 @@
+EIT InnoEnergy start-up brings innovative solution to market
+News 03/12/2019 
+
+ supported start-up, , is bringing to market a new ultracapacitor product platform, the SkelCap SCA0300.
+It is aimed to address the fast-growing markets in manufacturing and warehouse logistics.
+New opportunities for ultracapacitor-powered solutions
+The strict power quality requirements in manufacturing are driving the demand for ultracapacitor-based UPS solutions, and the SCA0300 product platform is ideally suited to systems ensuring high power quality to protect sensitive manufacturing equipment.
+The growth of warehouse and fulfilment centre robotics is driven by the rapid growth of e-commerce. Changing consumer behaviour and expectations of quick deliveries are creating new opportunities for ultracapacitor-powered solutions in intralogistics where shuttle and AGV (Automated Guided Vehicle) manufacturers are replacing batteries with ultracapacitor solutions due to power, reliability, and lifetime advantages.
+SCA0300 advantages
+At 300F, the new product platform is Skeleton’s answer to one of the most popular ultracapacitor sizes on the market and is designed to be easily mountable to PCB boards, allowing efficient assembly for a variety of applications. The high power and excellent thermal characteristics of SCA0300 are the result of the low ESR, or internal resistance, of the cell – something of a Skeleton Technologies speciality.
+The decision to develop a product platform in the 300F size and form factor came down to significant interest from the market, proven by the various applications already utilizing this cell size. The advantages provided by our low resistance and our patented manufacturing technologies make the SCA0300 the leading product platform in terms of power density, low heat generation, and lifetime.
+We have already made a successful market entry in the elevator market by reducing the energy consumption of elevators, together with Epic Power, and are proud to be saving energy by tens of percents in elevators, both for new installations and in retrofit projects around the world.
+Dr. Sebastian Pohlmann, Head of Cell Development at Skeleton Technologies
+Additional benefits
+The central location and modern production technologies applied at Skeleton Technologies’ production facility in Saxony, Germany, provide further advantages to customers for the cell packs and modules based on the new product platform.
+The new SCA0300 product platform, combined with our ultracapacitor management system and modern production processes, enables us to provide reliable, state-of-the-art ultracapacitor modules at a cost-efficient price point, while still maintaining the highest performance and quality in the industry. The SCA0300 also complies with the strict IATF standard used in the automotive industry, ensuring the safety, quality, and reliability required in not only passenger vehicles, but for applications in medical machinery, oil & gas, grid, and renewable energy production.
+Taavi Madiberk, CEO of Skeleton Technologies
+Curious about the UL-certified solution for high-power applications?

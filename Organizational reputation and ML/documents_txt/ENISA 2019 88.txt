@@ -1,0 +1,20 @@
+CSIRTs and incident response capabilities in Europe
+As part of its continuous efforts to assist the EU Member States with their incident response capabilities, ENISA publishes a study on the recent and current evolution of Computer Security Incident Response Teams (CSIRTs) and Incident Response (IR) capabilities in Europe.
+Published on February 06, 2019
+
+Copyright: Shutterstock
+Tagged with 
+
+ focuses on providing insights on whether cooperation between different players, particularly CSIRTs, is spontaneous or driven by regulation. The prospective vision of the analysis tries to identify the key evolutions in the CSIRT-IRC landscape within a 5-year timeframe.
+
+For the purpose of this study, ENISA specialists mapped both newly emerging and already-existing CSIRTs, investigating their policies across and outside of Europe. In this process, NIS experts identified and analysed 81 new CSIRTs, as well as a corpus of 36 policy, regulatory and strategic documents relating to the development of cyber incident-response capabilities.
+The main findings of the study are:
+The implementation of the NIS Directive fosters the adoption of a holistic approach towards IR and an upward alignment of national capabilities;
+The NIS Directive may have a positive effect at the international level and provides the EU with a status of ‘norm setter’;
+IR capability development of national administration and operators of essential services emphasizes the relevance of collaboration at national and European level;
+Successful cooperation initiatives in the field of Incident Response Capabilities at an international level are driven by public-private partnerships;
+There is an important development of IR services in the European private sector; however, new vulnerabilities tend to target the hardware layer of devices manufactured outside of Europe;
+Acknowledging their exposure to cyber risks, military players tend to follow the same dynamics as the civilian sector when developing their IR capabilities.
+ in a context of increasing dependency on digital infrastructures. They perform an important function throughout the crisis management process, from identifying security incidents, protecting organisations against attacks, disseminating information on threats and recovering from incidents. 
+
+ENISA has a  on its public website, which provides an overview of the current situation concerning CSIRT teams in Europe. This inventory provides a list of publicly listed incident response teams that can be visualised via an interactive mapping tool.

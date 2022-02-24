@@ -1,0 +1,13 @@
+Cybersecurity certification: lifting the EU into the cloud
+A candidate cybersecurity certification scheme for cloud services is in the works by ENISA, the European Union Agency for Cybersecurity.
+Published on December 02, 2019
+
+Tagged with 
+
+
+
+In accordance with article 48(2) of the EU Cybersecurity Act, the European Commission has requested ENISA to prepare a cybersecurity certification candidate scheme for cloud services, taking into account existing and relevant schemes and standards.
+Cloud services provide important business opportunities for public administration and businesses. A single European cloud certification is critical for enabling the free flow of non-personal data, which allows for the unrestricted movement of data across borders and information systems within the EU.
+The cybersecurity certification of cloud services will bring enhanced trust and legal certainty in the security of cross-border data processing, as acknowledged by the Free Flow of Data Regulation.  Certified cloud services will reinforce the impact of this regulation helping the EU data economy to further contribute to GDP growth.
+The Commission has facilitated the work of the Cloud Service Provider Certification (CSPCERT) Working Group in this area. CSPCERT is a private and public stakeholder group, which has worked to provide a recommendation in relation to the security certification of cloud services to ENISA, the European Commission and the Member States, available here: .
+A call for expressions of interest for an Ad-Hoc Working Group for Cloud Cybersecurity Certification will be launched in due course and will be posted on the ENISA website.

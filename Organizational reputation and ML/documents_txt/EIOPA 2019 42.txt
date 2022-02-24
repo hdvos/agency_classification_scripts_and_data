@@ -1,0 +1,11 @@
+EIOPA analyses costs and past performance of insurance and pension products
+NEWS
+ 
+DATE:
+ 
+10 Jan 2019
+​The European Insurance and Occupational Pensions Authority (EIOPA) published today its first Report on Costs and Past Performance of insurance and pension products following a request of the European Commission to the European Supervisory Authorities (ESAs) to periodically report on costs and past performance of retail investment, insurance and pension products.
+This first report provides aggregate data on the costs of insurance-based investment products (IBIPs) across the European Union as well as for certain similar personal pension products (PPPs) and sets out the net performance for the period between 2013 and 2017. It is based on data derived from Key Information Documents (KIDs).  On past performance insufficient data is available from market providers therefore, EIOPA requested additional data from insurance undertakings. Similar requests were necessary for personal pension products.
+The report shows that costs vary depending on the type of product, premium, risk category and jurisdiction. Variations in asset management costs related to different risk categories are a major factor.
+The report concludes that due to the differences between products, there are significant challenges with comparing performance, for example in view of the values of guarantees, the impact of smoothing mechanisms and terminal bonuses of profit participation products, and the impact of risk and volatility.
+This analysis is a pilot exercise. Given data and comparability limitations, a significant portion of the sample could not be used and consequently market coverage is limited. To address these issues, EIOPA will further develop common definitions of costs and common methods for calculation of past performance, especially for profit participation products.

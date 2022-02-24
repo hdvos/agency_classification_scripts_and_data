@@ -1,0 +1,16 @@
+GIANO – robust GNSS for critical infrastructure
+Published: 
+16 December 2019
+
+The GIANO receiver will make critical infrastructure such as energy networks more robust against jamming and spoofing. ©Unsplash
+Thales Alenia Space has been awarded a grant under the European GNSS Agency’s (GSA) Fundamental Elements funding mechanism for the development of the GIANO (Galileo-based TIming Receiver for CriticAl INfrastructure Robustness) receiver, which aims to make critical infrastructure more robust against interference, jamming and spoofing.
+In an increasingly complex GNSS environment in which there is both unintentional and deliberate disruption of satellite signals, the GSA is funding the development of a timing receiver for professional applications to address the needs of the critical infrastructure user community, mainly energy generation and distribution, telecommunications and financial operators. 
+Improved resilience
+The GIANO receiver will leverage Galileo and EGNOS-driven innovation to improve the resilience of the receiver against interference, jamming and spoofing and increase the accuracy and reliability of the time transfer service. The timing platform prototype to be developed and validated will integrate all the latest innovative technologies, including professional products from Thales Alenia Space, paving the way for future Galileo-based timing receivers that offer improved resilience and accuracy at a reasonable cost.
+Read this: 
+“Critical infrastructure operators use GNSS for timing and synchronisation and are an important target segment for GSA Market Development because Galileo can make a difference. By funding the development of the GIANO receiver, the GSA aims to provide technological solutions to this community for robust and reliable timing,” said GSA Head of Market Development Fiammetta Diani.
+Towards this goal, outreach activities have been conducted among potential final users in the main commercial target groups to collect and analyse their needs. Then, following the definition and consolidation of stakeholders’ needs and the platform specifications, the project conducted a Preliminary Design Review at the end of November 2019.  
+Europe-wide cooperation
+The two-year project, funded under a GSA grant related to the Development of a Galileo-based timing receiver for critical infrastructures (GSA/GRANT/05/2017), will be coordinated by Thales Alenia Space in Italy, in collaboration with four European partners: Business Integration Partners S.p.A (BIP, Italy), PIKTime Systems (Poland), Space Research Centre of the Polish Academy of Science (SRC PAS, Poland) and DEIMOS (Portugal).
+And this: 
+The project will also benefit from the support of the European Commission’s in-house science service - the Joint Research Centre (JRC) and the Italian National Metrology Institute (INRIM), which will make available its test facilities for verification activities on the developed equipment.

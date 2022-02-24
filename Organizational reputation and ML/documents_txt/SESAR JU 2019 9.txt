@@ -1,0 +1,11 @@
+Putting business needs in the driving seat
+Feb. 22, 2019
+Airlines have specific business priorities, yet the processes currently used to manage demand and capacity of the airspace offer only limited flexibility to incorporate these priorities into the system. SESAR members are brainstorming how to better take into account users’ preferences in order to optimise the use of the airspace and improve the predictability of traffic.
+From late 2017 to Spring 2018, partners in the SESAR project “Optimised airspace user operations (PJ.07 OAUO)” ran brainstorming and gaming sessions with representatives from the airspace user community, air navigation service providers and the Network Manager. Together they put to the test the integration of user preferences into the demand and capacity balancing (DCB) process of the ATM system, allowing airlines to express their preferences in case their initial flight plan could not be respected.
+Specifically, the tests sought to integrate the following information to help airlines make better decisions with regard their flight planning:
+Advanced congestion level indicator (A-CLI) – a measurement of the level of airspace saturation along a planned trajectory.
+Airspace user preferences: data associated to a flight to help the NMF to take decisions that will have the least impact and that will help resolve imbalances and/or hotspots.
+Absolute priority (A-PRIO) – indicators based on the information provided by all the airlines to support NMF in the selection of the set of flights for which potential DCB measures will minimise impacts.
+The tests revealed that the integration of user preferences are useful for improving the short-term planning phase. They found that while tactical coordination by airlines decreased, it increased for NMF actors. They also noted that technologies such as machine learning and automation could improve the predictability of traffic and the efficiency of coordination between stakeholders. Those participating in the tests found the indicators useful to assess the stability of the traffic in a sector or identify candidate flights upon which to impose measures.  
+ for further information on the exercice
+This project has received funding from the SESAR Joint Undertaking under the European Union’s Horizon 2020 research and innovation programme under grant agreement No. 733020

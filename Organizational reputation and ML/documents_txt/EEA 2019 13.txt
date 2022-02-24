@@ -1,0 +1,18 @@
+Gap between real-world and type-approval emissions undermines incentives for cleaner cars
+
+PDF
+News  Published 24 Sep 2019  Last modified 10 Dec 2019  2 min read
+Image copyright: Thomas Somme on Unsplash
+Climate change mitigation Transport Policy instruments
+Incentives to promote fuel-efficient cars have not always resulted in expected emission reductions, due to the growing gap between real-world and type approval emissions. However, according to a new European Environment Agency (EEA) briefing, incentives that boost the uptake of electric vehicles considerably reduce greenhouse gas and air pollutant emissions.
+The EEA briefing ‘Fiscal instruments favouring electric over conventional cars are greener’ sums up evidence on the effect of financial schemes to promote the uptake cars with lower carbon dioxide (CO2) emissions in seven European countries. The briefing is based on a recent study by the European Topic Centre on Air Pollution, Transport, Noise and Industrial Pollution.
+
+The briefing shows that European countries that have actively promoted electric vehicles have significantly reduced the average CO2 emissions from new cars. This has also resulted in other clear benefits, such as reduced emissions of air pollutants, including nitrogen oxides (NOx) and particulate matter.
+
+However, the effects of tax incentives that promote conventional fuel-efficient cars are less clear, the briefing states. These incentives are based on type-approval emissions tested in the laboratory, which are lower than the real-world emissions on the road. As the gap between type-approval CO2 emissions and real-world emissions has increased, the real-world emissions of new cars have decreased significantly less than expected.
+
+Testing vehicle emissions
+The emissions of new vehicles are systematically tested under standardised laboratory conditions, using ‘type approval’ procedures. Since 2017, the new Worldwide Harmonized Light Vehicle Test Procedure (WLTP) has been put in place, with the objective to gradually replace the outdated New European Driving Cycle (NEDC). The WLTP allows to obtain more realistic information on vehicle emissions in the type approval tests. In 2018, Member States reported both NEDC and WLTP emission factors for around 4.4 million cars (around 30 % of new registrations). For those vehicles, the WLTP emission factor was on average 20 % higher than the NEDC emission factor.
+
+EEA activities
+The EEA collects and regularly makes available data on new passenger cars and vans registered in Europe, in accordance with EU Regulation (EC) No 443/2009 and Regulation (EU) No 510/2011. The data reported by all EU Member States and Iceland in order to evaluate the efficiency of the new vehicle fleet includes information on CO2 emissions and vehicle mass. For the first time, data reported by Iceland were also included.

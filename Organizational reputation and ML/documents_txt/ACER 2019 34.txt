@@ -1,0 +1,20 @@
+ACER decision on the methodology for pricing cross-border capacity in the intraday electricity market
+
+25/01/2019
+TwitterFacebookLinkedInE-mail
+​The Agency published today a decision setting the framework for the pricing of capacity among bidding zones in the intraday electricity market. The intraday market is becoming increasingly important as more renewable power enters the grid.
+
+The methodology establishes the framework for the pricing of intraday cross-zonal capacity. The chosen model introduces three pan-European implicit auctions to price cross-zonal capacity, which will complement the already functioning single intraday coupling based on continuous trading. The implementation timeline, and where relevant, the conditions for the implementation of these three intraday auctions, will be developed in the framework of the amendment of the algorithm methodology.
+
+
+ Link to the decision
+Link to the adopted methodology for pricing cross-border capacity in the intraday electricity market (ANNEX I) 
+
+
+Background
+
+
+In July 2018, the Agency became competent to decide on the proposal from all Electricity Transmission System Operators on the methodology for pricing intraday cross-zonal capacity. 
+The Agency's decision amends the methodology in several instances in which the methodology was not in line with the CACM Regulation or described insufficiently the requirements or functionalities. 
+The main amendment relates to the number of pan-European intraday auctions, which will increase from one to three. 
+The implementation timeline, and where relevant, the conditions for the implementation of these three intraday auctions, will have to be developed in the framework of the amendment of the algorithm methodology.

@@ -1,0 +1,12 @@
+ACER adopts decision on coordinated security analysis in electricity
+
+21/06/2019
+TwitterFacebookLinkedInE-mail
+​​​ACER publishes today a decision on the methodology for coordinating operational security analysis for all Transmission System Operators (TSOs). The decision, based on the EU Regulation on System Operation in electricity, will serve as a pan-European frame for the regional proposals on operational security coordination for each capacity calculation region (CCR).
+
+Among other things, the decision covers harmonised rules to identify the elements of TSO's observability area and coordination of remedial actions inside a CCR and between CCRs. The methodology was originally developed by all TSOs and submitted for approval to National Regulatory Authorities (NRAs), before being referred to the Agency. 
+
+The Agency introduced some amendments to the proposal in order to improve its legal clarity, but also to impose more concrete and legally enforceable requirements on TSOs and Regional Security Coordinators (RSCs) with regard to their obligations to design and coordinate remedial actions.
+
+The Decision also includes a requirement for TSOs to develop a probabilistic approach for risk assessment - to handle the reliability and costs of operation of a power system- and further defines the rules to deal with overlapping zones between CCRs as an amendment to the methodology. 
+

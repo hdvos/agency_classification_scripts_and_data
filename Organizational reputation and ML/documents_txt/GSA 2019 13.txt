@@ -1,0 +1,17 @@
+White Paper on EGNSS for drones now available
+Published: 
+19 December 2019
+
+Galileo is already present in more than 30% of the receivers models used for drone applications 
+The drone market is booming and is set to outstrip any other GNSS user base in aviation and open up new business opportunities for application developers, according to a , produced by the European GNSS Agency (GSA).
+In light of the upswing on the drone market, European drone service revenues are expected to nearly double from EUR 32 million in 2018 to approximately EUR 60 million by 2020 and are eventually forecast to reach EUR 150 million by 2023. 
+GNSS is not an option for drones anymore, but a necessary asset. GNSS is essential for the safe and reliable navigation of drones, and GNSS receivers are implemented on almost all new commercial drones as standard. With increasing demand for beyond visual line of sight (BVLOS) operations GNSS, possibly with various augmentations, is the most obvious choice of technology for navigation, although it is not the only one. 
+EGNSS for added accuracy
+Given the additional accuracy that Galileo offers, it is no surprise that Galileo is already present in more than 30% of the receivers used for drone applications, and many of them also implement EGNOS corrections to increase accuracy. The  provides an overview of the added value of EGNOS and Galileo for current and emerging operations, as well as for future U-Space services. 
+Read this: 
+The paper provides a market perspective of GNSS for drones, together with a summary of applications powered by EGNSS and the results of testing campaigns that show the benefits of EGNSS vs GPS in different operational contexts. With Galileo satellites in addition to GPS, drones can use signals from more satellites for position determination which improves their accuracy and also increases the availability of received signals. This is particularly important in urban canyons. 
+Galileo also offers distinct and unique features that benefit drone operations. For example, Galileo’s authentication will provide additional trust in the position, which is more robust against intentional or unintentional interferences. EGNOS corrections also provide improved robustness over Europe and higher safety of navigation as well as improved accuracy, which is especially relevant in the vertical axis for drones operations. 
+Seeking your input
+The paper targets drone manufacturers and operators, but also entrepreneurs planning to offer new services with unmanned platforms. The document can serve as a basis to choose navigation solutions based on EGNOS/Galileo that will increase the robustness of their operations thanks to increased navigation performance. 
+And this: 
+The document is intended to be a living document and we welcome contributions from operators and users who would like to share their experience of using EGNOS and Galileo. Likewise, if you have additional needs that you would like to be met by future evolutions of the EGNSS services, then we would love to hear from you.

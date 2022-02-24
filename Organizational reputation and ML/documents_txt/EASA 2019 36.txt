@@ -1,0 +1,11 @@
+Easy Access Rules for Aerodromes updated
+Related Content
+
+
+EASA has updated the Easy Access Rules for Aerodromes, incorporating the amending Regulation (EU) 2018/401 affecting Annex I, as well as the ED Decision 2019/012/R.
+
+This publication includes the current applicable Implementing Rules (IRs), Acceptable Means of Compliance (AMC), Certifications Specifications (CS) and Guidance Material (GM) displayed in a consolidated, easy-to-read format, and offers advanced navigation features through links and bookmarks.
+
+It covers all annexes of Regulation (EU) No 139/2014, i.e. Annex I ‘Definitions’, Annex II ‘Part Authority Requirements – Aerodromes’ (Part-ADR.AR), Annex III ‘Part Organisation Requirements – Aerodrome Operators’ (Part-ADR.OR), Annex IV ‘Part Operations Requirements – Aerodromes’ (Part-ADR.OPS), AMC and GM (Amendment 2), as well as CS and GM for Aerodromes Design (CS-ADR-DSN Issue 4)) and CS and GM for Heliports Design (CS-HPT-DSN Issue 1).
+
+As a novelty, the Annex to the ED Decision 2019/012/R for the design of surface-level VFR heliports located at aerodromes that fall under the scope of Regulation (EU) 2018/1139, has also been generated through the eRules platform.

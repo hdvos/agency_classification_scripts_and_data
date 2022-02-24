@@ -1,0 +1,14 @@
+ENISA proposes Best Practices and Techniques for Pseudonymisation 
+The European Union Agency for Cybersecurity (ENISA) published a new report on “Pseudonymisation Techniques and Best Practices”, which explores the basic notions of pseudonymisation, as well as technical solutions that can support implementation in practice.
+Published on December 03, 2019
+
+Tagged with 
+
+
+
+
+
+In the light of the General Data Protection Regulation (GDPR), the challenge of proper application of pseudonymisation to personal data is gradually becoming a highly debated topic in many different communities, ranging from research and academia to justice and law enforcement and to compliance management in several organisations across Europe.
+The ENISA ‘Pseudonymisation techniques and best practices report’, amongst other, especially discusses the parameters that may influence the choice of pseudonymisation techniques in practice, such as data protection, utility, scalability and recovery. It also builds on specific use cases for the pseudonymisation of certain types of identifiers (IP address, email addresses, complex data sets).
+One of the main outcomes of the report is that there is no single easy solution to pseudonymisation that works for all approaches in all possible scenarios. On the contrary, it requires a high level of competence in order to apply a robust pseudonymisation process, possibly reducing the threat of discrimination or re-identification attacks, while maintaining the degree of utility necessary for the processing of pseudonymised data.
+On 12 November 2019, ENISA in co-operation with the Data Protection Authority of the German Federal State of Schleswig-Holstein (ULD) held a dedicated workshop on “Pseudonymisation and relevant security techniques” that aimed to further discuss and elaborate on the current state-of-the-art and existing experience on this field.

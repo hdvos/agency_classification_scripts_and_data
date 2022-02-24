@@ -1,0 +1,14 @@
+EBA consults on its proposals to create a STS framework for synthetic securitisation 
+25 September 2019
+The European Banking Authority (EBA) launched today a 2-month public consultation on its proposals for a simple, transparent and standardised (STS) framework for synthetic securitisation. This ground-breaking work on synthetic securitisation unveils new data and insights into post-crisis market developments and trends, including data on historical default and loss performance. It also proposes a list of criteria to be considered when labelling the synthetic securitisation as ‘STS'. While the Discussion Paper does not provide any recommendations on any potential differentiated regulatory treatment, it does seek stakeholders' input about the possibility, its potential impact and other considerations. The consultation runs until 25 November 2019.
+The proposed STS criteria for balance sheet synthetic include requirements on simplicity, standardisation and transparency similar to those applied to traditional securitisation. In addition, the criteria need to meet a number of synthetic-specific requirements, such as those on mitigating counterparty credit risk, including on eligible protection contracts, counterparties and collateral; those addressing various structural features of the securitisation transaction; and those ensuring that the framework only targets balance sheet synthetic securitisation.
+The paper also examines the rationale of the STS synthetic product and assesses positive and negative implications of its possible creation and label as "STS".
+Finally, the discussion paper provides a balanced analysis of possible introduction of a limited and clearly defined differentiated regulatory treatment of the STS synthetic securitisation.
+Stakeholders are invited to comment on the possibility of introduction of an STS framework for synthetics as well as on the regulatory treatment and potential market impact of the proposals laid out in the discussion paper.
+Consultation process
+Comments to this consultation can be sent to the EBA by clicking on the "send your comments" button on the consultation page. Please note that the deadline for the submission of comments is 25 November 2019.
+ A public hearing will take place at the EBA premises on 9 October 2019 from 14.00 to 16.00.
+All contributions received will be published following the end of the consultation, unless requested otherwise.
+Legal basis
+The Discussion Paper has been developed in response to a mandate assigned to the EBA in the Article 45 of the Securitisation Regulation (Regulation (EU) 2017/2402), which requires the EBA, in close cooperation with ESMA and EIOPA, to publish a report on the feasibility of a specific framework for simple, transparent and standardised (STS) synthetic securitisation, limited to balance sheet securitisation.
+

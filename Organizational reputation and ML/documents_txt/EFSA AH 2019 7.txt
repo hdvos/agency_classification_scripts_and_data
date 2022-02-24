@@ -1,0 +1,16 @@
+Animal health: harmonised data collection for more effective risk assessment
+
+
+A report published today marks a step forward in efforts to make the process for collecting data on animal diseases in the European Union more agile. The report proposes an approach that optimises the way data are gathered by Member States and submitted to EFSA for analysis and reporting.
+
+This is the first report of the SIGMA project, which aims to automate data submissions on disease outbreaks, surveillance and domestic animal populations.
+
+EFSA regularly collects data from Member States on animal diseases such as African swine fever, lumpy skin disease, and avian influenza, which are then analysed for risk assessment purposes. However these data are often difficult to compare and analyse because they are collected using different methods and reported in different languages.
+
+The proposed approach automatically translates data currently collected by Member States into a common language and stores them logically – like books on the shelves of a library.
+
+Gabriele Zancanaro, who manages the project, said: “The approach aims to deliver the first structured library of information on animal diseases. This will save a lot of time and resources for Member States that submit data to EFSA and will allow EFSA to produce scientific assessments of higher quality in a shorter time.”
+
+Data providers from Italy and Spain are already engaged in the project. Those who want to take part can send an email to alpha@efsa.europa.eu
+
+SIGMA Animal Disease Data Model: A comprehensive approach for the collection of standardised data on animal diseases

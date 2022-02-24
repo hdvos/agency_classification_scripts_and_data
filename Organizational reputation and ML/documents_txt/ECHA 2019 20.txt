@@ -1,0 +1,7 @@
+New version of EUSES tool helps companies assess biocides
+ECHA/NR/19/33
+The update of the European Union System for the Evaluation of Substances (EUSES) revives a tool that has been available since the 1990s, but not maintained since 2012. It will help companies and authorities assess the environmental impact of biocidal active substances. 
+Helsinki, 1 October 2019 – The new version aims to address the immediate needs of companies and authorities performing environmental risk assessment for biocides. New and updated emission scenarios developed since 2012 for biocides have been added to the tool.
+EUSES users in industry and Member States can assess active substances in 18 biocidal product-types. For two product-types – veterinary hygiene and insecticides – missing emission scenarios will be made available as separate tools on ECHA’s website. The emission pathway of direct release to the environment has been included in EUSES throughout all the assessment steps.
+A new version of the SimpleTreat model (4.0), which assesses the fate and distribution of a substance in a sewage treatment plant, has also been added.
+The update focuses solely on biocides. For REACH, companies can also use the Chemical Safety Assessment and Reporting tool (Chesar). In the long term, ECHA is looking to develop a central tool to harmonise chemical risk assessment for REACH and biocides.

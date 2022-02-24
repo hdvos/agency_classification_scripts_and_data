@@ -1,0 +1,9 @@
+How to ensure that novel analytic methods are fit for decision-making
+ 
+Share
+News 02/10/2019
+The past decade has seen the increased generation and availability of new data sources such as real-world evidence, as well as patient-level data from completed randomised . While these data provide an opportunity to learn more about a medicine’s benefits and risks, and can complement the main body of evidence coming from randomised , they will not necessarily translate into credible evidence for regulators and other decision-makers in the absence of adequate statistical methods to extract, analyse, and interpret them.
+In an article published in Clinical Pharmacology & Therapeutics, regulators and academics explain how proper methodological validation can ensure the credibility of these data sources and allow authorities to rely on them to draw reliable scientific conclusions. The article is co-signed by a number of EMA staff members, academics and experts from national regulatory authorities, including EMA’s  Guido Rasi, its Senior Medical Officer, Hans-Georg Eichler, and the Chair and Vice-Chair of EMA’s , Harald Enzmann and Bruno Sepodes.
+To make the novel analytical methods acceptable for regulators and other decision-makers would require their testing and validation in broadly the same way one would evaluate a new medicine: “prospectively, well-controlled and according to pre-agreed plan”, explain the authors.
+One way forward would be for developers to use EMA’s  to validate these methodologies, ideally with active participation of , healthcare payers and . Through this procedure, the  can issue an opinion on the acceptability of a novel analytic method for specific research questions. Developers of novel methodologies should be aware that validation will need to be built into the development plans for some new medicines. 
+The article,  is freely available in Clinical Pharmacology & Therapeutics.

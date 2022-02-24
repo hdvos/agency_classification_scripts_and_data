@@ -1,0 +1,7 @@
+ESMA UPDATES THE ESEF REPORTING MANUAL
+12 July 2019 
+EUROPEAN SINGLE ELECTRONIC FORMAT
+The European Securities and Markets Authority (ESMA), the EU’s securities markets’ regulator, has published today  of its European Single Electronic Format (ESEF) Reporting Manual (Manual). 
+The Manual is aimed at all market participants involved in the implementation of the requirements set out in the , and in particular in the first-time preparation of IFRS consolidated financial statements in Inline XBRL.
+The Manual was originally published by. It is intended to provide guidance on issues commonly encountered when generating Inline XBRL instance documents in compliance with the ESEF Regulation.  Following feedback from market participants, ESMA decided to publish a revised version of the Manual to expand existing guidance and update the guidance included in the original publication. 
+ESMA will continue to monitor relevant markets developments and gather feedback on issues frequently encountered. Where relevant and/or necessary ESMA will provide further guidance to the public.

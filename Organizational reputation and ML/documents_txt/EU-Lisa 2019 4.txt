@@ -1,0 +1,16 @@
+05/02/2019
+Political Agreement for Interoperability between EU Information Systems 
+On 5 February 2019, the European Parliament and the Council reached a preliminary political agreement on the Commission's proposal for two regulations establishing a framework for interoperability between EU information systems for security, migration and border management. The purpose of the regulations is to ensure that border guards and police officers have access to the right information when and where they need it to perform their duties, thus further closing security gaps.
+
+
+According to the Executive Director of eu-LISA, Krum Garkov, reaching a political consensus on the new regulations is an important starting point for eu-LISA. Developing the technical components that will make large-scale IT systems in the EU interoperable needs a solid legislative foundation to build upon.
+
+
+The new components will allow the existing and future EU information systems, such as the Entry/Exit System (EES) and the European Travel Information and Authorisation System (ETIAS) to talk to each other, preventing important pieces of information from going undetected. The new tools will:
+Crosscheck existing data with one click: A European search portal will allow border guards and police to carry out simultaneous checks of identity documents against all EU information systems on a single screen;
+Better detect identity fraud: a common identity repository, which will store biographical data of non-EU citizens will allow border guards and police to better identify dangerous criminals;
+Improve access for law enforcement: once the information searched by an officer matches information contained in one of the systems (i.e. gets a "hit"), he/she will be able to request more targeted access, in line with the specific rules for each system;
+Protect fundamental rights: the rules on access and purpose limitation of the EU's information systems will not change, thus ensuring that fundamental rights remain protected.​
+​Next steps
+The two Regulations establishing the framework for the interoperability of EU information systems for security, border and migration management will now need to be formally adopted by the European Parliament and the Council.
+Once adopted, eu-LISA will be responsible for the development and the roll-out of the technical components that will make EU information systems interoperable. 

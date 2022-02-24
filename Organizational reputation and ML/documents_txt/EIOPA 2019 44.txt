@@ -1,0 +1,25 @@
+EIOPA consults on guidelines on outsourcing to cloud service providers 
+NEWS
+ 
+DATE:
+ 
+01 Jul 2019
+Today, the European Insurance and Occupational Pension Authority (EIOPA) launched a consultation on guidelines on outsourcing to cloud service providers. These guidelines shall provide guidance to market participants on how the outsourcing provisions set forth in the Directive 2009/138/EC, in the Commission's Delegated Regulation 2015/35 and in EIOPA's Guidelines on System of Governance need to be applied in the case of outsourcing to cloud service providers. The consultation is open until Monday, 30 September 2019.
+In line with its contribution to the European Commission's FinTech Action Plan and taking into account the outcome of its Fourth InsurTech Roundtable on the use of cloud computing by (re)insurance undertakings, EIOPA developed these guidelines addressed to insurance and reinsurance undertakings as well as national supervisory authorities with the following objectives:
+To provide clarification and transparency to market participants avoiding potential regulatory arbitrages
+To foster supervisory convergence regarding the expectations and processes applicable in relation to cloud outsourcing
+The use of cloud outsourcing is a common practice to all financial undertakings and not only to insurance and reinsurance undertakings. Moreover, the main associated risks are similar across sectors. Acknowledging these facts and recognising the potential risks of regulatory fragmentation, in developing these guidelines - in addition to the (re)insurance provisions on outsourcing - EIOPA also considered the most recent guidance published by the European Banking Authority.
+EIOPA's Guidelines cover the following areas:
+Criteria to distinguish whether cloud services should be considered within the scope of outsourcing
+Principles and elements of governance of cloud outsourcing including documentation requirements and list of information part of the notification to supervisory authorities
+Pre-outsourcing analysis, including materiality assessment, risk assessment and due diligence on the service providers
+Contractual requirements
+Management of access and audit rights; security of data and systems; sub-outsourcing, monitoring and oversight of cloud outsourcing and exit strategies
+Principle based instructions for the national supervisory authorities on the supervision of cloud outsourcing arrangements including, where applicable, at group level
+
+Consultation process
+For responding to this consultation please use this link. The deadline for submission of feedback is Monday, 30 September 2019 at 23.59 hrs CET.
+Unless requested otherwise, all contributions received will be published after the deadline for submission.
+Legal basis
+These guidelines have been developed according to Article 16 of the Regulation (EU) 1094/2010. Under this Article EIOPA may issue Guidelines and Recommendations addressed to competent authorities and financial institutions with a view to establish consistent, efficient and effective supervisory practices and ensuring the common, uniform and consistent application of Union law. 
+In accordance with Article 16(3) of that Regulation, competent authorities and financial institutions are required to make every effort to comply with those Guidelines and Recommendations.

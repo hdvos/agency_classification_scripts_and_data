@@ -1,0 +1,13 @@
+Easy Access Rules for Air Traffic Management/Air Navigation Services (Regulation (EU) 2017/373) updated
+Related Content
+
+
+EASA updated the Easy Access Rules for Air Traffic Management/Air Navigation Services, including the ED Decision 2019/022/R amending AMC and GM to ATM/ANS rules on software assurance level requirements for safety (support) assessment of changes to air traffic management/air navigation services functional systems.
+
+The document contains the applicable rules for the providers of Air Traffic Management/Air Navigation Services and other Air Traffic Management network functions, displayed in a consolidated, easy-to-read format with advanced navigation features through links and bookmarks.
+
+It covers Commission Implementing Regulation (EU) 2017/373 and all its annexes, i.e. Annex I ‘Part-Definitions’, Annex II ‘Part-ATM/ANS.AR’, Annex III ‘Part-ATM/ANS.OR’, Annex IV ‘Part-ATS’, Annex V ‘Part-MET’, Annex VI ‘Part-AIS’, Annex VII ‘Part-DAT’, Annex VIII ‘Part-CNS’ Annex IX ‘Part-ATFM’, Annex X ‘Part-ASM’, Annex XI ‘Part-ASD, Annex XII ‘Part-NM’, and Annex XIII ‘Part-PERS’.
+
+This publication will be updated regularly to incorporate further changes and evolution to the content.
+
+Thank you for sending us your feedback and comments to erules@easa.europa.eu.

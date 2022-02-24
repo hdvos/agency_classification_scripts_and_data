@@ -1,0 +1,37 @@
+ACER reports on contractual gas congestion at interconnection points 
+
+28/05/2019
+TwitterFacebookLinkedInE-mail
+The Agency publishes today the sixth edition of the Annual Report on Contractual Congestion at Interconnection Points. Contractual congestion occurs when the demand for firm entry or exit capacity services exceeds the offered capacity. In 2018, congestion has been detected at less than 12% of the entry and exit sides of the Interconnection Points ('IPs') within the EU Gas Transmission Network. 
+
+This report includes the list of contractually congested IPs where the Firm Day Ahead Use-It-or-Lose-It ('FDA UIOLI') mechanism has to be implemented and applied to address congestion at the relevant IPs according to the European Commission's rules on congestion management procedures (CMP). It also reveals to what extent the other CMP have been applied in the European Union and the amount of additional capacity yielded through their use.
+
+The findings of this report are based on the analysis of data from ENTSOG's Transparency Platform (TP) for 2018 – 2020, and data from the three capacity booking platforms (GSA, PRISMA, and RBP), using the auction reports for the calendar year 2018.
+
+6th Congestion Report
+Technical Annex to the 6th Congestion Report​
+How much congestion?
+
+Contractual congestion was identified at 31 IP sides, out of which 6 had already been found congested in 2017 and 2 IP sides have been continuously congested from 2015 onwards. For 15 IP sides, contractual congestion was triggered by the non-offer of firm products with the duration of at least one month, whereas the emergence of auction premia and unsuccessful requests indicated contractual congestion for 16 IP sides.
+
+ 
+
+Has any progress been registered?
+
+Compared to last year's Congestion Report, where 17 out of 262 IP sides were detected as contractually congested, this year, 31 out of 262 IP sides were congested.
+
+Secondary capacity trades were concluded only for five congested IP sides in 2017, compared to seven in 2016.
+
+What comes next?
+
+The Firm Day-Ahead Use-It-Or-Lose-It (FDA UIOLI) mechanism is already applied at 10 of the 31 IP sides detected as contractually congested. This means that at the remaining 25 contractually congested IP sides, the respective National Regulatory Authorities (NRAs) shall require the relevant TSO(s) to implement and apply the FDA UIOLI mechanism or prove that the congested situation is unlikely to reoccur in the following three years.
+
+ACER's main recommendation to NRAs, ENTSOG and TSOs
+
+Improve data reliability: CMP data availability needs to be further improved by ENTSOG/TSOs, by ensuring that auction results with premia and data on all non-available capacity products are uploaded on the ENTSOG's TP, as required by the CMP Guidelines. The list of CAM relevant IP sides needs to be validated to ensure a correct list of IP sides that have to be evaluated in the congestion report.
+
+ACER's recommendations to the European Commission
+
+Revise the CMP Guidelines to enhance the effectiveness of the measures.
+Review the criterion d) of paragraph 2.2.3(1) of the CMP Guidelines to align it with the other congestion criteria.
+Establish a date after which the Agency no longer has to produce a congestion report. ​​

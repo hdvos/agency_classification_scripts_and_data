@@ -1,0 +1,18 @@
+EIOPA publishes its fourth annual analysis on the use and impact of long-term guarantees measures and measures on equity risk
+NEWS
+ 
+DATE:
+ 
+17 Dec 2019
+Today, the European Insurance and Occupational Pensions Authority (EIOPA) submitted to the European Parliament, the Council of the European Union and the European Commission, its fourth . 
+The analysis carried out by EIOPA in the annual reports on long-term guarantees measures and measures on equity risk will serve as a basis for the Opinion on the 2020 review of Solvency II.
+Similar to previous years' analysis, this year's results show that most of the measures are widely used. 699 (re)insurance undertakings in 22 countries with a European market share of 75 % use at least one of the following voluntary measures: 
+The matching adjustment
+The volatility adjustment
+The transitional measures on the risk-free interest rates
+The transitional measures on technical provisions 
+The duration-based equity risk sub-module
+The volatility adjustment and the transitional measure on technical provisions are particularly widely used. The volatility adjustment is applied by 660 undertakings in 22 countries to mitigate the effect of exaggerations of bonds spreads.  The transitional measure on technical provisions is applied by 159 undertakings in 11 countries with respect to contracts concluded before the start of Solvency II in order to ensure a smooth transition to the new regime.
+The average Solvency Capital Requirement (SCR) ratio of undertakings using the voluntary measures is 235 % and would drop to 159 % if the measures were not applied. This confirms the importance of these measures for the financial position of (re)insurance undertakings.
+In addition to the long-term voluntary measures, the report analyses the impact of the extrapolation of risk-free interest rates; for that purpose, an information request to insurance and reinsurance undertakings was carried out by EIOPA. Undertakings assessed the impact of two scenarios to change parameters of the extrapolation. At EUR level, scenario 1 (increase of the last liquid point for the euro from 20 to 30 years) would result in a reduction of the SCR ratio by 31 percentage points and scenario 2 (increase of the last liquid point for the euro from 20 to 50 years) would result in a reduction of the SCR ratio by 52 percentage points. 
+Consistent with the trends observed in the last years, availability of long-term guarantee products is mainly stable or decreasing across EEA. In the 2018 report, approximately half of the jurisdictions observed a reduction in the availability of traditional life insurance products with long-term guarantees and an increase in the availability of unit-linked business. All jurisdictions that observed this trend last year, have responded that the trend has continued this year. Overall, national supervisory authorities have observed a decrease in the size and duration of guarantees. 

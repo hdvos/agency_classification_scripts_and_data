@@ -1,0 +1,5 @@
+2019 ESA LIVING PLANET SYMPOSIUM
+The  took place from 13 to 17 May 2019 in Milan, Italy.
+Sergio Albani chaired a session dedicated to security, focused on how space assets and related downstream products and services are increasingly contributing to more secure societies. More information on the session here: .
+Pablo Vega participated in the Copernicus DataWareHouse Agora session, presenting Copernicus SEA requirements on data access, revisit time, and spectral bands in order for SatCen to provide the best possible service to users, and Denis Bruckert, in the Copernicus Services Agora session, shared views on service evolution along with other members of the Copernicus family.
+Michele Lazzarini presented Research, Technology Development and Innovation activities to exploit Sentinel data for Security applications and chaired a session on Open Science. Finally, Vasilis Kalogirou presented the prospects of IMINT-derived analytics for security applications.

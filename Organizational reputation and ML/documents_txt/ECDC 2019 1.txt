@@ -1,0 +1,18 @@
+ECDC plans e-health proof-of-concept studies from 2020
+Collaboration call
+19 Dec 2019
+
+ECDC is planning to perform a number of e-health proof-of-concept (POC) studies from 2020 for a total of 4 years. These studies will test the feasibility of extracting selected data from a sample of electronic health records (EHR) and/or of laboratory information management systems (LIMS) in Member States for surveillance purposes.
+
+The studies will focus on two surveillance areas: antimicrobial resistance with a focus on detecting pan-drug-resistant pathogens and risk factors for severe influenza, pertussis and invasive pneumococcal disease.
+During the studies, parallel studies will collect and categorise all identified limitations and obstacles. Furthermore, emphasis will be given to the validation of study results.
+The results of the POC studies and evaluation studies will contribute to formulating a set of recommendations for European and national authorities involved in:
+defining EHR and LIMS software requirements,
+regulating data sharing for surveillance in compliance with the General Data Protection Regulation
+implementing national and international data standards,
+implementing data models and data exchange formats and processes, and
+establishing new automated surveillance systems.
+ECDC will support these activities through an open call for tender to be launched in 2020. ECDC aims to conclude a contract with one co-ordinating entity. This co-ordinator will work with pre-selected countries that ECDC invited to participate in the POC.
+Participating countries, or sites within the participating countries, will receive budget for carrying out POCs through subcontracting via the co-ordinator. ECDC chose this approach to ensure that potential tenderers do not compete based on the countries they recruit but only on the quality and financial aspects of their tender.
+ECDC aims at including 10-15 countries. Information on the selected countries/sites will be provided in the upcoming call for tender. The publication of the call for tender is preliminary planned for the first quarter of 2020.
+

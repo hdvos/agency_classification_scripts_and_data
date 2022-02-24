@@ -1,0 +1,19 @@
+Industrial emissions to water decreased in Europe but current levels are still a challenge for European waters
+
+PDF
+News  Published 20 Mar 2019  Last modified 10 Dec 2019  2 min read
+Image copyright: Peter Vadocz, WaterPIX /EEA
+Water and marine environment Industry
+Direct emissions released to water bodies from Europe’s large industrial sites have decreased in recent years for many pollutants. However, industrial pollution transferred through the sewer systems to urban waste water treatment plants (UWWTPs) has slightly increased, putting pressure on the waste water treatment infrastructure. While EU legislation tracks emissions from large industries, the extent of emissions from many small facilities remain largely unknown at European level. These are the key findings of a new European Environment Agency (EEA) analysis on data reported to the European Pollutant Release and Transfer Register (E-PRTR) and under EU legislation on water.
+The EEA report ‘Industrial waste water treatment – pressures on Europe's environment’ analyses recent data about emissions from industry directly to water bodies as well as to sewage systems and onward to UWWTPs. The analysis focuses on the latest information for 2016, when around 3 600 industrial facilities reported at least one direct or indirect pollutant release to water to the E-PRTR database. Only those facilities with discharges above certain thresholds are required to submit these data.
+
+The report shows that industrial sectors with large-scale activities tend to have a higher proportion of direct releases to water, which would require more intense on‑site treatment. Pulp and paper, iron and steel, energy supply, non-ferrous metals and chemicals industry are examples of such sectors. Sectors with typically smaller facilities, and/or less polluted waste water, such as manufacturing and food and drink production, tend to report higher proportions of their releases to the sewer system, often similar in pollutant-loading as releases from domestic sources.
+
+The largest environmental pressures caused by direct releases of pollutants to water bodies, assessed using an eco-toxicity weighting system, comes from single large, or clusters of smaller, thermal power plants, coke ovens and chemical manufacturing plants.
+
+According to a recent EEA assessment on the state of water in Europe, only around 40 % of Europe’s surface water bodies are in good ecological status and 38 % of surface water bodies have good chemical status. Based on national assessments however, in most countries large industrial sources of pollution are identified as being only a relatively small source of pollution to water bodies. The data suggest that industrial facilities not regulated by EU legislation, i.e. smaller sites, may presently exert greater pressure on the quality of water than the larger installations covered by legislation.
+
+Finally, the report identifies several further important knowledge gaps and provides a series of recommendations designed to support policy-makers and to improve the existing reporting mechanisms by UWWTP operators and European countries.
+
+ About E-PRTR
+The European Pollutant Release and Transfer Register (E-PRTR) is the Europe-wide register that provides easily accessible key environmental data from industrial facilities in European Union Member States and in Iceland, Liechtenstein, Norway, Serbia and Switzerland. The register contains data reported annually by more than 30,000 industrial facilities covering 65 economic activities across Europe.

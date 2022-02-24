@@ -1,0 +1,18 @@
+EASA report on “Effectiveness of Flight Time Limitation” recommends enhancing fatigue mitigation measures to prevent fatigue among aircrew
+Related Content
+Scientific study conducted by the European Union Aviation Safety Agency recommends enhancing mitigation measures concerning flight and duty time limitations and rest requirements to prevent high fatigue among aircrew during night flights.
+
+Results of the initial phase of this large European-wide scientific study in the field of Flight Time Limitation (FTL), highlight that prescriptive limits alone are not sufficient to prevent high fatigue during night flights. Further research is recommended alongside other actions to support air operators with their responsibility to tailor more effective fatigue risk management strategies for night duties.
+
+The initial phase assessed the impact of ‘night duties longer than 10 hours’ and ‘disruptive schedules’ on the alertness of aircrews. Research found an increased probability of high fatigue levels, especially during nights and duty periods with late finishes, among both pilots and cabin crew. The strongest predictors of high fatigue in these periods, compared with daytime duties, varied by type of flight duty. For early starts, the only significant predictor was the earlier start time itself. For nights, the pertinent predictors were encroachment on the window of circadian low (WOCL, typically the period between 2 am and 5.59 am in the time zone to which a crew member is acclimatised) and short prior sleep.
+
+Based on the conclusions drawn from the outcomes of the analyses, six recommendations were made regarding further fatigue mitigation measures.
+
+Read the full report
+
+Background:
+EASA has been mandated to perform a continuous assessment of the effectiveness of the rules concerning flight and duty time limitations and rest requirements (FTL) contained in Annexes II and III of Commission Regulation (EU) No 965/2012. 
+
+The assessment was started in 2017 with the commission of a scientific study. This assessment, which comprises a large scope of tasks, was split into several phases with the first phase focusing on the two duty periods that had the highest expected level of aircrew fatigue. These were duties of more than 10 hours at the less favourable time of the day and disruptive schedules.
+
+The research contract was awarded to a Consortium led by the Netherlands Aerospace Centre NLR with Stockholm University as partner and the German Aerospace Centre DLR, Jeppesen and the Finnish Institute of Occupational Health as subcontractors.

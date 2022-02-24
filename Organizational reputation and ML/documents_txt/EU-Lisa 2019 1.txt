@@ -1,0 +1,12 @@
+20/12/2019
+Third Working Group for Carriers Meeting in Brussels 
+On 19 December 2019, in Brussels, eu-LISA organised the third meeting of the informal Working Group for Carriers, in collaboration with the European Commission (DG HOME).
+
+The meeting tackled legal, operational and technical aspects, in the context of the Entry/Exit System () and the European Travel Information and Authorisation System () Web Services implementation.
+
+The Working Group for Carriers (WG) is an informal coordination body between eu-LISA, the European Commission, Frontex and carrier associations (for carriers operating at air and sea borders, and international carriers transporting groups overland by coach). According to the regulations, carriers will have to query EES and ETIAS and receive answers regarding the status of travellers. EES replaces the manual stamping of passports with an electronic record of entries and exits, and carriers will verify if a third-country national travelling to the EU with a short-stay, single or double entry visa has already used the number of entries authorised by their visa. Once ETIAS enters into operation, carriers will have to verify, prior to boarding, that their visa-exempt passengers have a valid travel authorisation.
+
+Information about the meetings' conclusions is published regularly on our dedicated .
+
+
+EES; ETIAS; Governing bodies; Smart borders; Partners

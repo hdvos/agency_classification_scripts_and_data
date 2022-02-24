@@ -1,0 +1,9 @@
+Visual search in TMview extended to six IP offices
+
+
+
+TMview’s visual search facility, which allows users to search for trade mark images in the world’s largest online trade mark database, has been extended to cover six more intellectual property offices within the EU.
+Trade marks registered at the national intellectual property offices of Cyprus (DRCOR), Portugal (INPI), Slovenia (SIPO) and Finland (PRH) are fully searchable using images since 30 November, as well as Hungary (HIPO) and Austria (OPA) which enabled this functionality on 14 December.
+In 2017, an image search facility was implemented in  to search for trade marks from the French Intellectual Property Office, the UK Intellectual Property Office and the EUIPO on a pilot basis.
+The extension to these six IP offices follows the addition of Bulgaria, the Czech Republic, Estonia, Ireland, Greece, Spain, France, Croatia, Italy, Lithuania, Malta, Romania, Slovakia, Sweden and the UK, bringing the total number of participating countries to 21.
+The extended visual search in TMview is a result of the work undertaken as part of the EUIPO’s.

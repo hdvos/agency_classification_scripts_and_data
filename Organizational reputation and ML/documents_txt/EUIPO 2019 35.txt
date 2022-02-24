@@ -1,0 +1,9 @@
+The Spanish IP Office implements Capture and Store Historical Files
+
+
+The Spanish Patent and Trademark Office () has successfully implemented the ‘ECP5 Capture and Store Historical Files’.
+The project, carried out within the framework of European Cooperation Projects, aims at digitising paper files across the EU intellectual property offices to enable easy and rapid access to documentation and data related to trade mark and design dossiers.
+The Spanish implementation started in October 2017 with support from different teams at the EUIPO and the SPTO. Over 70,000 dossiers were digitised within the SPTO.
+The SPTO is the fourth office to implement the project, following the implementations of the Lithuanian, Maltese and Cypriot IP offices, bringing the total current number of digitised dossiers to 270,000.
+The implementation of this project will deliver concrete benefits to SPTO employees by reducing waiting times for documents and allowing easy access to data.
+The project supports the participating offices in creating a paperless working environment, and it helps users interact digitally with EU intellectual property offices.

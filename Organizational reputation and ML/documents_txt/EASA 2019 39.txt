@@ -1,0 +1,22 @@
+Statement of clarification
+Flyers Rights has recently published an “interview” with EASA in which comments from them have been attributed to EASA. In order to bring clarity to what we have responded by email to their written questions, and not as advertised in an interview, we are publishing our responses below.
+ 
+“An aircraft is certified based on the demonstration that its design complies with all relevant airworthiness requirements and all features are safe. Our airworthiness requirements are not prescriptive. Depending on the technology and system architecture used, aeroplanes can meet the safety objectives differently. Therefore, we would not compare aircrafts to each other, rather assess how they comply with the requirements.”
+ 
+“Aircraft longitudinal stability is subject to airworthiness requirements. Boeing has to demonstrate compliance of the 737 MAX airframe with these requirements. Consequences of failures of systems affecting potentially the aircraft stability need to be assessed using acceptable safety analysis methodology also subject to airworthiness requirements. Pilot training requirements are not meant to compensate for non-acceptable design on the compliance and safety standpoint.”
+ 
+“Some investigations are ongoing on the certification process followed by the FAA in the case of the B737 MAX. EASA do not wish to comment on the presumable “self-certification” or on the level of delegation to Boeing that the FAA has granted.”
+ 
+On the matter of the necessity of hardware changes, aircraft redesign and pilot retraining on full-motion simulators, we stated:
+“Our design review is not completed yet and we have not reached a conclusion yet on that matter. “
+ 
+“EASA has set requirements for flight and simulator evaluation with 70 test points to be evaluated, covering both normal and abnormal operations. The simulator evaluation were performed in June and July.
+Among the next milestones are flight tests performed by EASA on a modified Boeing 737 MAX that will last a full week.”
+ 
+“Our review of pilot training requirements is not completed yet and we have not reached a conclusion yet on that matter.”
+ 
+“Investigation of the accident is on-going and we do not wish to comment on this. Airplanes are certified with an operational envelop and with limitations on the weather conditions and airfield altitude for take-off.”
+ 
+“Flight crew training does not systematically require training sessions on flight simulators specific to the aircraft model. It is not unusual that, depending on the differences between two models, flight crews are trained on a flight simulator not specific to the model (in this case it would be a B737 NG flight simulator) and then a computer-based difference training is provided in addition. This has been shown to be acceptable and effective in a number of cases. In the case of the B737 max, our review of pilot training requirements is not completed yet and we have not reached a conclusion yet on that matter.”
+ 
+For any questions please contact communications@easa.europa.eu

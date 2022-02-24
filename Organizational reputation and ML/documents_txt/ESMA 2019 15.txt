@@ -1,0 +1,10 @@
+ESMA ANNOUNCES MIFID SCHEDULED PUBLICATION DATES FOR 2020
+19 December 2019 
+MIFID II: TRANSPARENCY CALCULATIONS AND DVC
+The European Securities and Markets Authority (ESMA) has published its 2020 calendar of MiFID II/MiFIR relevant publications for the transparency regime and systematic internalisers’ tests. The calendar, available in , will assist market participants planning for the next 12 months.
+ESMA publishes its calendar of scheduled dates during 2020 for non-daily publications i.e. excluding daily reference data publication and transparency calculations for recently listed instruments. The monthly publication dates for the operation of the double volume cap mechanism (MiFIR Article 5) are detailed in the dedicated and take place on the fifth working day of each month.
+During 2020, ESMA will publish for the first-time transparency and systemic internalisers calculations for derivatives. During 2019, publications on derivatives were not executed given the observed data quality problems and the operational impact on ESMA of contingency preparations for the announced no-deal Brexit dates. In 2020, ESMA and National Competent Authorities (NCAs) are working to publish this information from April, however due to pending quality issues, the scope of derivatives classes to be published will not be entirely complete.
+The scheduled publication dates may be updated during the year as appropriate.  Further information will be released upon the execution of the publications or in case of relevant delays or corrections.
+Background:
+ESMA, under MiFID II/MiFIR, regularly publishes relevant information for investors, market participants and supervisors regarding instruments reference data, transparency calculations and double volume cap calculations.
+ESMA receives data on the activities of more than 400 trading venues and approved publication arrangements regarding 29 million instruments since January 2018. This data is provided to ESMA by the National Competent Authorities (NCAs) or directly by the reporting entities (via delegation of the NCAs). The data is made available through ESMA’s dedicated .

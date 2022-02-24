@@ -1,0 +1,25 @@
+ESMA: FURTHER ACTION NEEDED ON FEES FOR CREDIT RATINGS AND TRADE REPOSITORY SERVICES
+20 December 2019 
+CREDIT RATING AGENCIES
+PRESS RELEASES
+SUPERVISORY CONVERGENCE
+TRADE REPOSITORIES
+The European Securities and Markets Authority (ESMA) has published a . 
+The Report, building on 2018’s thematic work, highlights good practices implemented by CRAs and TRs in the areas of fee transparency, fee setting and costs monitoring. The report finds that CRAs should further improve the transparency of their pricing and their fee setting process, to ensure that fees are non-discriminatory and based on actual costs. Further improvements are needed to costs’ recording and monitoring practices to show how fees charged to users relate to the costs of providing the services. ESMA also finds that CRAs need to improve access to and usability of the credit ratings published on their websites and that they should remain responsible for overseeing the distribution of the credit ratings they produce.
+A factsheet setting out what clients can expect from CRAs and TRs on fees, as well as areas for improvement and future ESMA work is also published in support of this Report.
+Steven Maijoor, ESMA Chair, said:
+“CRAs and TRs have improved their practices regarding the transparency of fees charged and their fees setting and costs monitoring processes. However, further improvements are still needed regarding costs recording and monitoring as we expect all supervised firms to be able to demonstrate the fees charged are cost-based for CRAs and cost-related for TRs.
+“Additionally, we expect CRAs to address outstanding issues around the accessibility and usability of their credit ratings. ESMA will continue to monitor supervised firms’ progress and practices in these areas to ensure consistent and compliant approaches that support investor protection and stable and orderly markets in the EU.”
+Ongoing Supervisory Concerns 
+CRAs should monitor costs by categories and at the same level of granularity as fee schedules. Estimates of non-quantifiable costs should also be included in the fee setting process. This must be supported by training for staff on fee setting and cost monitoring requirements.
+CRAs need to ensure that the credit ratings published on their websites can be accessed and used without limitation for regulatory purposes. Furthermore, ESMA is of the view that CRAs should be clearly responsible for the distribution of the credit ratings they produce.
+TRs should address potential issues in the fee setting process by ensuring that their pricing policy is in line with EMIR requirements and ESMA’s expectations. They should carefully assess fee caps for delegated reporting and also conduct regular, documented cost reviews in order to ensure cost-related fees.
+CRAs as well as TRs should further enhance their control frameworks so that they oversee the end-to-end fee setting and cost monitoring processes with the more active involvement of control functions, such as Compliance and Internal Audit.
+Good Practices by CRAs and TRs
+Several good practices were observed amongst CRAs, which had either already been implemented or were in the process of being implemented, including:
+·         Transparency and disclosure on fees: Revising pricing policies to reflect all fees related requirements of the CRA Regulation and publishing these on CRAs’ websites. More detailed fee schedules and programmes have been simplified and standardised allowing clients to more easily identify the fee charged for each product or service. These are provided to both prospective and existing clients and are in some cases supported by price quoting tools or online fees calculators. CRAs have also improved staff training on the fees provisions of the CRA Regulation;
+·         Costs monitoring and fee setting: establishing policies and procedures governing the fee setting process, which embed regulatory requirements, strengthening the related governance framework, and directly and explicitly linking fee schedules to costs; and
+·         Access and use of credit ratings: CRAs websites should now allow credit ratings to be used for internal and regulatory reporting purposes, while customers of information services companies linked to CRAs should not be charged further fees for the use of credit ratings for regulatory purposes.
+For TRs, the good practices in relation to fee schedule transparency include the publication of fee schedules for all services they offer, providing clients with advance notice of updates and seeking client feedback on their transparency. For the fee setting process, ESMA noted that some TRs’ revised fixed fee caps by introducing volume-related sliding scale fees or differentiating fee caps based on the type of asset class or service. ESMA also found that dedicating staff to overseeing the pricing process is a good way to improve cost monitoring.
+Next Steps 
+ESMA will monitor how supervised firms develop their practices and assess whether their implementation is compliant with the regulatory requirements on fees. ESMA will also carry out further work to improve access to and use of credit ratings.

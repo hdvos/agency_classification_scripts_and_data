@@ -1,0 +1,17 @@
+RPAS drone flights get underway in Spain to assist SASEMAR in its search and rescue and pollution monitoring operations
+
+EMSA’s service of Remotely Piloted Aircraft Systems is being used by the Spanish maritime safety agency SASEMAR in the southern province of Huelva for the purpose of identifying and monitoring oil spills as well as for additional assistance during search and rescue missions. SASEMAR is using this opportunity to see first-hand how RPAS can be of value to multipurpose maritime surveillance operations.
+
+20190206 press release sasemar 
+
+The RPAS being used is a fixed wing, twin engine AR 5 – Evo. It is under contract with EMSA from the REACT consortium (Tekever/Collecte Localisation Service). Its capabilities include day and night flights, and it is equipped with electro-optical and infra-red cameras, radar and a still camera for detailed views of objects of interest.
+
+This form of surveillance offers the possibility of detecting ship movements through the Automatic Identification System receiver on board. It also supports emergency situations as it is fitted with a distress signal receiver. The use of satellite communications can enable the RPAS to fly far from the coastline, giving it a greater geographical reach than radio line of sight operations.
+
+The RPAS drone operations, running until early March, will be coordinated at a distance and the data monitored by officers at the SASEMAR Maritime Rescue Coordination Centre in Huelva. The remote pilot and payload operator will be directing the RPAS flights from a ground control station at the Instituto Nactional de Tecnica Aeroespacial (INTA). From Madrid, the national search and rescue coordination and operations centre will participate in the operations monitoring the flights using EMSA’s RPAS data centre. This data centre offers an online user interface displaying the flight data in detail (images, video, flight path, etc.)
+
+“The RPAS service is a new way in which EMSA is helping national authorities carry out their essential day-to-day tasks. It is an additional tool which can intervene in many different scenarios where traditional methods have limits,” explained EMSA’s Executive Director, Maja Markovčić Kostelac.
+
+EMSA’s RPAS services have been developed to assist in maritime surveillance operations to support national authorities involved in coast guard functions. This includes: maritime pollution and emissions monitoring; detection of illegal fishing, anti-drug trafficking, and illegal immigration; border surveillance; and, search and rescue operations. The operations may be triggered in a number of different ways, including by detections on satellite images provided through the EMSA CleanSeaNet and the Copernicus Maritime Surveillance services.
+
+For more information and further queries, please contact: information@emsa.europa.eu

@@ -1,0 +1,10 @@
+ESMA AMENDS CRR STANDARD ON MAIN INDICES AND RECOGNISED EXCHANGES
+11 December 2019 
+MIFID - SECONDARY MARKETS
+The European Securities and Markets Authority (ESMA) has today issued the on draft amendments to Implementing Regulation (EU 2016/1646), specifying the main indices and recognised exchanges under the Capital Requirements Regulation (CRR) relevant to credit institutions and investment firms subject to prudential requirements and trading venues.
+ESMA introduced these amendments to ensure the most relevant criteria are applied to specify the main indices, and that the list of recognised exchanges is updated to reflect legislative changes and changes in market structures.
+The amended ITS provides for a new methodology to ensure that the main indices captured comprise instruments that are sufficiently liquid, and therefore can serve as adequate eligible collateral.
+In addition, ESMA’s amendment will provide credit institutions and investment firms with the option to use, as eligible collateral, instruments traded on new European exchanges, as well as instruments traded on third-country exchanges, from those jurisdictions for which the European Commission (EC) has adopted equivalence decisions under Article 25(4) of MiFID II as now required under CRR II.
+Due to the uncertainty about the date when the United Kingdom (UK) will leave the European Union, ESMA included two versions of the amended ITS in the Final Report. The first version includes UK exchanges and is to be used in case there is a Brexit deal. The second version of the ITS excludes UK exchanges and should be used in case of a no-deal outcome and in the absence of a Commission Equivalence decision in respect of the UK. 
+Next steps
+ESMA has submitted the final report, including the draft ITS amending Implementing Regulation (EU) 2016/1646 to the EC which now has three months to decide whether to endorse the proposed amendments

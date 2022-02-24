@@ -1,0 +1,14 @@
+Supporting the Fight Against Cybercrime: ENISA report on CSIRTs and Law Enforcement Cooperation 
+The fight against cybercrime, requires the involvement of Law Enforcement Agencies, which supported by CSIRTS are likely to be better positioned to investigate complex criminal structures. 
+Published on January 09, 2019
+
+Tagged with 
+
+
+This cooperation is incomplete however, unless the judiciary is equally brought into the picture due to the pre-eminent role it plays across the MS in directing criminal investigations. While collecting evidence is important warranting its admissibility in a criminal trial is equally so. Admissibility of evidence relies on compliance with certain technical and legal requirements as well as the conditions laid down in criminal procedure.
+In 2018, ENISA confirmed that CSIRTs, law enforcement and the judiciary have complementary roles and structure and that incident handling varies across Member States. The data CSIRTs and Law Enforcement Agencies have access to varies, and it affects information sharing between them when they seek to respond to cybercrime. CSIRTs interact frequently with the Law Enforcement Agencies rather than with the prosecutor. CSIRTs offer support to Law Enforcement Agencies to collect and analyse different types of evidence. CSIRTs are called rarely as witness in courts but the material they collect during the incident handling might be used to decide on cybercrime cases. 
+Cooperation challenges concern data retention, the sharing of personal data (including IP addresses) and the confidentiality around criminal investigations as well as evidential admissibility of digital evidence. Legal challenges are followed by cultural, technical and organisational ones.
+ENISA recommendations include:
+Gather further knowledge and study interactions across the three communities;
+Analyse the legal and policy framework shaping this cooperation;
+Seek to better understand tools and methods used for the cooperation between CSIRTs and LE and their interaction with the judiciary and improve via training opportunities.

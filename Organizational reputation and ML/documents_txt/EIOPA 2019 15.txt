@@ -1,0 +1,29 @@
+EIOPA consults on technical advice for the 2020 review of Solvency II
+NEWS
+ 
+DATE:
+ 
+15 Oct 2019
+Today, the European Insurance and Occupational Pension Authority (EIOPA) launched a  The Opinion will respond to the call for advice of the European Commission of 11 February 2019 on the 2020 review of Solvency II. 
+The call for advice comprises 19 separate topics. Broadly speaking, these can be divided into three parts.
+Firstly, the review of the long term guarantee measures. These measures were always foreseen as being reviewed in 2020, as specified in the Omnibus II Directive. A number of different options are being consulted on, notably on extrapolation and on the volatility adjustment.
+Secondly, the potential introduction of new regulatory tools in the Solvency II Directive, notably on macro-prudential issues, recovery and resolution, and insurance guarantee schemes. These new regulatory tools are considered thoroughly in the consultation.
+Thirdly, revisions to the existing Solvency II framework including in relation to freedom of services and establishment; reporting and disclosure; and the solvency capital requirement. 
+In EIOPA's view, the Solvency II framework is overall working well. Therefore the approach here has in general been one of evolution rather than revolution. The principal exceptions arise as a result either of supervisory experience, for example in relation to cross-border business; or of the wider economic context, in particular in relation to interest rate risk.
+This consultation covers all areas of the call for advice except insurance guarantee schemes and most topics on reporting and disclosure which have been consulted upon at an earlier stage.
+The main specific considerations and proposals of this consultation are as follows:
+◾Considerations to choose a later starting point for the extrapolation of risk-free interest rates for the euro or to change the extrapolation method to take into account market information beyond the starting point.
+Considerations to change the calculation of the volatility adjustment to risk-free interest rates, in particular to address overshooting effects and to reflect the illiquidity of insurance liabilities.
+The proposal to increase the calibration of the interest rate risk sub-module in line with empirical evidence, in particular the existence of negative interest rates. The proposal is consistent with the technical advice EIOPA provided on the Solvency Capital Requirement standard formula in 2018.
+The proposal to include macro-prudential tools in the Solvency II Directive.
+The proposal to establish a minimum harmonised and comprehensive recovery and resolution framework for insurance.
+In a number of areas, further work is ongoing and stakeholders are invited to contribute to it, in particular on the risk margin, equity risk and property risk.
+A background document to this consultation paper includes a qualitative assessment of the combined impact of all proposed changes. 
+The information request will be accompanied by information requests to national supervisory authorities and to the industry in order to collect data on the impact of individual proposals included in the consultation.
+Furthermore, in 2020 EIOPA will collect data in order to assess the quantitative combined impact of the proposals to be included in the advice. EIOPA will finalise its view on the advice in particular on the basis of the consultation feedback and the impact data collected. 
+Beyond the changes on interest rate risk EIOPA aims in general for a balanced impact of the proposals.
+EIOPA will issue the Opinion on the 2020 review in June 2020.
+Consultation process
+Stakeholders are invited to respond to this consultation package by using the provided templates for comments.
+The deadline for submission of feedback is Wednesday, 15 January 2020 at 23.59 hrs CET and has to be sent via email to the following email address: .  
+Contributions either not provided via the templates for comments, sent to a different email address or sent after the deadline will not be considered. Unless requested otherwise, all contributions received will be published after the deadline for submission.

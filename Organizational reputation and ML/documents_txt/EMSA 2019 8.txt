@@ -1,0 +1,13 @@
+THETIS-MRV: A look at the first reporting period of CO2 emissions data
+EMSA was tasked to develop a system (THETIS-MRV) for the monitoring and reporting of verified data on CO2 emissions by the European Commission’s DG for Climate Action following the creation of an EU-wide legal framework. The data from the first reporting period was made public at the beginning of this month, as part of an overall plan to encourage the uptake of energy efficiency measures to reduce greenhouse gas emissions from maritime transport.
+ 
+Through the THETIS-MRV system, developed by EMSA and launched on 7 August 2017, data has been gathered, as from 1 January 2018, on ships of over 5 000 gt operating in EU waters. The information covers the CO2 emissions encoded for around 10 800 ships and is reported to represent more than 130 million tonnes for 2018.
+
+THETIS-MRV facilitates the structured workflow process involved in the reporting of the emissions, from the very drafting of the monitoring plan to the final issuing of the document of compliance, thereby simplifying the administrative burden for all concerned. The system is designed to help shipowners and operators fulfil their legal obligations, and the data they submit must be approved by accredited verifiers that have been recognised by EU National Accreditation Bodies.
+
+While the accuracy of the data is paramount, it must be noted that EMSA may not make any modification of the data submitted by the companies and their respective accredited verifiers. In the event amendments are submitted by the companies, new versions are made available in the online database and a new downloadable spreadsheet generated. As the spreadsheet is generated once per day, the figures may vary somewhat from the online search tool which gives the figures in real time.
+
+The emissions data are now to be carefully analysed by the European Commission and a report is to be published towards the end of 2019 to inform the public and allow for an assessment of the CO2 emissions and the energy efficiency of maritime transport. The introduction of the MRV system is expected to lead to emissions reductions of up to 2% compared with a business-as-usual scenario.
+ 
+Background information is available in the memo in the pdf link below.
+

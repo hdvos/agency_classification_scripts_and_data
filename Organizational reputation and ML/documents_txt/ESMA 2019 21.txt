@@ -1,0 +1,17 @@
+ESMA - UPDATE ON THE UK’S WITHDRAWAL FROM THE EUROPEAN UNION - PREPARATIONS FOR A POSSIBLE NO-DEAL BREXIT SCENARIO ON 31 OCTOBER 2019
+07 October 2019 
+BENCHMARKS
+BREXIT
+MIFID - SECONDARY MARKETS
+MIFID II: TRANSPARENCY CALCULATIONS AND DVC
+PRESS RELEASES
+On 29 March 2017, the United Kingdom of Great Britain and Northern Ireland (UK) invoked Article 50 of the Treaty on European Union (TEU) which triggered the process for its withdrawal from the European Union (EU), or Brexit. The invocation procedure provides that after a negotiation period of up to two years, the TEU cease to apply to the Member State which invoked Article 50.  
+ESMA initiated a systematic analysis of the potential impact of a no-deal Brexit for EU securities markets and for ESMA as an organisation, when it was preparing for a potential no deal scenario on 29 March 2019 and 12 April 2019, and communicated to the market on its contingency planning.
+On 10 April 2019, the European Council (Council) agreed a further extension to Brexit until 31 October 2019 to allow for the ratification of the Withdrawal Agreement by both Parties. If the Withdrawal Agreement fails to be ratified and no further extension is agreed by the Council, the UK will leave the EU on 31 October 23:00 (UK time).
+The reference date for Brexit in all of ESMA’s previously published measures and actions, including public statements, issued regarding the possibility of a no-deal Brexit scenario, should now be read as 31 October 2019. The full list of statements and measures issued previously is available on ESMA’s website and also included in the annex to this .
+Some of the measures announced need updating in case of a no-deal Brexit on 31 October 2019, so ESMA is issuing today updated measures in the following areas:
+-        in ESMA databases and performance of MiFID II calculations updating the .
+-        on MiFID II/MiFIR and the Benchmark Regulation (BMR) – C(6) carve-out, ESMA opinions on third-country trading venues for the purpose of post-trade transparency and position limits, post-trade transparency for OTC transactions, BMR ESMA register of administrators and 3rd country benchmarks calculations updating the .
+-        related to ESMA databases and IT systems updating the .
+Next steps
+There is still a high level of uncertainty as to the final timing and conditions of Brexit, and should these change, ESMA will adjust the approach for its IT applications and databases and will inform the public of the adjusted approach as soon as possible.

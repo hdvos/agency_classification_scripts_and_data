@@ -1,0 +1,46 @@
+EIOPA consults on increased proportionality of supervisory reporting and public disclosure 
+NEWS
+ 
+DATE:
+ 
+12 Jul 2019
+Today, the European Insurance and Occupational Pension Authority (EIOPA) launched a consultation package on supervisory reporting and public disclosure in the context of its work linked with the 2020 Solvency II Review. EIOPA will be consulting on the review of supervisory reporting and public disclosure in two waves. This consultation is the first wave to respond to the Call for Advice of the European Commission of 11 February 2019 on the part linked with supervisory reporting and public disclosure. Taking into account stakeholders' feedback to the European Commission's public consultation on fitness check on supervisory reporting, EIOPA is asked to assess:
+The appropriateness of the requirements related to reporting and disclosure in the light of supervisors and other stakeholders' experience
+The appropriateness and proportionality of the volume, frequency and deadlines of supervisory reporting and public disclosure
+The sufficiency of the existing exemption requirements to ensure proportionate application to small undertakings
+EIOPA is conducting its assessment based on the following key principles: 
+Fitness-for-purpose: The information received should be fit for the purpose of the supervisory review process
+Proportionality: The supervisory reporting and public disclosure should – as all Solvency II requirements – be proportionate to the nature, scale and complexity of the risk undertakings face or may face 
+Data standardisation: The data requested under Solvency II should as much as possible use standardised codes such as Legal Entity Identifier (LEI)
+Consistency between reporting frameworks within the financial sector:Solvency II should be consistent as much as possible with other reporting frameworks
+This first consultation covers the following areas: 
+General issues on supervisory reporting and public disclosure 
+Individual Quantitative Reporting Templates (QRTs) and Annexes 
+Solvency and Financial Condition Report (SFCR) and Narrative Supervisory Reporting 
+Financial Stability Reporting
+Each proposed policy area includes also an impact assessment. 
+Based on its principle-based assessment, EIOPA's proposals are among others: 
+Keep deadlines for quarterly reporting but extend the deadline for annual reporting by two weeks 
+No change to Article 35 of the Solvency II Directive - as already done today, national competent authorities may exempt up until 20 % of the market share
+Increased proportionality by dividing templates into two categories, core and non-core with risk-based thresholds different for annual or quarterly submissions. The risk-based threshold shall reflect the nature, scale and complexity of the risk exposure of the risk area covered by each template
+Deletion and simplification of a number of QRTs both for quarterly and annually reporting 
+Harmonisation of templates on cross-border information - one template enlarged, which replaces three other templates and templates on Solvency Capital Requirement templates including now internal models reporting
+Creation of new templates to incorporate new information such as on cyber risks and product-by-product information for non-life business
+Revision of templates such as the look through approach for collective investment funds and the variation analysis
+Solvency and Financial Condition Report (SFCR): One report - Two addressees: Improved structure with dedicated sections for policyholders and the professional public
+For the SFCR for the professional public, the focus should be more quantitative, it should be disclosed in a machine readable and processable format and the structure should be streamlined to improve readability and comparability 
+Within the policyholders section only solo information and only from insurance undertakings with external policyholders is required as well as the information is provided in a simple and in the language of the policyholder
+For pure captives' undertakings, simplifications of annual reporting and partial exemption from the SFCR
+In addition, EIOPA proposes to introduce an external auditing requirement of the SFCR in the Solvency II Directive limited to the Solvency II Balance-Sheet.
+Later in the year, together with the other areas of the 2020 Solvency II Review, EIOPA will launch a second consultation addressing:
+Group Quantitative Reporting Templates (QRTs)
+Regular Supervisory Reporting (RSR)
+Technical aspects of the reporting and disclosure processes
+Data quality 
+Reporting and disclosure linked to other areas of the 2020 Solvency II Review, in particular (but not necessarily only) the Long-Term Guarantee templates
+EIOPA's final proposed policy will be included in the 2020 Solvency II Review Opinion. 
+Consultation process
+Stakeholders are invited to respond to this consultation package by using the provided template for comments.
+The deadline for submission of feedback is Friday, 18 October 2019 at 23.59 hrs CETand has to be sent via email to the following address. 
+Contributions either not provided via the template for comments, sent to a different email address or sent after the deadline will not be considered.
+Unless requested otherwise, all contributions received will be published after the deadline for submission.

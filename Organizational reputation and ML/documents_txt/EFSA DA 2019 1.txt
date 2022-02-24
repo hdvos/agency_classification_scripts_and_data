@@ -1,0 +1,16 @@
+App developer console opens up our food safety data
+
+
+A new “developer portal” using application programming interface (API) technology makes EFSA’s information more accessible to software developers, allowing them to design creative new apps and tools for use by the food safety assessment community or consumers.
+
+EFSA has developed several IT systems, databases and software tools since it was founded in 2002. Our scientists depend on this information and these resources to carry out scientific assessments and provide scientific advice on EU food and feed safety.
+
+Scientific data and resources
+
+These resources include data we have collected on foodborne diseases, chemicals in food and food consumption, and the scientific opinions published in the EFSA Journal. In addition, the registry of mandates received by EFSA and catalogues developed together with the Member States to collect and analyse evidence will be inter-operable.
+
+This plethora of information is now available using well-defined API software standards, allowing the creation of new uses as demonstrated during the EFSA Hackathon organised in 2016. The availability of EFSA catalogues and controlled terminologies can also help integrate external resources such as catalogues of scientific taxonomies and citation indices.
+
+A beta version of the portal is now online. It only takes a few minutes for developers to register and gain the keys to 16 API "calls" (i.e. an interaction with a server using an API). In the future, developers can share and promote their applications on the portal and help us to make Europe’s food safe.
+
+Welcome to the EFSA Developer Portal [beta version]

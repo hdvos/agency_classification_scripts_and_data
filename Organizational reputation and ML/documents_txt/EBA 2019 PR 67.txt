@@ -1,0 +1,6 @@
+EBA publishes updated ITS package for 2020 benchmarking exercise 
+16 July 2019
+The European Banking Authority (EBA) published today an update to its Implementing Technical Standards (ITS) on benchmarking of internal approaches. The ITS include all benchmarking portfolios that will be used for the 2020 benchmarking exercise. 
+Today's update includes changes and clarifications, which reflect the comments received during the consultation launched on 18 December 2018. In particular, a number of changes reduce the reporting requirements, thus ensuring a more proportionate reporting burden, which will also increase stability going forward.
+For the market risk benchmarking, the instruments have been updated and clarified but the overall composition of the portfolio has not been changed with respect the 2019.
+For the credit risk portfolios, the revision of the benchmarking portfolios simplifies the exercise thanks to a reduction in the number of portfolios to be reported and a closer alignment to the Common Reporting (COREP) structure, with a view to achieving stable portfolio definitions for the future.

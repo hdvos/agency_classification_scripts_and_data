@@ -1,0 +1,12 @@
+ESMA VALUES EU DERIVATIVES MARKETS AT €735TN
+09 December 2019 
+RISK ANALYSIS & ECONOMICS - MARKETS INFRASTRUCTURE INVESTORS
+The European Securities and Markets Authority (ESMA) the EU’s securities regulator, today publishes its  (Report) analysing the European Union’s (EU) derivatives markets.  The Report, based on data submitted under the European Markets and Infrastructure Regulation (EMIR), provides a comprehensive market-level view of the EU’s derivatives markets in 2018, which had a total size of €735tn gross notional amount outstanding, an increase of 11% on 2017. 
+Highlights
+The growth in this market is driven by an increase in interest rate derivatives and equities, which make up respectively 76% and 6% of the total.
+Following an increase in 2017, the rate of central clearing is stabilising with 63% in Q4 (61% in Q1) for interest rate derivatives, and 25% for credit derivatives.
+OTC trading continues to account for the majority of the trading in derivatives, with the share remaining globally stable throughout the year at 90%. The increase from 13% to 17% of the notional executed on trading venues, is potentially linked to the entry into force in January 2018 of the MiFID II trading obligation.
+Across all asset classes, exposures are highly concentrated in relatively few counterparties, particularly investment firms, credit institutions and CCPs. In all markets, a few large counterparties are widely connected to other market participants, and the UK remains the dominant market for transactions within the EEA as well as with third-countries.
+This report for the first time includes an analysis of intragroup transactions, which are mainly used in equity, commodities and currency markets. Overall, they amount to €78tn, about 11% of the market. The analysis shows that transactions in products subject to mandatory clearing are dominated by intragroup trading between UK and third-country legal entities in the same group, with the UK serving as an entry point to EU markets.
+Next steps
+The primary objective of this data analysis is to contribute to ESMA’s risk assessment, to facilitate entity oversight by supervisory authorities, both national and European, and enhance supervisory convergence. ESMA will continue to report on its analysis on an annual basis.

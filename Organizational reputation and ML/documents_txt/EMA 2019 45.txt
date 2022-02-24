@@ -1,0 +1,18 @@
+Names of liposomal medicines to be changed to avoid medication errors
+ 
+Share
+News 31/07/2019
+All  of medicines containing liposomal drug delivery systems are requested to submit to EU regulators a  to change the names of these medicines as soon as possible before the end of September 2019. 
+This recommendation was made jointly by EMA’s human medicines committee () and the  (
+
+CMDh) at their July meetings. It aims to make a clearer distinction between liposomal and non-liposomal formulations of the same  to avoid medication errors. Since the two formulations may have different biodistribution and release properties, medication errors can pose serious risks to the health of patients.
+So far, there was no agreed approach to the naming of medicines containing liposomal or pegylated liposomal formulations. This recommendation is made to enable healthcare professionals and patients to better distinguish them from conventional non-liposomal medicines. This is a particular concern when electronic prescribing and dispensing tools are used, as in the absence of a more descriptive term for the liposomal medicines, they can be mixed up with non-liposomal medicines.  
+Following a number of reports of serious medication errors, some leading to death, and after consultation with EMA’s safety committee (), the  and 
+
+CMDh agreed on the following actions to reduce the risk of mix-up between these medicines:
+In section 1 of the  (SmPC), the qualifier 'liposomal' or 'pegylated liposomal' should be added after the  and before the strength. This is in line with the standard practice for qualifiers.
+In those cases where a medicine is approved with an '(INN)+company or trademark' name, the qualifier 'liposomal' or 'pegylated liposomal' will be placed between the INN and the company name or trademark in section 1 of the SmPC. 
+The currently existing  standard term ‘dispersion’, which includes liposomes in its definition, should be used consistently throughout the . 
+ of medicines with liposomal and pegylated liposomal delivery systems are requested to submit an A.2.a  before the end of September 2019 to update their product name in line with the /
+
+CMDh recommendation.  

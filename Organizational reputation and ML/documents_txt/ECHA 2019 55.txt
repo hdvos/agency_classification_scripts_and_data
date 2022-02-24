@@ -1,0 +1,15 @@
+REACH 2018 registration data now included in QSAR Toolbox
+ECHA/NR/19/06
+ 
+The update to the QSAR Toolbox integrates data from REACH registrations up to November 2018, including data from the last REACH registration deadline for low production volume substances.
+ 
+Helsinki, 18 February 2019 – Version 4.3 of the OECD QSAR Toolbox contains REACH registration data up to November 2018. 668 041 selected experimental data points for 11 735 chemicals are now available, including data from the REACH 2018 registration deadline.
+More data has been made available particularly on aquatic toxicity, sensitisation, and irritation and corrosion, which will help governments, industry and stakeholders to fill in data gaps for assessing chemical hazards.
+Crucial to this work is the grouping of chemicals into categories. The update makes more tools available to support how analogues and chemical categories are defined, including:
+a database on adsorption, distribution, metabolism and elimination (ADME) properties and related profilers that can be used to support the development of category hypotheses;
+159 new (Q)SAR models; and
+a (Q)SAR editor that makes it possible to edit, import and create custom profilers and custom (Q)SAR models by linking to an external computational platform.
+Software developers can now build their own extensions for the toolbox, or integrate toolbox functionalities in their own software thanks to the addition of an application program interface (API). Together with the release of this version, a completely redesigned website of the QSAR Toolbox is now also online.
+ 
+What is the OECD QSAR Toolbox?
+The QSAR Toolbox is a free software application that supports reproducible and transparent chemical hazard assessment. It offers functionalities for retrieving experimental data, simulating metabolism and profiling properties of chemicals. These information and tools can be used to find structurally and mechanistically defined analogues and chemical categories, which can serve as sources for read-across and trend analysis for data gap filling.

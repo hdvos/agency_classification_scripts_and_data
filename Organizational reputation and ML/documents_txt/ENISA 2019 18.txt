@@ -1,0 +1,9 @@
+NCSC publishes four guides to stimulate cybersecurity collaboration
+NCSC-NL has published four new guides on how to set up your own cybersecurity collaboration [1]. These guides and corresponding roadmaps are available on the NCSC website [2].
+Published on January 03, 2019
+
+© Copyright: Shutterstock
+Tagged with 
+
+In recent years many successful collaborations are created by NCSC-NL and its partners within the government and Dutch vital infrastructure. The Dutch approach to public-private cooperation is unique and is built upon three important core values: trust, shared interests and equality. NCSC-NL believes public-private cooperation is crucial to increase the digital resilience of society. Collaboration with other organisations is essential to take the next step in strengthening the resilience of your organisation. These lessons learned form the basis of these guides.
+In these publications, NCSC-NL has bundled the lessons learned from recent years to support and inspire organisations to start a successful collaboration in their own sector (an ISAC), region or supply-chain. For organisations that are already working together and would like to deepen this collaboration In these publications has created a guide on how to start a collective Computer Security Incident Response Team (CSIRT) with your partners. 

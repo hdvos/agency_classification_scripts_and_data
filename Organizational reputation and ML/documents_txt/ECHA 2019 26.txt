@@ -1,0 +1,7 @@
+Advice on how to comply with NMP restriction
+ECHA/NR/19/27
+A new guideline is available for industrial users of 1-methyl-2-pyrrolidone (NMP) to help them comply with the substance’s restriction requirements. The guideline is needed because this is the first restriction of its kind that is based on derived no effect levels (DNELs).
+Helsinki, 17 July 2019 - NMP is used as a solvent or surface deposition medium during manufacturing and is therefore a critical substance for various industries producing batteries, semiconductors, fibres, pharmaceuticals and wire coatings. NMP users in these sectors will have to comply with the restriction by 9 May 2020. For NMP used in wire coatings, the deadline is 9 May 2024.
+In close cooperation with stakeholders, ECHA has prepared the guideline to help companies, including SMEs, to manage the risks when using NMP at industrial sites. NMP is a reproductive toxicant (may damage the unborn child), it causes serious eye and skin irritation and it may cause respiratory irritation. Several consultations and round table workshops have been organised to identify good practice and find illustrative examples on how users of NMP can control exposure to NMP and comply with the restriction.
+The general approach described in this guideline can also be applied to other aprotic solvents similar to NMP, such as DMF and DMAC, if similar REACH restrictions are introduced for other aprotic solvents at a later stage.
+The guideline will be published in 23 EU languages. The translations will be available in autumn 2019.

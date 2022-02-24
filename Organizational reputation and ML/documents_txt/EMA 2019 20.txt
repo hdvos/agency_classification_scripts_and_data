@@ -1,0 +1,41 @@
+Committee for Medicinal Products for Veterinary Use (CVMP) meeting of 5-7 November 2019
+ 
+Share
+Press release 08/11/2019
+CVMP recommends two new veterinary medicines for MUMS/limited markets
+CVMP opinions on veterinary medicinal products
+The Committee adopted by majority a positive opinion for an initial  for Stelfonta (tigilanol tiglate), from QBiotics Netherlands B.V., a new product for the treatment of non-resectable, non-metastatic cutaneous and subcutaneous mast cell tumours in dogs. The product was classified as MUMS/limited market.
+The Committee adopted by consensus a positive opinion for an initial  for Aservo EquiHaler (ciclesonide), from Boehringer Ingelheim Vetmedica GmbH, a new product for the treatment of horses with clinical signs of severe equine asthma. The product was classified as MUMS/limited market.
+The Committee adopted by consensus a positive opinion for a  application for Bravecto Plus concerning the modification of the approved therapeutic  for the prevention of heartworm disease caused by Dirofilaria immitis, i.e. to extend the duration of prevention from 8 weeks to 12 weeks.
+The Committee adopted by consensus positive opinions for type II grouped  applications for Exzolt, Poulvac E. Coli and ProZinc, all concerning quality changes.
+The Committee also adopted by consensus a positive opinion for a type II grouped  application (subject to a  procedure) for Vectormune ND and other related , concerning quality changes.
+More information about the above-mentioned medicines, including their full , will be published on the Agency’s website.
+Renewals of marketing authorisations
+The Committee adopted by consensus positive opinions for the  of the  for Coliprotec F4 and Zulvac SBV. The Committee, having re-assessed the benefit-risk balance of these products, concluded that the quality, safety and  continue to be appropriately demonstrated and, therefore, recommended the  of the .
+Community referrals and related procedures
+The Committee started a  procedure for veterinary  containing tiamulin hydrogen fumarate for pigs presented as premix for medicated feeding stuff and oral powder for in-feed use. The matter was referred to the Committee by Belgium under Article 35 of Directive 2001/82/EC due to concerns relating to the  of tiamulin for prevention or metaphylaxis of swine dysentery caused by Brachyspira hyodysenteriae.
+The Committee started a procedure for Suvaxyn PRRS MLV (porcine respiratory and reproductive syndrome virus vaccine (live)) from Zoetis. The matter was notified to the Committee by the European Commission under Article 45 of Regulation (EC) No. 726/2004 due to concerns for animal health.
+Scientific advice
+The Committee adopted one  report further to a request for initial advice on safety and issues for an antimicrobial veterinary  for dogs.
+Minor use, minor species (MUMS)/limited market
+The Committee adopted a  for the revision of scientific  on MUMS/limited markets for veterinary  (EMA//538961/2019) for a 2-month period of public consultation in order to take into account the new provisions concerning limited markets in Regulation (EU) 2019/6, which will become applicable in January 2022.
+Following the Committee’s review of two requests for classification under the MUMS/limited market policy, the  classified:
+A product (nervous system) for  as not indicated for MUMS/limited market.
+A product (nervous system) for dogs as indicated for MUMS/limited market and eligible for reduced data requirements, where applicable. The product is not eligible for financial incentives as is intended for use in non-food producing species.
+Following the Committee’s review of one request for reclassification under the MUMS/limited market policy, the  reclassified a product (antineoplastic and immunomodulating agents) for dogs as indicated for MUMS/limited market and eligible for reduced data requirements, where applicable. The product is not eligible for financial incentives as is intended for use in non-food-producing species.
+Pharmacovigilance
+The Committee reviewed the PSURs for Letifend, Osurnia, Simparica & MiPet Easecto and Zycortal, and recommended changes to their .
+The Committee also reviewed the PSURs for Bluevac BTV8, Bovela, Bovilis Blue8, Bravecto Plus, Clynav,Halagon, Inflacam, Porcilis PCV, Respiporc FluPan H1N1, SevoFlo and Velactis, and concluded that no further action or changes to their  were required.
+The Committee considered the petition submitted to the Agency by concerned citizens regarding the safety of Bravecto, and adopted a  .
+International harmonisation
+The Committee adopted the draft  VICH GL59 on harmonisation of criteria to waive laboratory animal batch safety testing for vaccines for veterinary use, at step 4, for release for a 4-month period of public consultation following the sign-off by the VICH Steering Committee
+The  will be published on the Agency’s website.
+Organisational matters
+The Committee re-appointed Gerritt Johan Schefferlie and Rory Breathnach as co-opted members to complement its expertise in MRLs/residues and in general clinical veterinary practice, respectively, for a further 3-year mandate.
+The Committee appointed Mary O’Grady as a co-opted member to complement its expertise in quality of pharmaceuticals for a 3-year mandate.
+Procedural announcement
+Formatted Table Template implementation in the XML delivery files are now live and will become obsolete from 1 of January 2020.
+
+A new version of the eSubmission Gateway XML delivery file user interface is now available. This release of the eSubmission Gateway introduces fields from the Formatted Table Template into the delivery file, leading to the abolishment of the need for the Formatted Table Template as a part of the submission cover letter with effect from 1 January 2020. This release also provides a number of improvements to the system and is accompanied by an updated user guide, training slides and release notes which are available on the eSubmission website.
+From 1 January 2020, the Formatted Letter Template will no longer be maintained by EMA. The document and references will be removed from EMA corporate website.
+Related information:  | 

@@ -1,0 +1,18 @@
+ESMA REPORT VALUES EU ALTERNATIVE INVESTMENT FUNDS AT €4.9 TRILLION
+07 March 2019 
+RISK ANALYSIS & ECONOMICS - MARKETS INFRASTRUCTURE INVESTORS
+The European Securities and Markets Authority (ESMA) today published its first statistical report on European Union (EU) Alternative Investment Funds (AIF). The study finds that the EU AIF sector in 2017, as measured by Net Asset Value (NAV), amounted to €4.9tn or nearly one third of the total EU fund industry. The report is based on data from 26,378 AIFs, or 80% of the market, and will be published annually.
+Sector breakdown
+Funds of Funds accounted for 16% of the industry, followed by Real Estate (RE) Funds (11%), Hedge Funds (5%) and Private Equity Funds (4%). The remaining category of Other AIFs accounts for close to two-thirds of the industry (63%), which highlights potential classification issues and therefore a more detailed analysis of this category will be carried out by ESMA. Most AIFs are sold to professional investors (81%) but retail participation is significant (19%), with the highest share in the Funds of Funds and Real Estate categories.
+Hedge Funds sector highly leveraged
+The AIF market in general has a relatively low risk profile, with limited use of leverage for most AIFs, except for hedge funds whose leverage stems mainly from their use of derivatives to increase their exposure (synthetic leverage), rather than from direct borrowing.
+Significant liquidity risk in the Real Estate Funds sector
+For most AIFs the liquidity risk is limited, as the liquidity of their portfolio is higher than the liquidity offered to investors. However, RE Funds are exposed to significant liquidity risk as they invest in illiquid assets while allowing investors to redeem their shares over a short time-frame. This liquidity mismatch is a concern, especially given the high share of retail investors in RE (26%).
+Steven Maijoor, Chair, said:
+“ESMA’s analysis of the data collected from AIFs, presented today, gives a first comprehensive overview of this important sector. The collection and analysis of data supports ESMA, and National Competent Authorities, in our work enhancing investor protection and promoting orderly and stable financial markets in the European Union.
+“Our data analysis has highlighted some issues requiring further attention, including the issue of fund classification, while the liquidity mismatches identified in the Real Estate Funds sector, with its important share of retail investors, indicates potential risks for investors.
+“This data will also support National Competent Authorities in their supervision of AIFs, and further strengthens supervisory convergence throughout the EU.”
+The report includes three sections, covering:
+·         Market monitoring – including an analysis of structures and trends in European AIFs markets during each reporting period, building on the indicators developed for risk monitoring;
+·         Statistical methods – focusing on challenges related to the use of AIFMD data, as well as a comparison of the US and EU hedge fund sector; and
+·         AIF statistics – setting out a full list of indicators and metrics currently monitored by ESMA.

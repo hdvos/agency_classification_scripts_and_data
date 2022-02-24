@@ -1,0 +1,10 @@
+European Cooperation: faster, more efficient back office for Greece
+
+
+
+The Hellenic Industrial Property Organisation (OBI), with the support of the EUIPO’s European Cooperation projects, has implemented an enhanced back office system.
+This release contains in particular a technological upgrade that is designed to increase the performance, security and maintenance of the back office system.
+The back office tool helps OBI to manage multiple tasks related to the designs lifecycle, including examination and registration.
+The implementation was carried out within the framework of the European Cooperation projects, in particular the project ‘ECP2 Major improvements to back office’.
+The project supports IP offices in their bid to make the main business processes for designs and trade marks more efficient, reliable and user-friendly.
+In total, the EUIPO and its stakeholders are collaborating on five major . The main aim of the projects is to benefit users across the EU by providing modern, state-of-the-art tools and services for European IP offices.

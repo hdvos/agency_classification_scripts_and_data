@@ -1,0 +1,5 @@
+Clean Sky's HiLiCo: Bright ideas take flight 
+
+14 October 2019
+Dimmable windows are a popular cabin design feature for passengers flying high above the clouds when the cabin becomes too bright, but for obvious safety reasons this is not an option in the cockpit. Consequently, the avionics instrument displays on which pilots rely for monitoring every aspect of the aircraft's situation, performance, navigation and other key flight parameters have to be exceptionally bright. However, this means that they also consume a lot of electricity and generate unwanted heat. Clean Sky's HiLiCo project is en route to deliver the technologies for a next generation 'see-through' pilot's headset-based instrumentation display system using low-energy-consuming Gan LED technology.
+

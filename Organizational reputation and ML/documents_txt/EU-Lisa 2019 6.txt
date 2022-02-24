@@ -1,0 +1,28 @@
+26/02/2019
+eu-LISA and #NoMoreRansom 
+​No More Ransom (NMR) showcases the value of public-private cooperation in disrupting criminal businesses with ransomware connections. Victims should no longer be forced to either pay a ransom or lose their files. By restoring access to their infected systems free of charge, we provide users with a thirdchoice they did not have before.
+What is ransomware?
+Ransomware is a type of malware that prevents or limits users from accessing their systems or devices. The malware asks them to pay a ransom through specific online payment methods by a certain deadline to regain control of their data.
+The infection can happen in many different ways, such as:
+visiting compromised websites;
+downloading fake application updates or compromised software;
+clicking on malicious links and attachments embedded in phishinge mails;
+connecting infected external devices (e.g. USBs) to the computer system
+What is No More Ransom?
+NMR is a public-private partnership between law enforcement and industry leaders launched in July 2016.
+Through , the project aims to:
+assist victims in the recovery of their encrypted files;
+raise awareness of the ransomware threat in the public arena;
+provide direct links to the national police agencies of the EU Member States and beyond to encourage citizens to report the attacks.
+How does it work?
+The victim uploads two encrypted files and the ransomware note to the NMR Crypto Sheriff.
+The Crypto Sheriff matches the information against a list of available decryption tools.
+If there is a positive hit, the link to the tools is provided. The victim only needs to follow the instructions to unlock their files.
+If no tool is available at the moment, the victim is advised to continue checking in the future, as new tools are added on a regular basis.
+Who can join the project?
+Official entities from all sectors bringing a unique skill set (an approval procedure applies).
+There are two partnership levels:
+Associate partner: providing unique decryption tools or decryption keys not yet available in the project portal. The signature of a dedicated legal agreement applies.
+Supporting partner: promoting the NMR project in their geographical area of influence or service, contributing material for prevention campaigns and translating portal content into different languages. Only a consent form is required.
+Contact  if you think you qualify!
+Member States; Partners

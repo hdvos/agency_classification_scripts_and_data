@@ -1,0 +1,22 @@
+PODIUM U-space deliverables published
+Nov. 25, 2019
+The SESAR Horizon 2020 PODIUM project has published its conclusions and recommendations for U-space in addition to all the supporting material. The project performed demonstrations of U-space services and technologies across five sites in Denmark, France and the Netherlands. It concludes that there is a very strong demand from all stakeholders for U-space solutions that can ease the burden of obtaining flight authorisations for drone flights, and that increase situational awareness to enable safety and efficiency benefits during flight execution.
+The project also concludes that U-space services for the pre-flight phase are practically ready for deployment, but that significant action is needed to ensure that U-space services can really take off in the flight execution phase.
+The deliverables
+The main PODIUM deliverables are now available on SESAR Joint Undertaking website:
+
+
+
+
+
+
+
+How to read the PODIUM deliverables? 
+ 
+- You’d like a brief introduction to PODIUM and the main results? We recommend that you read the executive summary and the conclusions and recommendations in the PODIUM demonstration report (D1_2).
+ 
+- You’d like to go into more depth about the services, sites, operational scenarios, validation approach, etc.? We recommend that you take a closer look at the whole of the PODIUM demonstration report (D1-2) and maybe the Concept & Architecture definition (D2-1)..
+ 
+- You are a real U-space and UTM fanatic, and you’re keen to go into the details of PODIUM? You are very welcome to browse all of the deliverables.
+ 
+PODIUM stands for Proving Operations of Drones with Initial Unmanned aircraft system traffic Management. The main PODIUM partners are EUROCONTROL (project coordinator), Airbus, Delair, Drone Paris Region, DSNA, Integra Aerial Services, Naviair, NLR, Orange and Unifly. PODIUM supports U-space, the European vision for the safe, secure and efficient handling of drone traffic, and a key enabler for a growing drone market to generate economic and societal benefits.

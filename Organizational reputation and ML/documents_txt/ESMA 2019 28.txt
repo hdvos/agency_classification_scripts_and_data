@@ -1,0 +1,27 @@
+ESMA SEES SIGNIFICANT ROOM FOR IMPROVEMENT IN NATIONAL REGULATORS’ SUPERVISION OF DERIVATIVES DATA 
+17 October 2019 
+POST TRADING
+SUPERVISORY CONVERGENCE
+The European Securities and Markets Authority (ESMA) has today published the results of a  it conducted into supervisory actions of six National Competent Authorities (NCAs) regarding their approaches at enhancing the quality of derivative data reported under the European Market Infrastructure Regulation (EMIR). 
+This peer review complements ESMA’s Data Quality Action Plan (DQAP) in order to further improve the quality and usability of derivatives data.       
+The review was targeted at those six NCAs who supervise important derivative markets in the European Union (EU) and have key counterparties reporting their derivative trades to EU Trade Repositories, namely:
+the Netherlands Authority for the Financial Markets (AFM);
+the French Authority of the Financial Market (AMF);
+the German Federal Financial Supervisory Authority (BaFin);
+the Central Bank of Ireland (CBoI);
+the Cypriot Securities and Exchange Commission (CySEC); and
+the UK Financial Conduct Authority (FCA).
+In addition, ESMA was reviewed in its role as direct supervisor of Trade Repositories (TRs).
+Review finds differences across Member States
+
+
+The peer review assessed how the six Authorities supervised data quality under EMIR in the following areas:
+NCAs’ supervisory approach to EMIR data quality;
+Integration of EMIR data within the NCA’s overall supervisory approach; and
+NCAs’ access, assessment and analysis of EMIR data quality.
+The review delivered mixed results for the six NCAs. The majority of NCAs had a supervisory approach to EMIR data quality in place. However, two NCAs lagged behind when it comes to integrating EMIR data quality controls into their overall supervisory approach, which negatively impacted the NCAs’ ability to access, assess and analyse EMIR data.
+ESMA identifies good practices and sets out plans to improve supervision of data quality    
+The review also identified good supervisory practices by the six Authorities. These good practices should be considered by all NCAs and, where appropriate, incorporated into existing supervisory approaches. ESMA has also put forward several initiatives to improve the supervision of EMIR’s data quality in the short and long-term. The short-term initiatives include: revising NCAs’ annual Data Quality Review exercises and identifying how NCAs can regularly use the data as part of their overall supervisory approach.
+Background
+Under EMIR, counterparties established in the EU must report details of any derivative contract they have concluded, modified or terminated, to registered TRs, which are supervised by ESMA. The reporting obligations apply to all derivative transactions (both over the counter and exchange-traded and cleared and non-cleared) of all asset classes. One of the many objectives of EMIR is to aim to reduce and identify systemic and counterparty risk and help prevent future financial system collapse by providing regulators high quality data.
+ESMA and NCAs jointly launched the Data Quality Action Plan (DQAP) in September 2014. The DQAP is a voluntary self-assessment exercise based on annually agreed assessment criteria, undertaken by NCAs and ESMA, to improve the quality of certain aspects of data quality. However, separate to this exercise, ESMA decided in 2018 to conduct a peer review on supervisory actions aiming at enhancing the quality of data reported under EMIR. Undertaking a peer review is an additional tool available to improve data quality.

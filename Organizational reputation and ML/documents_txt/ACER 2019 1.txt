@@ -1,0 +1,24 @@
+ACER analyses national methodologies for electricity transmission tariffs in the EU
+
+23/12/2019
+The European Union Agency for the Cooperation of Energy Regulators (ACER) released today a report reviewing the status of methodologies for electricity transmission tariffs in the European Union Member States. 
+
+This report​ is a contribution towards the Clean Energy Package objective to increase transparency and comparability in tariff-setting. The report also presents the findings of ACER's monitoring of transmission charges paid by producers. The status review of the distribution tariff structures and the identification of best tariff practices will be subject to future ACER reports. Find below the main findings in different areas.
+
+Methodology setting
+
+In all but three jurisdictions/countries the corresponding National Regulatory Authority (NRA) directly sets the transmission tariff methodology or approves a proposal by the transmission system operator. Tariff stability and predictability are pursued when setting transmission tariffs; in most jurisdictions countries, the tariff methodology is set for multiple years (frequently four or five).
+
+In all but five countries a public consultation is carried out before the transmission tariff methodology is set, in others at least some key stakeholders are consulted. The information on fundamental tariff elements is usually publicly available.
+
+Application of tariffs ​
+
+About half of the jurisdictions apply transmission tariffs for injection, beyond the transmission tariffs for withdrawal, which apply in all jurisdictions. The share of costs paid by producers ranges from around 2% up to 35%, depending on the jurisdiction. Full or partial exemptions from the transmission tariffs apply in a few jurisdictions to some network users such as small-capacity producers, energy storage facilities and lower-voltage level connected users.
+
+Injection charges have only an energy component in half of the jurisdictions, while in four jurisdictions an additional power-based or a lump sum component is also applied. Three jurisdictions have a capacity-based injection charge. The withdrawal charges mostly have an energy-based and a power-based component. Few jurisdictions apply a pure energy-based charge and one jurisdiction has a charge with a power based and a lump sum component.
+
+Costs categories can be recovered by a single transmission tariff or by a combination of different charges. ACER notes that this variety of tariff structures, including the different perimeters of the transmission tariff, makes the comparison of transmission tariffs in Europe a difficult task, where distinguishing at least between network tariffs and charges for system services would be helpful.
+
+Economic signals embedded in tariffs
+
+In about 40% of the jurisdictions time signals are embedded in transmission tariffs, mostly in the withdrawal charges. Several time signal types (seasonal, day and night, peak, dynamic pricing) often coexist. In about 20% of the jurisdictions locational signals are incorporated in transmission tariffs, frequently both in the injection charges and in the withdrawal charges.

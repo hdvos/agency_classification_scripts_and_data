@@ -1,0 +1,19 @@
+Update on the Change of Financial Market Data Provider for the calculation of Solvency II Risk-Free Interest Rate Term Structures 
+NEWS
+ 
+DATE:
+ 
+26 Jul 2019
+The European Insurance and Occupational Pensions Authority (EIOPA) is publishing the list of Reuters Instrument Codes (RICs) of financial market data for the calculation of the technical information relating to the risk-free interest rates (RFR) term structures, namely of the following rates: 
+Interest rate swap rates
+Zero coupon government bond interest rates
+Inter-bank offered rates
+Overnight indexed swap rates
+Additional data necessary for the calculation of the volatility adjustment
+The published instruments provided by Refinitiv were sufficiently tested, validated and deemed proper replacements for the currently used ones. 
+From 1 January 2020 onwards EIOPA plans to use Refinitiv as the main source of the RFR production process. Hence, the first publication of the technical information using this data would be for the reference date 31 January 2020. All historical data will be retained.
+Stakeholders are invited to comment on the specific RICs chosen by EIOPA or submit any comment on the process by email to  until close of business on Friday, 16 August 2019. Afterwards, a revised RFR Technical Documentation containing the RICs as well as adjustments to the DLT points can be expected to be published by the end of Q3/2019.
+Background
+The technical information relating to risk-free interest rate (RFR) term structures is used for the calculation of the technical provisions for (re)insurance obligations. 
+In line with the Solvency II Directive, EIOPA publishes the technical information relating to RFR term structures on a monthly basis via a dedicated section on EIOPA's Website also containing the release calendar for 2019, the RFR Technical Documentation, the RFR software source code and Frequently Asked Questions.
+With this publication, EIOPA ensures consistent calculation of technical provisions across Europe.

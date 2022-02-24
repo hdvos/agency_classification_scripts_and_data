@@ -1,0 +1,8 @@
+Smells like ‘team’ spirit: SESAR members address air traffic congestion
+Feb. 20, 2019
+SESAR members recently tested several new air traffic management functionalities aimed at tackling congestion in Europe’s skies.
+The tests gathered teams from the European Network Manager, airlines, air navigation service providers and industry. Together they validated several functionalities to enable airlines to share their preferences and feedback with flow managers, and work collaboratively on finding alternative solutions to address traffic delays and congestion.
+The partners tested the functionalities using concrete scenarios, such as the capacity situation of summer 2018, and use cases such as the management of air traffic flow and capacity management (ATFCM) measures by airlines themselves or the management of ATFCM measures by flow managers
+The tests were carried out using The Network Manager’s validation platform (*) using NM B2B web services (**) and advanced “what-if functions” for airspace, users as well as dedicated prototypes developed by the EUROCONTROL.
+Further tests are planned in April 2019, which will seek to integrate further functionalities relating to airspace users to provide their preferences (e.g. Flight delay criticality indicator).
+The tests were conducted in the framework several SESAR 2020 projects: Optimised Airspace Users Operations (PJ.07), Advanced Airspace Management (PJ08) and Advanced Demand Capacity Balancing (PJ.09), Common Services (PJ15), 4D Trajectory Management (PJ18) and Network Collaborative Management (PJ24).

@@ -1,0 +1,16 @@
+SCIP database will improve transparency on hazardous substances in articles
+ECHA/NR/19/29
+The information requirements for the upcoming database on articles containing Candidate List substances (SVHCs) are now published. Companies will need to submit information to the database from January 2021 onwards.
+Helsinki, 9 September 2019 - Under the Waste Framework Directive, suppliers of articles containing a substance of very high concern (SVHC) on the Candidate List need to provide information on their safe use to ECHA. The new SCIP database will contain information on substances of concern in articles, as such or in complex objects (products).
+A prototype of the database is planned for early 2020. It will be further improved and extended with new features later that year. Companies placing articles on the EU market will need to submit notifications from 5 January 2021. The aim is to promote the substitution of hazardous chemicals and a circular economy.
+The information requirements, which define the content of the database, have been developed based on legal requirements and consultations with the European Commission, Member States and stakeholders. Suppliers of articles need to provide:
+information that allows the article to be identified;
+the name, concentration range and location of the SVHC in the article; and
+possibly other information on the safe use of the article.
+The SCIP database will provide waste operators with information about the hazardous substances in the waste they process so that material streams can potentially be “cleaned” before recycling and reused in the production of new articles to ensure a true and safe circular economy.
+In addition, the increased transparency on the presence of hazardous substances will help consumers to make better informed choices when purchasing products and provide information on how to best use and dispose of such articles.
+Next milestones
+Autumn 2019: launch of a user test group and a stakeholder workshop at ECHA (preliminary date 12 November)
+Early 2020: launch of the prototype version of the database
+July 2020: deadline for Member States to transpose the legal requirements into national law
+5 January 2021: notification duty kicks in for industry

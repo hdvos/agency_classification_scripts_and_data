@@ -1,0 +1,33 @@
+Almost all car makers met their 2017 CO2 emission targets on new sales, but overall progress towards the 2021 targets is insufficient
+
+PDF
+News  Published 04 Apr 2019  Last modified 10 Dec 2019  4 min read
+Image copyright: Filip Filkovic Philatz on Unsplash
+Climate change mitigation Transport Policy instruments
+All but three car manufacturers met their specific emission targets in 2017, based on current European vehicle test rules. Nevertheless, average carbon dioxide (CO2) emissions from new cars sold in the European Union in 2017 rose by 0.4 grammes (g) of CO2 per kilometre (km) from 2016, according to final data published by the European Environment Agency (EEA). This increase brings car manufacturers further away from their 2021 targets.
+The EEA report ‘Monitoring CO2 emissions from new passenger cars and new vans in 2017’ confirms provisional data published by the EEA in April 2018. The final data show that average CO2 emissions of a new car sold in the EU rose by 0.4 g CO2/km in 2017 to 118.5 g CO2/km, from 118.1 g CO2/km in 2016. Although this level remains below the current target level of 130 g CO2/km, it is well above the target of 95 g CO2/km to be achieved by 2021.
+
+Since 2010, when monitoring started under current EU legislation, official emissions from new cars have decreased by 15.5% (almost 22 g CO2/km). However, between 2015 and 2016, emissions decreased by only 1.5 g CO2/km, which was less than half of the average annual reduction needed to reach the 2021 target. The increase in 2017 is a stark confirmation that car makers need to achieve further and faster improvements in manufacturing and promoting more efficient cars.
+
+Average CO2 emissions of new light commercial vehicles (vans) dropped by 7.5 g CO2/km from 2016. The average new van registered in 2017 emitted 156.1 g CO2/km. This reduction brings the EU average emissions 11 % below the 2017 target of 175 g CO2/km and 6 % above the 2020 target.
+
+While all van manufacturers respected their specific emission targets in 2017, three car manufacturers (Automobili Lamborghini, Mazda Motor Corporation and Société des Automobiles Alpine), representing together 1.4 % of all new car sales in 2017, exceeded their specific emission targets for 2017. While certain other manufacturers, if considered individually, would have exceeded their specific emission target, they met their obligations as members of pools or thanks to derogations.
+
+Other key findings
+For the first year since 2009, petrol cars constituted the majority of new registrations in 2017 (almost 53 %). The proportion of electric vehicles (plug-in hybrid and battery electric cars) increased from 1.0 % in 2016 to 1.5 % in 2017.
+New diesel cars, which were on average around 300 kilograms (kg) heavier than new petrol cars, emitted on average 117.9 g CO2/km, which is 3.7 g CO2/km less than the average petrol car. The average fuel efficiency of new petrol cars has been constant in 2016 and 2017, whereas the fuel-efficiency of new diesel cars has worsened compared to 2016 (116.8 g CO2/km).
+If similar petrol and diesel segments are compared, new conventional petrol cars emitted 10-40 % more than new conventional diesel cars. For diesel cars, only the large‑sized segment managed to achieve a small reduction (0.5 g CO2/km) in 2017 compared with 2016. For conventional petrol cars, large-sized cars saw a significant reduction in CO2 emissions of around 6 g CO2/km, and medium/small-sized cars remained rather stable.
+Amongst the largest automakers, Toyota Motor Europe had the lowest average CO2 emissions for new passenger cars registered in 2017 (with 103 g CO2/km). Automobiles Peugeot and Automobiles Citroen followed with (105 g CO2/km) and (106 g CO2/km), respectively. As in every year since vans monitoring commenced, Automobile Dacia SA was the lowest-emitting vans manufacturer (118 g CO2/km in 2017).
+BMW AG, Renault, Daimler AG, Volkswagen together sell more than 50 % of the new electric vehicles in the market.
+Post-2020 CO2 targets for cars, vans and heavy-duty vehicles
+In December 2018, EU lawmakers reached an agreement on emission targets for the average fleet emissions of new passenger cars and light-commercial vehicles for 2025 and 2030. These targets aim to reduce the average CO2 emissions from new cars by 15 % in 2025 and by 37.5 % in 2030, compared with 2021 baseline levels. For light-commercial vehicles, the targets consist of reductions by 15 % in 2025 and 31 % in 2030, relative to 2021. In February 2019, EU lawmakers also reached an informal agreement setting a 30 % reduction target for the average fleet emissions of new trucks by 2030.
+
+EEA activities
+The EEA collects and regularly makes available data on new passenger vehicles registered in Europe in accordance with EU Regulation (EC) No 443/2009 and data on new light commercial vehicles registered in Europe in accordance with Regulation (EU) No 510/2011. The data reported by EU Member States includes information on CO2 emissions and vehicle weight.
+
+In 2019, the EEA will start collecting data on new heavy-duty vehicles in accordance with Regulation (EU) No 2018/956.
+
+Testing vehicle emissions
+Member States report new vehicles' CO2 emission levels, measured under standardised laboratory conditions, following the requirements of the New European Driving Cycle (NEDC) test procedure. This procedure is designed to allow a comparison of emissions for different manufacturers. However, there is now wide recognition that the NEDC test procedure, dating from the 1970s, is outdated and does not represent real-world driving conditions and emissions due inter alia to a number of flexibilities that allow vehicle manufacturers to optimise the conditions under which their vehicles are tested.
+
+The EEA has published a non-technical guide explaining the key reasons for the differences observed between official and real world driving emissions. The 'Worldwide harmonized Light vehicles Test Procedure' (WLTP) has been introduced since September 2017 to decrease the divergence between laboratory test and real world emissions. For a very limited amount of records, CO2 emissions measured using WLTP are also reported.

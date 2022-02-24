@@ -1,0 +1,16 @@
+CRYPTOCURRENCY IOTA: INTERNATIONAL POLICE COOPERATION ARRESTS SUSPECT BEHIND 10 MILLION EUR THEFT 
+23 January 2019
+Press Release
+
+
+
+
+
+THIS NEWS/PRESS RELEASE IS ABOUT 
+
+Today, the UK’s South East Regional Organised Crime Unit (SEROCU), in a joint operation with the Hessen State Police in Germany, the UK’s National Crime Agency (NCA) and Europol, has arrested a 36 year-old individual on suspicion of fraud, theft and money laundering.
+The man was arrested by SEROCU following a search warrant carried out at an address in the city of Oxford, UK. A number of computers and electronic devices were also seized. 
+The operation was launched following the theft of around €10 million in the IOTA cryptocurrency from over 85 victims worldwide since January 2018.
+The investigation began in early 2018 when the Hessen State Police received several reports from citizens of money been stolen from their cryptocurrency wallets. Further investigations revealed the existence of fraud from the website Iotaseed.io, targeting the users of the IOTA cryptocurrency. IOTA wallets are protected by an 81 digit seed, which can be generated using seed-generators found online, such as on the official IOTA website. Among the sites promoted online was a malicious seed-generator running on iotaseed.io. Several victims created the seed on this website in good faith, however the seeds were stored in the background by the service provider. Later the criminal used these to gain access to the victims’ wallets and transferred their money to other wallets created with fake IDs.　
+In July 2018, German authorities identified a possible suspect behind the fraud case living in the UK. The case was given to the Joint Cybercrime Action Taskforce (J-CAT) hosted at Europol’s European Cybercrime Centre (EC3), where analytical support delivered allowed the J-CAT to coordinate the international cooperation between the different EU Member States involved. 
+In addition, an operational meeting was organised at Europol’s headquarters between German and British investigators and Europol’s EC3. The meeting proved to be an invaluable asset for the smooth exchange of intelligence and evidence between the German and British authorities, which has led to this arrest.

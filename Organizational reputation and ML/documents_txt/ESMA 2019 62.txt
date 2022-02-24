@@ -1,0 +1,10 @@
+ESMA ANALYSES USE OF DERIVATIVES BY UCITS EQUITY FUNDS
+30 September 2019 
+FUND MANAGEMENT
+RISK ANALYSIS & ECONOMICS - MARKETS INFRASTRUCTURE INVESTORS
+The European Securities and Markets Authority (ESMA), the EU’s securities market regulator, has conducted a study on the use of derivatives by UCITS equity funds in collaboration with researchers from the Technical University of Munich (TUM). 
+ 
+The study, included in the latest uses data collected under the EMIR framework, and finds that the tendency, and frequency, of these funds to trade derivatives is explained to a large extent by asset managers characteristics, such as fund family and fund family size. Over time, cash inflows as well as currency risk seem to have a significant influence, which suggests that derivatives are used for transaction costs or risk reduction purposes.
+After the financial crisis in 2008, global regulators started to shed more light on derivatives markets, including the use of derivatives by market participants. Under various regulatory frameworks (such as EMIR in the EU) derivatives transactions are reported to the authorities, enabling a granular analysis of derivatives transactions, leading to a better understanding of the market and making it easier to spot potentially problematic development at an earlier stage.
+The analysis included in this study provides new insight into the type of derivatives that are traded by UCITS equity funds, why some of them trade derivatives whilst others do not, what makes some more active traders and to what extend the trading in derivatives is a reaction to daily changes in the market. UCITS equity funds mainly use forward contracts on currencies (80% of trades) and futures or options on equities (26%).
+ESMA will continue to use its regulatory data to provide analysis and insights into the functioning of different sectors of the financial markets in the EU. 

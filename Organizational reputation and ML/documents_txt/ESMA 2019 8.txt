@@ -1,0 +1,25 @@
+ESMA CALLS FOR STRENGTHENED SUPERVISION ON SUSPICIOUS TRANSACTION REPORTING
+12 December 2019 
+MARKET ABUSE
+SUPERVISORY CONVERGENCE
+The European Securities and Markets Authority (ESMA) has today published a  on how national competent authorities (NCAs) handle suspicious transactions and order reports (STOR) under the Market Abuse Regulation (MAR). 
+The Report sees a significant increase in suspicious transaction and order reporting and finds that national supervisors can do more to ensure all financial participants play their part in combatting market abuse.
+Persons professionally arranging or executing transactions, investment firms and trading venues need to report STORs to their NCA, so those authorities can analyse suspicious behaviours and investigate possible cases of insider dealing or market manipulation. Hence, STORs help to preserve market integrity while enhancing investor protection and market confidence.
+Since the entry-into-force of MAR in mid-2016, which broadened the reporting requirements, NCAs received 10,653 STORs in 2017 and 11,130 STORs in 2018. This compares to 4,634 reports during the final year of the Market Abuse Directive. In addition, in 2018, NCAs received 1,560 other notifications of alleged market abuse, such as consumer complaints, whistle-blower reports, which emphasises the significance of STORs.
+Steven Maijoor, ESMA Chair, said:
+“Suspicious transactions and orders reporting is an important tool to fight market abuse. Both regulators and market participants need to play their role when it comes to detecting and reporting suspicious activity to support the prevention or investigation of market abuse.
+“Our review highlights good examples of NCAs’ supervision and enforcement of STOR requirements. However, we as European regulators need to make further progress in ensuring firms’ compliance and in challenging poor-quality reporting.”
+ESMA recommends measures to further strengthen STOR supervision
+The ESMA peer review assessed all 31 NCAs in six areas to evaluate the effectiveness of their STOR supervision. Overall, ESMA found that NCAs are performing well in the analysis of suspected market abuse reported in STORs which has been facilitated by close cooperation and sharing of practices amongst NCAs.
+However, ESMA also identified some areas for improvement in NCAs’ supervision and enforcement of the STOR requirements. ESMA recommends that NCAs: 
+ensure all financial players subject to the STOR requirements, including wholesale market participants such as asset managers, are complying with the STOR requirements; and
+enhance their focus on suspected non-reporting/poor-reporting of STORs including, where appropriate, enforcing and sanctioning non-compliance.
+Overall, six NCAs were assessed as fully complying in at least four of the six assessment areas, namely those from Belgium, France, Italy, the Netherlands, Portugal and the United Kingdom.
+In the areas identified for improvements:
+11 NCAs were assessed as partially-compliant (Austria, Bulgaria, Greece, Iceland, Ireland, Latvia, Liechtenstein and Luxembourg) or non-compliant (Cyprus, Norway and Romania) in their supervision of the STOR requirements by certain financial players; and
+13 NCAs were assessed as partially compliant (Croatia, Denmark, Estonia, Greece, Iceland, Latvia, Lithuania, Malta, Poland, Romania and Slovakia) or non-compliant (Cyprus and Liechtenstein) in their response to poor-quality or suspected non-reporting of STORs and associated enforcement actions.
+In all cases of less than full compliance, ESMA identifies bespoke improvements for each NCA.
+Background
+ESMA, in order to conduct this peer review, issued a self-assessment questionnaire to 31 NCAs. The questionnaire was followed by on-site visits to six NCAs (Germany, Greece, Ireland, Italy, Romania and Sweden). As part of those on-site visits, ESMA met different stakeholders, including 14 investment firms and three trading venues. Separately, to gather additional insights, ESMA met with European industry bodies representing trading venues, investment firms and asset managers and received input from its Securities & Markets Stakeholder Group.
+Next steps
+ESMA will follow-up with NCAs on the different individual findings as noted in the peer review report.

@@ -1,0 +1,9 @@
+ESMA INTEGRATES LATEST IFRS UPDATES IN ITS ESEF TAXONOMY
+07 June 2019 
+EUROPEAN SINGLE ELECTRONIC FORMAT
+The European Securities and Markets Authority (ESMA) has published a  on the European Single Electronic format (ESEF) to update the core taxonomy to be used for ESEF reporting. 
+This follows publication of theon 29 May 2019.
+The core taxonomy currently included in the RTS on the ESEF is the 2017 IFRS Taxonomy. The draft amendment aims to replace that version with the most recent one published by the IFRS Foundation in March 2019. This update is a purely technical amendment to the original RTS on the ESEF.
+The ESEF taxonomy is based on the IFRS Taxonomy, and as the IFRS Standards and taxonomy evolve, the RTS on ESEF needs to evolve accordingly to provide preparers with the most relevant ESEF taxonomy for tagging IFRS consolidated financial statements.  This will promote electronic reporting that is up-to-date with the applicable reporting standards, facilitating implementation of the tagging requirements and ensuring the highest comparability of filings for end-users at European and global level.
+Next steps
+The RTS on ESEF will be amended on a yearly basis to reflect updates to the IFRS Taxonomy published by the IFRS Foundation.

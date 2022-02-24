@@ -1,0 +1,34 @@
+FAQ: phthalates in plastic food contact materials
+
+
+EFSA has updated its risk assessment of five phthalates used in plastic food contact material.
+
+What are phthalates?
+Phthalates are chemicals used to soften (or ‘plasticise’) plastics used in a range of industrial and consumer products including plastic food contact materials such as PVC.
+
+What work has EFSA recently completed on phthalates?
+We have published a scientific opinion on five phthalates authorised for use in plastic food contact materials (FCM) and previously assessed by EFSA in 2005. The five substances are known as DBP, BBP, DEHP, DINP and DIDP (see full names below).
+
+In light of new scientific evidence EFSA was asked to review the safe levels for the five phthalates in plastic FCM and to evaluate whether current dietary exposure to them posed a concern for public health.
+
+How much of the five phthalates is safe in food contact materials?
+Our experts set a new safe level – a group Tolerable Daily Intake (TDI) – for four of the five phthalates (DBP, BBP, DEHP and DINP) of 50 micrograms per kilogram of body weight (µg/kg bw) per day based on their effects on the reproductive system. The TDI is an estimate of the amount of a substance that people can ingest daily during their whole life without any appreciable risk to health. The key effect on which this group-TDI is based is a reduction in testosterone in fetuses. The fifth phthalate in the assessment, DIDP, does not affect testosterone levels in fetuses, therefore we set a separate TDI of 150 µg/kg bw per day based on its effects on the liver (as in our 2005 evaluation).
+
+We set all these TDIs on a temporary basis due to uncertainties about effects other than the reproductive ones and about the contribution of plastic FCM to overall consumer exposure of phthalates. Our experts identified a need to address these uncertainties by considering the whole body of evidence.
+
+Are there any safety concerns?
+Current exposure to these five phthalates from food is not a concern for public health. Dietary exposure to the group of DBP, BBP, DEHP and DINP for average consumers is 7 µg/kg bw or seven times below the safe level, while for high consumers it is 12 µg/kg bw, which is four times lower. For DIDP, the dietary exposure for high consumers is 1,500 times below the safe level.
+
+How has EFSA’s assessment changed compared to 2005?
+This new assessment of the five phthalates is in line with our 2005 assessment in terms of their most sensitive effects and the individual tolerable daily intakes. The main differences concern an improved estimate of dietary exposure to phthalates and the introduction of the group-TDI for four of the phthalates to account for combined exposure to several phthalates at the same time. This is a common occurrence and confirmed by data from studies with humans, e.g. traces found in urine.
+
+ 
+
+Notes to editors:
+The full chemical names and EU reference numbers of the five phthalates assessed by EFSA are:
+
+di-butylphthalate (DBP) – FCM No 157
+butyl-benzyl-phthalate (BBP) – FCM No 159
+bis(2-ethylhexyl)phthalate (DEHP) – FCM No 283
+di-isononylphthalate (DINP) – FCM No 728
+di-isodecylphthalate (DIDP) – FCM No 729

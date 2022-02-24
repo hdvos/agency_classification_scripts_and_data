@@ -1,0 +1,14 @@
+EBA consults on supervisory reporting changes related to CRR2 and Backstop Regulation (Framework 3.0) 
+16 October 2019
+The European Banking Authority (EBA) launched today a public consultation on revised Implementing Technical Standards (ITS) on supervisory reporting, which aim to keep the reporting requirements in line with changes in the regulatory framework and with the evolving needs for Supervisory Authorities' risk assessments. 
+In particular, in 2019, there were two amendments to the CRR affecting supervisory reporting:
+The amending Regulation (EU) 2019/876 (‘CRR2'), which implements a number key measures such as liquidity, leverage and large exposures;
+The amending Regulation (EU) 2019/630 (‘Backstop Regulation'), which sets minimum loss coverage for future non-performing exposures (NPEs).
+This consultation paper proposes changes to different areas of reporting, including own funds, credit risk, counterparty credit risk, large exposures, leverage ratio, net stable funding ratio and FINREP. The review of the reporting framework is designed to replace the Commission's Implementing Regulation (EU) No 680/2014 and has been used as an opportunity to improve the consistency between the reporting and disclosure requirements, with a view to facilitate institutions' compliance with both requirements. A regarding the draft ITS on public disclosures by institutions was also launched today.
+This consultation paper is the first one of the deliverables that will be presented in a forthcoming roadmap ‘EBA work to improve the reporting in the EU', which describes the EBA's strategy to implement the CRR2/CRD5, the BRRD2 and the IFR mandates in the reporting framework and it will be published in Q4 2019. This roadmap is part of an overall roadmap with the strategic work plan of EBA.
+Consultation process
+Responses to this consultation can be sent to the EBA by clicking on the "send your comments" button on the consultation page. All contributions received will be published after the consultation closes, unless requested otherwise. The deadline for the submission of comments is 16 January 2020.
+A public hearing will take place at the EBA premises on 2 December from 10:00 to 12:30.
+Legal basis and next steps
+These draft ITS have been developed in accordance with Article 430(7) of Regulation (EU) No 575/2013 which mandates the EBA to develop uniform formats, definitions, frequencies and reference and remittance dates and IT solutions.
+The EBA expects to submit these revised draft ITS to the European Commission in June 2020. The application of the revised requirements will be in June 2021, with the first reporting reference date as of 30 June 2021. During the summer of 2020, the EBA will publish draft Data Point Models (DPM) on the proposed changes to supervisory reporting.

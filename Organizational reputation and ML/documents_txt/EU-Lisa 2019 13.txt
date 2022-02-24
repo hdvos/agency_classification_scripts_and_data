@@ -1,0 +1,6 @@
+01/03/2019
+Eurodac MSI/Optical Test Study 
+Starting the 1st of April 2019, for a maximum duration of 2 months, as per the mandate received from the Eurodac Advisory Group (AG), eu-LISA with the support of two Member States, will coordinate tests related to the usage of a new fingerprint scanning technique in the context of Eurodac. 
+The purpose of this study is to assess if the use of Multi-Spectrum Imaging devices, for the scanning of fingerprints, affects the performance of the Central Eurodac System (matching accuracy etc.). Based on the outcome, it will be determined whether such devices should be allowed for general use within the scope of application of Regulation (EU) No. 603/2013 (the “Recast Regulation”). To do this, eu-LISA will test the new scanners with real fingerprints provided by competent national authorities of the Member States of the European Economic Area (EEA).
+For further information, see the European Data Protection Supervisor's  on a notification for checking received from the Data Protection Officer of eu-LISA related to the “Eurodac MSI/Optical Scan Test Study” (Case 2015-0082).
+Eurodac; Member States; Operational Management

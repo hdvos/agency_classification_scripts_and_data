@@ -1,0 +1,18 @@
+Young talent celebrated at 2019 SESAR Innovation Days
+Dec. 6, 2019
+Airspace design, the integration drones, machine learning and automation were just some of the research themes of this year’s SESAR Innovation Days (SIDS), which took place between 2-5 December in Athens. Bringing together over 400 participants, the event celebrated in particular young talent in aviation with the awarding of the Young Scientist Award and the Digital Sky Challenge.
+SESAR INNOVATION DAYS
+Hosted by the National Centre of Scientific Research (NCSR) "Demokritos", this year’s SIDs showcased results from European exploratory research on air traffic management (ATM). Main highlights of the event included:
+38 papers on a wide variety of topics including: airport operations, network flow management, complexity and data science, human factor, modelling and simulation techniques, machine learning, decision support tools, drones, meteorology, conflict detection, airspace architecture and design.
+21 posters presenting research on a variety of themes, including blockchain technologies for drones, safety net solutions, data-driven predictability tools, detection and tracking technologies for airport surface management, etc 
+The event also featured a panel with experts, who discussed the move towards advanced levels of automation in the ATM system. While there was a common consensus on the need for increasing levels of automation to cope with the traffic, the experts highlighted several areas needing particular attention, such as the human factor, change management, cyber resilience, certification and societal acceptance of the use of automated systems in a safety-critical industry such as ATM/aviation.
+Attracting young talent was also a recurring theme at the conference. In a dedicated panel, representatives from European and International aviation/ATM noted that bringing new blood into research and innovation will be the make or break of the aviation/ATM industry. They underlined the need for the ATM research community to become more open and embrace other disciplines to enrich its knowledge and expertise.  
+, the SESAR JU’s network for knowledge transfer, is supporting this effort through a wide range of activities, which Andrew Cook from Westminster University presented at this year’s SIDs. These include summer schools, thematic challenge workshops, catalyst funding and grants to support the participation of younger researchers at industry/academic events. 
+This is very much aligned with the , an initiative that the SESAR JU is working on to attract young talent with a skillset matching the needs of the future ATM system. 
+Proof of the current pool of talent was during the SESAR Young Scientist Award ceremony, which featured presentations from the three short-listed scientists. In third place, Leonid SEDOV, Linköping University, was recognised for his research on capacity estimations and route planning for the management of dense drone traffic in very low level (VLL) uncontrolled airspace. Javier Alberto Perez Castan from Universidad Politécnica de Madrid was awarded the second place for his research into continuous climb operations in high-density scenarios to reduce the capacity and safety impact of traffic around airports.
+Finally, this year’s top award went to Junzi Sun, Delft University of Technology, for his novel scientific approaches to modelling different aspects of aircraft performance. Rooted in the philosophy of open data and open models, the results of this research provide a framework that enables more transparency and comparability for future ATM research.
+
+
+
+
+The conference closed with the announcement that the next SESAR Innovations Days will take place in 

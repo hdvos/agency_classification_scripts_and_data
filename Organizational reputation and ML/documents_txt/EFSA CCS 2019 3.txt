@@ -1,0 +1,103 @@
+FAQ: cumulative risk assessment of pesticides
+
+ 
+
+Why is EFSA working on cumulative risk assessment?
+Risks to consumers from the presence of pesticide residues in food are currently estimated substance by substance. However, a number of pesticides have similar effects and their impact on human health could be greater in combination than individually.
+
+EU regulations on pesticides in food and feed stipulate that cumulative and synergistic effects of pesticides should be considered for dietary risk assessment when the appropriate methodologies are available. They also state that residues of pesticides should not have any harmful effects on human health, taking into account known cumulative and synergistic effects.
+
+EFSA has developed methodologies to carry out cumulative risk assessment (CRA) of pesticide residues in food. A procedure has been developed for establishing cumulative assessment groups (CAGs) of pesticides on the basis of their common toxicological effects.
+
+As part of this programme, EFSA has carried out two pilot cumulative risk assessments of pesticide residues: one considering chronic effects on the thyroid system and another looking at acute effects on the nervous system.
+
+What were the results of the two assessments?
+The overall conclusion for both assessments – taking into account uncertainties (see question 8) – is that consumer risk from dietary cumulative exposure is below the threshold that triggers regulatory action (see question 5) defined by risk managers at the European Commission and in EU Member States.
+
+What data were used?
+EFSA used data collected by EU Member States as part of their official monitoring of pesticide residues in food in 2014, 2015 and 2016, and consumption data from ten groups of consumers. These groups were selected to give a spread of geographical areas and age ranges. The groups were:
+
+Toddlers (Denmark, Netherlands, UK).
+Other children (Bulgaria, France, Netherlands).
+Adults (Belgium, Czech Republic, Germany, Italy).
+And which methodologies?
+The pilot assessments were based on the cumulative assessment groups (CAGs) established by EFSA. Two groups were used for the thyroid assessment comprising, respectively, 124 and 18 active substances; another two were used for the nervous system comprising, respectively, 100 and 47 substances.
+
+For each of the CAGs, two exposure assessments were carried out simultaneously, one by EFSA and another by the Dutch National Institute for Public Health and the Environment (RIVM).
+
+EFSA used the combined (total) margin of exposure concept (MOET). The concept is used commonly in chemical risk assessment, and an MOET of above 100 is generally considered protective of humans. An MOET of 100 at the 99.9th percentile of exposure was established as the threshold (or trigger) for regulatory consideration (see question 5).
+
+What is the threshold for regulatory consideration?
+The threshold for regulatory consideration is a level of protection set by risk managers – at the European Commission and Member States – in consultation with EFSA. It takes account of the MOET and the proportion (percentile) of the population covered. In this case the MOET is 100 and population coverage is 99.9%. So if the MOET for 999 out of 1,000 people is above 100, risk managers are likely to be satisfied that regulatory measures, such as reviewing levels of pesticide residues permitted in food (maximum residue levels), are not needed.
+
+So the margin of exposure was above 100 in all cases?
+No, for the nervous system exposure assessment, the MOET was under 100 at the 99.9th percentile for toddlers and children. But, importantly, in both assessments EFSA used conservative assumptions to compensate for missing or limited data. When an uncertainty analysis is applied (see question 8), it is judged to be either likely or very likely that the MOET will be above 100 for all the groups. Hence the overall finding that combined exposure falls below the threshold for regulatory consideration.
+
+How do you explain the exposure results at the 99.9th percentile for the nervous system?
+Calculating exposure at the 99.9th percentile – i.e. at extreme levels of consumer exposure – is challenging for risk assessors for a number of reasons, which are primarily related to the quality of the available data. For the assessment on the nervous system, the MOET estimates at the 99.9th percentile of exposure were calculated using worst-case assumptions leading to a likely overestimation of exposure.
+The exposure estimates at the 99.9th percentile were influenced mostly by the presence of one pesticide in one food commodity, rather than by co-exposure to multiple substances.
+They were also driven by samples that exceeded legal limits and for which corrective action had already been taken by Member States.
+Information that typically helps risk assessors refine exposure assessments for pesticide residues includes the impact of treatments such as heating or washing food commodities. This information was mostly unavailable from the data at EFSA’s disposal, which means that calculations based on raw commodities overestimate the actual exposure.
+What is an uncertainty analysis?
+An uncertainty analysis is the process of identifying limitations in scientific knowledge and evaluating their implications for scientific conclusions. When EFSA’s experts carry out an uncertainty analysis they follow scientific guidance that was produced by EFSA’s Scientific Committee in 2018.
+
+Why did EFSA carry out an uncertainty analysis?
+As explained above in question 6, EFSA used conservative assumptions in its assessments to compensate for missing or limited data. This naturally led to uncertainties in the results of these assessments. To provide risk managers with the most complete picture possible, an analysis was conducted to quantify all uncertainties and, on this basis, to adjust the MOET estimates where appropriate.
+
+In the thyroid assessment, for example, 34 sources of uncertainty were identified mainly related to the quality and accuracy of the consumption and occurrence data, and the comprehensiveness of the CAGs.
+
+How does EFSA express uncertainty?
+EFSA’s guidance on uncertainty analysis requires the confidence surrounding scientific conclusions to be expressed as follows:
+
+ 
+
+Probability term
+
+Probability range
+
+Almost certain
+
+99–100%
+
+Extremely likely
+
+95–99%
+
+Very likely
+
+90–95%
+
+Likely
+
+66–90%
+
+About as likely as not
+
+33–66%
+
+Unlikely
+
+10–33%
+
+Very unlikely
+
+5–10%
+
+Extremely unlikely
+
+1–5%
+
+Almost impossible
+
+0-1%
+
+Guidance on Uncertainty Analysis in Scientific Assessments (EFSA, 2018)
+
+ 
+
+So, in the case of the CRA assessments, the results for some population groups were expressed with 99-100% certainty (“almost certain”) while others were 90-95% (“very likely”) or lower (“likely”). The variability is largely due to differences in diet between the groups.
+
+What was the role of the RIVM?
+The Dutch National Institute for Public Health and the Environment (RIVM) has played a crucial role in the project. Under a partnership agreement with EFSA, it developed the Monte Carlo Risk Assessment tool (MRCA), which was used to perform exposure assessments on the nervous system and the thyroid. RIVM will continue to develop the MRCA tool in support of EFSA’s work on cumulative risk.
+
+

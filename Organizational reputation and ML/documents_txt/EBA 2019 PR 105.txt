@@ -1,0 +1,24 @@
+EBA publishes updated impact of the final Basel III reforms on EU banks capital and updates on the compliance with liquidity measures in the EU 
+20 March 2019
+The European Banking Authority (EBA) published today two reports, which measure the impact of implementing the final Basel III reforms and monitor the current implementation of liquidity measures in the EU. The EBA Basel III capital monitoring report includes a preliminary assessment of the impact of the Basel reform package on EU banks, assuming its full implementation. The report on liquidity measures monitors and evaluates the liquidity coverage requirements currently in place in the EU. Overall, the EBA estimates that the Basel III reforms, once fully implemented, would determine an average increase by 19.1% of EU banks' Tier 1 minimum required capital.  The liquidity coverage ratio (LCR) of EU banks, which was fully implemented in January 2018, stood at around 146% on average in June 2018, materially above the minimum threshold of 100%. However, some individual institutions reported shortfalls in the overall LCR. 
+ 
+Basel III capital monitoring results
+The Basel III monitoring report assesses the impact on EU banks of the final revisions of credit risk, split into four sub-categories, operational risk, and leverage ratio frameworks, as well as of the introduction of the aggregate output floor. It also quantifies the impact of the new standards for market risk (FRTB) and credit valuation adjustments (CVA). 
+Overall, the results of the Basel III capital monitoring exercise, based on data as of 30 June 2018, show that European banks' minimum Tier 1 capital requirement would increase by 19.1% at the full implementation date (2027). The impact of the risk-based reforms is 25.4%, of which the leading factors are the output floor (8.0%) and operational risk (5.5%).  The fact that leverage ratio is currently the constraining (i.e. the highest) Tier 1 requirement for some banks in the sample but will not be as constraining under the final Basel III, explains why part of the increase in the risk-based capital metric (-6.2%) is not to be accounted for as an actual increase in the overall Tier 1 requirement. This offsetting effect (-6.2%) is attributed to the leverage ratio contribution to the total impact.  
+ 
+Change in total T1 MRC, as percentage of the overall current Tier 1 MRC, due to the full implementation of Basel III (2027) (weighted averages, in %)
+
+
+Source: EBA QIS data (June 2018)
+ 
+To comply with the new framework, EU banks would need EUR 39.0 billion of additional total capital, of which EUR 24.2 billion of Tier 1 capital.
+The current report provides a high-level impact assessment of final Basel III reforms. In parallel, the EBA is working on a more detailed report on the impact of the reforms in response to the . This report will be based on data of the same reference date (June 2018) but on an expanded sample of banks. The latter report will also cover the Pillar II requirements rather than Pillar I requirements only as in the current report.
+ 
+EBA report on liquidity measures
+The semi-annual update of the EBA report on liquidity measures shows that EU banks have continued to improve their compliance with the liquidity coverage ratio (LCR). At the reporting date of 30 June 2018, EU banks' average LCR was 146%. The aggregate gross shortfall amounted to EUR 22.5 billion corresponding to four banks that monetised their liquidity buffers during times of stress. A more in-depth analysis of potential currency mismatches in LCR levels, suggests that banks tend to hold significantly lower liquidity buffers in some foreign currencies, in particular US dollar. 
+Notes to the editors 
+The cumulative impact analysis of the Basel III monitoring exercise report uses a total sample of 123 banks.
+The results of the Basel III capital monitoring report are presented separately for Group 1 and Group 2 banks. Group 1 banks are those with Tier 1 capital in excess of EUR 3 billion and are internationally active. All other banks are categorised as Group 2 banks. 
+The analysis of the Basel III capital monitoring report provides separate figures for the sample of global systemically important institutions (G-SIIs). Where applicable, the analysis takes account of G-SIIs capital buffer for the risk-based capital requirements and the leverage ratio requirements.
+The results of the report on liquidity measures are presented separately for G-SIIs and O-SIIs and other banks (non G-SIIs or O-SIIs). Some figures are presented by country.
+Article 412(1) of the CRR foresees the possibility of monetising liquid assets during times of stress (resulting in an LCR below 100%) as maintaining the LCR at 100%, under such circumstances, could produce undue negative effects on the credit institution and other market participants.

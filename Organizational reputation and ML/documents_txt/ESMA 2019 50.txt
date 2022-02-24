@@ -1,0 +1,11 @@
+ESMA UPDATES THE CSDR Q&AS
+03 December 2019 
+POST TRADING
+The European Securities and Markets Authority (ESMA) has today updated its Questions and Answers () regarding the implementation of the Central Securities Depositories Regulation (CSDR).
+The updated Q&As provide answers to questions regarding practical issues on the implementation of the new CSDR regime.
+The latest CSDR Q&As clarify the application of requirements related to the CSD matching functionality.
+The first Q&A clarifies that instructions involving “delivery without matching” at the level of the CSD would no longer be permitted under the future settlement discipline regime under CSDR (i.e. once the RTS on settlement discipline enters into force), except for those instructions which relate to transfers of financial instruments between different accounts opened in the name of the same participant or managed by the same account operator
+The second Q&A clarifies that the “passive matching” functionality at CSD level, which creates the corresponding required matching instruction for the receiving participant based on the instruction of the delivering participant would be in line with the RTS on settlement discipline under CSDR.
+Q&As are an important tool to promote common supervisory approaches and practices in the application of CSDR. This document is aimed at national competent authorities under the Regulation to ensure that, in their supervisory activities, their actions are converging along the lines of the responses adopted by ESMA. It should also help investors and other market participants by providing clarity on CSDR requirements.
+Background
+The aim of CSDR is to harmonise certain aspects of the settlement cycle and settlement discipline and to provide a set of common requirements for CSDs operating securities settlement systems across the EU. ESMA will continue to develop Q&As on the CSDR in the coming months and will review and update them where required.

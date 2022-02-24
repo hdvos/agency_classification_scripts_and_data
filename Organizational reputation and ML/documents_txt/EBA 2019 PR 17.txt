@@ -1,0 +1,19 @@
+EBA launches consultation on disclosure and reporting of MREL and TLAC 
+22 November 2019
+The European Banking Authority (EBA) launched today a public consultation on the draft Implementing Technical Standard (ITS) on disclosure and reporting of the minimum requirement for own funds and eligible liabilities (MREL) and the total loss absorbency requirement (TLAC). This is the first time that the EBA introduces harmonised reporting and disclosure requirements for MREL and TLAC. These draft ITS follow an integrated approach and, in the case of disclosures, are aligned with the Basel Pillar 3 standards. By integrating disclosures and reporting, the EBA seeks to maximise efficiency by institutions, and to facilitate the use of information by authorities and market participants. The consultation runs until 22 February 2020.
+The draft ITS include proposals for templates and tables implementing the TLAC/MREL disclosure and reporting requirements. In addition to the draft ITS, the consultation paper includes two recommended reporting templates covering the forecast of MREL and TLAC positions and funding structures, and a file mapping disclosure and reporting requirements.
+The integrated approach aims to optimise efficiency by institutions when complying with their disclosure and reporting obligations, to facilitate the use of information by authorities and market participants, and to promote market discipline. For this purpose:
+MREL and TLAC are integrated for both the reporting and the disclosure templates;
+Reporting and disclosure requirements are enshrined in a single set of ITS;
+Disclosure of quantitative information is integrated with supervisory reporting data, and a mapping between both is provided;
+TLAC disclosure templates have been aligned with the Basel Pillar 3 standards.
+This consultation paper is one of the deliverables presented in the EBA Roadmap on the risk reduction measures package, which explains the EBA Pillar 3 strategy to implement a comprehensive disclosure framework with the aim to become the EU-wide Pillar 3 hub and the EBA pathway for a more efficient and proportionate supervisory reporting.                                                                                                          
+Consultation process
+Responses to the consultations can be sent to the EBA by clicking on the "send your comments" button on the consultation page.
+All contributions received will be published after the consultation closes, unless requested otherwise. The deadline for the submission of comments is 22 February 2020.
+A public hearing on this consultation will take place at the EBA premises on 2 December from 10:00 to 12:00 Paris time (reporting templates) and from 14:00 to 16:00 Paris time (disclosure templates). Deadline for registration is 25 November 16:00 Paris time. Please note that those two public hearings cover all consultations on reporting and disclosure requirements respectively in the context of the banking package (CRR2, CRD5, BRRD2) that were launched by the EBA.
+Legal basis and next steps
+These draft ITS have been developed in accordance with:
+Article 434a of CRR2 and Article 45i(6) of BRRD2, which mandate the EBA to specify uniform disclosure formats, associated instructions, and in the case of MREL frequencies, implementing respectively the TLAC and MREL disclosure requirements;
+Articles 430(7) of CRR2 and Article 45i(5) of BRRD2, which mandate the EBA to specify the uniform reporting templates, the related instructions and methodology, the frequency and dates of reporting, the definitions and the IT solutions for TLAC and MREL reporting.
+ The EBA expects to submit these revised draft ITS to the European Commission in June 2020.

@@ -1,0 +1,30 @@
+EBA updates list of CET1 instruments
+
+19 December 2019
+
+The EBA has classified a new type of capital instrument as CET1;
+The EBA maintains and updates the CET1 list on a regular basis;
+The EBA shall be consulted ex-ante before including new capital instruments in the CET1 list;
+
+The European Banking Authority (EBA) published today an updated list of capital instruments that Competent Authorities (CAs) across the European Union (EU) have classified as Common Equity Tier 1 (CET1). Since the publication of the previous update in July 2019, a new CET1 instrument has been assessed and evaluated as compliant with the Capital Requirements Regulation (CRR). The list will be maintained and updated on a regular basis.
+
+Since the publication of the last updated list of CET1 capital instruments on 22 July 2019, the EBA has continued monitoring and assessing the capital instruments issued by EU institutions and their eligibility towards the criteria set in the CRR. In this new update, one new type of CET1 instrument has been assessed and evaluated as compliant with the CRR. No further changes have been applied in the list. For ease of reference, a new row has been added and highlighted to flag this new instrument.
+
+In particular, the following information is provided in the list:
+
+Country of the issuance;
+Name of the instrument, in English and in the national language;
+Governing law of the instrument;
+Whether the instrument can be issued in addition to other CET1 instruments;
+Whether the instrument is with voting or non-voting rights;
+Whether the instrument is fully eligible or grandfathered as a non-state aid instrument;
+Whether the instrument is subscribed by public authorities in emergency situations.
+The EBA recommends taking into account the caveats described in the intro section of the list to correctly understand it.
+
+Legal basis and background
+
+The CET1 list has been compiled in accordance with Article 26(3) subparagraph 4 of the CRR, which mandates the EBA to maintain and publish a list of all forms of capital instruments in each Member State that qualify as CET1 instruments, based on the information collected from CAs.
+
+The CRR has been amended with regard to own funds and, in particular, to the EBA powers in relation to the CET1 list.  In particular, the revised CRR reinforced the EBA’s role in terms of CET1 instruments and established that the EBA shall be consulted on an ex ante basis before new forms of instruments are included in the CET1 list.
+
+The information provided in the EBA CET1 list is consistent with the information to be disclosed in accordance with Commission Implementing Regulation (EU) No 1423/2013 of 20 December 2013, which incorporates the Implementing Technical Standards (ITS) on disclosure for own funds.

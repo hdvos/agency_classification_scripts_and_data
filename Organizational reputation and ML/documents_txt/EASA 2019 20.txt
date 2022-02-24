@@ -1,0 +1,31 @@
+Entry into force of Airspace Requirement on Data Link Operations
+Important information for Third Country Operators (TCO)
+News category:  Third Country Operators
+Related News
+
+According to Article TCO.205 of Part-TCO, a third country operator shall, when operating within the EU airspace, equip its aircraft with and operate such navigation, communication and surveillance equipment as required in that airspace.
+
+In accordance with Regulation (EU) No 29/2009, as amended by Regulation (EU) No 2015/310 and Regulation (EU) 2019/1170, data link services requirements are applicable to all flights operating in accordance with instrument flight rules above FL285, within the airspace as defined in Article 1 of Regulation (EU) No 29/2009.
+
+As from 5 February 2020, operators using this airspace shall ensure that aircraft have the capability to operate the data link services as defined in Annex II of Regulation (EU) No 29/2009. This introduces Controller Pilot Data Link (CPDLC) using the Aeronautical Telecommunication Network (ATN) over the very high frequency digital link Mode 2 (VDLM2).
+
+Exemptions
+
+Where the aircraft fulfils at least one of the criteria in Article 3 of Regulation (EU) No 29/2009 or its model/type is included in the European Commission (EC) Decision on aircraft models/types to be data link exempted, the aircraft can be considered exempted. 
+
+1) Exemptions through Article 3
+The requirement to operate the data link services does not apply to any of the following aircraft:
+
+a) aircraft with an individual certificate of airworthiness first issued before 1 January 1995;
+b) aircraft which have an individual certificate of airworthiness first issued before 31 December 2003 and which will cease operation in the EU airspace before 31 December 2022;
+c) aircraft with an individual certificate of airworthiness first issued before 1 January 2018 and fitted prior to this date with a FANS 1/A equipment;
+d) aircraft which have a certified maximum seating capacity of 19 passengers or less and a maximum certified take-off mass of 45 359 Kg (100 000 lbs) or less and with a first individual certificate of airworthiness issued before 5 February 2020;
+e) State aircraft;
+f) aircraft flying in the above-mentioned airspace for testing, delivery or for maintenance purposes or as required by the minimum equipment list.
+
+2) Exemptions through the EC Decision
+A draft European Commission (EC) Decision on aircraft types/models to be exempted has been published for public consultation. Herein, a list of aircraft types/models combinations are also proposed to be exempted, either permanently or until 5 February 2022. It should be highlighted that this draft act on aircraft types/models to be exempted is not the final position of the European Commission and is subject to change.
+
+There is no need to inform EASA if (one of) your aircraft fulfils one of the criteria in Article 3 of Regulation (EU) No 29/2009 or if its model/type is included in the European Commission (EC) Decision on aircraft models/types to be data link exempted.
+
+Should you need further clarifications, please contact TCO@easa.europa.eu.

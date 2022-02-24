@@ -1,0 +1,18 @@
+Need for Confirmation from modification-/STC holder
+Important information regarding Connectivity System Software Update
+News category:  Third Country Operators
+Related News
+
+Several connectivity system providers have recently proposed to their customers to update the software of their connectivity system. The updates are software updates allowing, for example, a better satellite following function, or to correct bugs. 
+
+EASA wants to inform that these updates are unapproved changes of a certified configuration (Modification or STC), especially as some equipment is driven by software. 
+
+This new non-tested and not approved configuration could create, for example, interferences with other equipment installed on board the aircraft.
+
+In order to avoid this situation, no update should be done without a confirmation from the modification-/STC-holder that the update is still within the approved limitation envelope. 
+
+New tests (e.g. EMI) will be needed in order to show that the connectivity system update is maintaining the initial equipment emission levels.
+
+An Airworthiness Directive (AD) was not published as no unsafe condition was detected by now and no action is demanded. A Safety Information Bulletin (SIB) is being considered pending further assessment.
+
+Should you need further clarifications, please contact TCO@easa.europa.eu.

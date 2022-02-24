@@ -1,0 +1,20 @@
+New image recognition technology in design and trade mark search
+
+
+
+
+Surpassing the high quality solutions already in place at EUIPO in image recognition, the Office has implemented a new artificial intelligence solution (AI) to allow its users to carry out image-based searches for designs and trade marks, with new algorithms in place both in  and  .
+
+In the advanced search function of eSearch Plus, the new algorithms can make Locarno and Vienna class suggestions based on uploaded images, thus making searches for trade marks and designs easier.
+ 
+EUIPO and image recognition for designs: the basics
+ 
+Upload up to seven view images of a design to see if anything similar is already registered at the EUIPO. This fast, free of charge service is not only helpful before filing, but is also useful afterwards as a means to monitor your IP right.
+ 
+Replacing the beta version, another new notable feature is that the system can automatically make suggestions to narrow down searches by identifying Locarno classes in the image.
+ 
+See our  on how to best optimize your image based searches.
+
+EUIPO and image recognition for trade marks: the basics
+
+Available in both eSearch and TMview, where images can be searched for in the databases of participating IP offices, the new algorithms achieve more accurate search results. The Deep Neural Network on which this new version is built includes a feature in eSearch's Advanced Search function to identify and automatically suggest potential Vienna codes contained in the images to narrow down the search results. 

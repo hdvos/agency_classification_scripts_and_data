@@ -1,0 +1,25 @@
+EASA position for operations under TCO Authorisations with respect to the installation of an underwater locating device
+Important information for Third Country Operators (TCO)
+News category:  Third Country Operators
+Related News
+
+Background
+Pursuant to the European Union TCO Regulation of the European Commission, the European Union Aviation Safety Agency (EASA) is responsible to issue Third Country Operator (TCO) Authorisations to commercial air operators (as defined in ICAO Annex 6, Parts I and III) certified in a non-EASA State that apply to operate to destinations in European Union member States, European Free Trade Association members, and their territories in which EU regulations apply.
+EASA shall issue TCO authorisations when it is satisfied that a third country operator has established compliance with the applicable requirements of Part-TCO. This requires operators to comply with the applicable ICAO standards, including those in Annex 6 (Operation of Aircraft) to the Chicago Convention.
+
+As of 1 January 2018, Annex 6 Part I Chapter 6.5.3 standards require AOC holders authorised for international commercial air transport to equip certain aircraft with a securely attached underwater locating device.
+
+As of 1 January 2019, similar EU requirements have become applicable to EU operators. 
+
+Therefore, as of January 2019 EASA will include the relevant requirements, which are stated below, into its TCO assessments. 
+
+EASA TCO position
+After analysis of all information and in order to ensure a uniform approach between third country operators and EU operators, the EASA TCO position is the following:
+
+For operations under TCO Authorisations pursuant to Commission Regulation (EU) No 452/2014 (Part-TCO), third country operators shall fit a securely attached underwater locating device that operates at a frequency of 8,8 kHz ± 1 kHz on aeroplanes with a Maximum Certified Take-Off Mass of more than 27 000 kg and with a Maximum Operating Passenger Seating Capacity of more than 19 and aeroplanes with a Maximum Certified Take-Off Mass of more than 45 500 kg, unless:
+
+ 
+
+The aeroplane is operated over routes on which it is at no point at a distance of more than 400 nautical miles or a distance corresponding to 120 minutes at cruising speed, whichever is the lesser, from the shore; or
+The aeroplane is equipped with robust and automatic means to accurately determine, following an accident where the aeroplane is severely damaged, the location of the point of end of flight.
+Findings pursuant to ART.230 of the TCO Regulation may be issued against third country operators when EASA detects non-compliance with these requirements.

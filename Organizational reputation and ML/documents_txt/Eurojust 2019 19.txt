@@ -1,0 +1,5 @@
+First Europol/Eurojust report on encryption observatory function
+28/01/2019
+While encryption is essential to ensure cybersecurity and the protection of personal data, it is also used by criminals to avoid detection. This exploitation has a strong impact on the capacity of judicial and law enforcement authorities to extract the information from digital devices needed as evidence in criminal investigations, and to prosecute and convict criminals.
+On 11 January 2019, Eurojust, in cooperation with Europol, published the . The report responds to the need to continuously explore and assess the technical and legal challenges posed by the criminal use of encryption to hide illicit activities. The report, the first of its kind, provides a timely overview of these issues. Eurojust, Europol and the European Judicial Cybercrime Network (EJCN) will monitor the constant evolution of these issues to ensure that the misuse of encryption by criminals is effectively addressed.
+The development of an observatory function was proposed by the European Commission as one of the anti-terrorist measures in its .

@@ -1,0 +1,9 @@
+Single Resolution Board extends prior permissions procedure 
+The Single Resolution Board’s procedure to assess applications to reduce eligible liabilities instruments under Article 78a of the Capital Requirements Regulation will remain in place until the relevant European Banking Authority’s Regulatory Technical Standards come into force. To continue performing market-making and other secondary market activities as of 1 January 2020, banks must obtain a prior permission. 
+To cover the period until the standards come into force, the SRB confirms and extends the  in the CRR addendum to the SRB’s MREL policy:
+the aggregate trading volume in these activities does not exceed 1% TREA on a consolidated basis at the level of the resolution group;
+any MREL shortfall, or increase thereof, resulting from these market-making activities is compensated with eligible liabilities instruments on a quarterly basis.
+Background
+The European Banking Authority (EBA) is mandated under Article 78a (3) CRR to draft Regulatory Technical Standards (RTS) specifying the process for prior permissions, including the time limits and information requirements. Until this Level 2 Regulation comes into application, the following provisional procedure applies:
+Scope of instruments. At this stage, the SRB considers that the permission regime applies to eligible liabilities instruments as defined in Article 72b CRR.
+Time-limit for applications. Institutions shall transmit a complete application to the SRB at least four months in advance of the date where one of the actions listed in Article 78a CRR (hereafter: “Redemption”) is intended to be performed.

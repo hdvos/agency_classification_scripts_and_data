@@ -1,0 +1,10 @@
+ESMA PROVIDES UPDATED XML SCHEMA AND REPORTING INSTRUCTIONS FOR SECURITISATION REPORTING
+20 December 2019 
+PRESS RELEASES
+SECURITISATION
+SUPERVISORY CONVERGENCE
+The European Securities and Markets Authority (ESMA), the EU’s securities markets’ regulator, has today published  for the templates set out in the . 
+The XML schema and reporting instructions were initially published on 17 July 2019 in advance of the draft disclosure technical standards being adopted by the Commission in order to assist affected entities in preparing for their entry into force. The updates to the XML schema and reporting instructions reflect some adjustments made to ensure alignment with the final disclosure technical standards as published by the European Commission on 16 October as well as feedback provided by stakeholders since July. 
+ 
+Should stakeholders identify any technical issues regarding the XML schema and reporting instructions in the future, they are in invited to notify ESMA via the email inbox securitisation@esma.europa.eu. 
+ESMA has also updated the securitisation policy section of ESMA’s website with information about the technical standards which have recently been published on the website of the European Commission.

@@ -1,0 +1,11 @@
+Multi-country cluster of Listeria monocytogenes ST1247 in five EU countries
+News Epidemiological update
+27 Mar 2019
+
+ECDC has identified a microbiological link between an outbreak of nine Listeria monocytogenes ST1247 cases in Denmark and nine additional cases reported between 2014 and 2018 in Estonia (2 cases) Finland (2), France (1) and Sweden (4).
+ECDC has identified a microbiological link between an outbreak of nine Listeria monocytogenes ST1247 cases in Denmark and nine additional cases reported between 2014 and 2018 in Estonia (2 cases) Finland (2), France (1) and Sweden (4).  In Denmark, .
+Whole Genome Sequencing (WGS) analysis performed at the national level and by ECDC found all isolates from the 18 cases within two allelic differences from each other (core genome MLST using Moura scheme, 1540 of 1748 loci detected in all 18 isolates). The latest case was reported in Denmark in February 2019 (Figure 1).
+Figure 1: Distribution of Listeria monocytogenes isolates by country and time of reporting 2014-2019 (n=18)
+
+ shows that most listeria outbreaks such as this one remain undetected. The study, published in 2018, suggests that more than half of the severe listeriosis cases in the European Union belong to clusters, many of which are not being picked up fast enough by the current surveillance system.
+Listeria monocytogenes causes listeriosis, which primarily affects pregnant women, newborns, and adults with a weakened immune system. Listeriosis is a relatively rare but potentially severe food-borne disease that has been reported in increasing numbers in the EU/EEA countries since 2008. In 2016, 2 536 cases were reported, including 247 deaths.

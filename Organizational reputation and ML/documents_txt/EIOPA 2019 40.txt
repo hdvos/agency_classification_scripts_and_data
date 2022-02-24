@@ -1,0 +1,12 @@
+EIOPA calls for candidates to join Consultative Expert Group on Digital Ethics in insurance 
+NEWS
+ 
+DATE:
+ 
+04 Jul 2019
+Today, the European Insurance and Occupational Pensions Authority (EIOPA) issued a  to join a Consultative Expert Group on Digital Ethics in insurance.
+EIOPA recently published the key finding of its thematic review on the use of Big Data Analytics (BDA) in motor and health insurance, which revealed a strong trend towards data-driven business models across the insurance value chain. EIOPA's thematic review showed how traditional data sources are increasingly combined - not replaced - with new sources, and that BDA tools such as Artificial Intelligence (AI) or Machine Learning (ML) are already actively used by 31% of the firms that participated in the survey. 
+The thematic review concluded that there are many opportunities arising from digitalisation, both for the insurance industry as well as for consumers. However, there are also risks that need to be further addressed. Some of these risks are not new, but their significance is amplified in the context of BDA. This is particularly the case regarding ethical issues with the fairness of the use of data and regarding the accuracy and explainability of certain BDA tools such as AI or ML in insurance.
+The complex nature of some of these new technological developments and their potential deep societal impact coupled with the specificities of the insurance sector justifies the creation of a multidisciplinary Consultative Expert Group supporting EIOPA in the development of digitial responsibility principles in insurance.
+Taking into account the fairness and ethical perspective these principles will address the use of new business models, technologies and data sources in insurance. While they may cover different areas of the insurance value chain, specific focus will be given to pricing and underwriting, the specificities of the insurance sector. Special consideration shall also be given to the impact on certain groups of vulnerable consumers.
+The members of the Consultative Expert Group are expected to be highly knowledgeable professionals with extensive practical experience in the areas of BDA (including AI and ML), data science, actuarial science, computer science, insurance law, digital ethics, data protection and/or consumer protection and working for the insurance industry, academia, consumer associations or other relevant stakeholders' organsiations.

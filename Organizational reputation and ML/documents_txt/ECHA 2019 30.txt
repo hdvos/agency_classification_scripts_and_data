@@ -1,0 +1,14 @@
+Endocrine disrupting properties to be added for four phthalates in the Authorisation List
+ECHA/NR/19/26
+ECHA has submitted a recommendation to the European Commission to amend Authorisation List (Annex XIV of REACH) entries by adding the endocrine disrupting properties of four phthalates. Once the Commission decides on the amendment, some previously exempted uses will require authorisation.
+Helsinki, 10 July 2019 - ECHA has prepared a recommendation to amend the Authorisation List to include endocrine disrupting properties into the respective entries of: 
+bis(2-ethylhexyl) phthalate (DEHP) (EC 204-211-0, CAS 117-81-7)
+benzyl butyl phthalate (BBP) (EC 201-622-7, CAS 85-68-7)
+dibutyl phthalate (DBP) (EC 201-557-4, CAS 84-74-2)
+diisobutyl phthalate (DIBP) (EC 201-553-2, CAS 84-69-5).
+They were identified as substances of very high concern (SVHCs) due to endocrine disrupting properties with effects on human health. DEHP was also identified for its effects on the environment. The Candidate List entries for these substances were updated accordingly in 2014 and 2017.
+These four phthalates had already earlier been identified as SVHCs (in 2008 and 2009) and subsequently added to the Authorisation List in 2011 and 2012 due to their classification as toxic for reproduction.
+uses of the four phthalates in mixtures in concentrations above or equal to 0.1 % w/w (so far the concentration limit has been 0.3 % w/w);
+some uses of DEHP (e.g. in food contact materials or medical devices) that will no longer fall under the ‘generic exemptions from the authorisation requirement’ as it has now been identified as an SVHC also because of hazards to the environment. For the same reason, ECHA recommends to remove the exemption for uses of DEHP in immediate packaging of medicinal products from the Authorisation List.
+In addition, ECHA invites the European Commission to review the existing exemption for uses of BBP and DBP in immediate packaging of medicinal products.
+The actual amendment of the entries including the final decision on the dates, by which companies will need to apply for authorisation to ECHA and on exemptions of uses, will be made by the European Commission in collaboration with the Member States and the European Parliament.

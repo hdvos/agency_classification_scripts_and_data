@@ -1,0 +1,10 @@
+ENISA supports CSIRT-CY in maturity assessment
+On 7 March 2019, certified experts from ENISA, together with representative from the National Cybersecurity Centre of Portugal concluded the peer review process of assessing maturity level of National CSIRT of The Republic of Cyprus.
+Published on March 11, 2019
+
+Tagged with 
+
+CSIRT-CY is responsible for the increase of the security posture of Cyprus by enhancing the cyber protection of its National Critical Information Infrastructures, banks and Internet Service Providers.
+Peer review is an important part of ENISA CSIRT maturity evaluation process. It is addressed to CSIRT teams, to help them improve and enhance their maturity, together with . The whole process is based on the SIM3 (Security Incident Management Maturity Model) model and further described in the .
+Peer reviews are conducted between trusted teams and are intended as a form of intra-community mutual support, aimed at further enhancing all teams’ maturity.
+The maturity evaluation process is adopted by the . It is planned that all CSIRT Network members will undergo such an evaluation by the end of 2019. This will help national CSIRTs reach the high-level requirements of the EU Network and Information Security Directive NISD.

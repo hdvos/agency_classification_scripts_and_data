@@ -1,0 +1,8 @@
+User Satisfaction Survey tool implemented in Jordan
+
+
+As of 5 August 2019, the Jordanian Industrial Property Protection Directorate under the Ministry of Industry, Trade and Supply () has implemented the User Satisfaction Survey (USS) tool.
+The USS tool provides participating offices with a single, common approach to carrying out surveys among users of intellectual property offices.
+This implementation is part of the activities undertaken under Line of Action 4 of EUIPO’s Strategic Plan 2020, and part of the extension of tools developed through the European Union Intellectual Property Network (EUIPN) to IP offices outside the European Union.
+As a result of this implementation, there are now 9 offices outside the EU which have implemented the USS tool.
+

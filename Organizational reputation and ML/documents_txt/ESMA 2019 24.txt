@@ -1,0 +1,13 @@
+ESMA PUBLISHES FINAL REPORT ON CSDR GUIDELINES ON STANDARDISED PROCEDURES AND MESSAGING PROTOCOLS
+08 October 2019 
+POST TRADING
+PRESS RELEASES
+The European Securities and Markets Authority (ESMA) has today published its  on the Guidelines on standardised procedures and messaging protocols. The Guidelines aim to clarify the scope of the requirement contained in Article 6(2) of the Central Securities Depositories Regulation (CSDR) and provide guidance on the standardised procedures and messaging standards used for compliance.
+Investment firms are expected to take measures to limit the number of settlement fails and to – at least – set up arrangements with their professional clients to ensure prompt communication of the necessary settlement information.
+ESMA, following a public consultation, has drafted final guidelines which set out how investment firms should ensure the requirements set out in Article 6(2) and Article 2 of the RTS on Settlement Discipline are complied with.
+In particular, investment firms should agree with their professional clients on the communication procedures and messaging protocols to be used between them, in order for the necessary settlement information to be timely provided to the investment firm.
+Subject to a written contractual agreement between them, the guidelines also clarify the degree of flexibility that is left to the parties to organise their communication.
+Background 
+The requirement laid down in Article 6(2) of CSDR and further specified in Article 2 of RTS on Settlement Discipline is focused on the preparation of the settlement process in order to limit the number of settlement fails: investment firms should ensure that they have all the necessary settlement details as much as possible on the business day on which the transaction takes place. To achieve this, investment firms that do not already have the necessary settlement information should communicate with their clients in order to obtain the respective information, which should include standardised data useful for the settlement process.
+Next steps 
+The guidelines will be translated into the official languages of the European Union and published on the ESMA website. They should start applying on the date of entry into force of the RTS on Settlement Discipline.

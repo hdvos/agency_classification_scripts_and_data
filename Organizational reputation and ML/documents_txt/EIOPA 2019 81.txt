@@ -1,0 +1,19 @@
+EIOPA analyses licencing approaches to InsurTech 
+NEWS
+ 
+DATE:
+ 
+27 Mar 2019
+Today, the European Insurance and Occupational Pensions Authority (EIOPA) published its .
+As part of the , with this Report EIOPA presents a mapping of current authorising and licencing approaches to financial innovation, including an assessment of how the principle of proportionality is applied in practice. The Report also includes an analysis of the approach to InsurTech start-ups operating as peer-to-peer (P2P) insurers.
+It also highlights emergent best practices for national competent authorities (NCAs) to support a more systematic approach to InsurTech licencing requirements as well as to ensure through a common application of the proportionality principle consistent and effective supervisory practices across Europe.
+The evidence gathered points to an InsurTech market in the European Union that remains at an early stage of development, but which at the same time is evolving. Most NCAs have limited experience with InsurTech companies or do not differentiate "digital" business models from others. Nevertheless,  identified that 24 NCAs have implemented innovation facilitators, which implies that most NCAs are well aware of the importance of innovative technologies and new market players, and the need to understand the associated risks and benefits.
+At this stage – also reflecting EIOPA's overall stance of technological neutrality and support for establishing a level playing field for all market participants – there seems to be no need for further regulatory steps on licensing.
+However, NCAs should adapt their internal processes and knowhow to reflect the impact of digital transformations and avoid diverging supervisory practices taking into account the cross-border and cross-sectoral nature of some InsurTech developments.
+The rise of new technology driven business models (e.g. P2P), the use of new technologies (e.g. artificial intelligence (AI), and Distributed Ledger Technology (DLT)) and the need to rise to the challenge of sound authorisation and on-going supervision of highly digitalised insurers, requires close monitoring of developments.
+To prepare for potential associated risks NCAs should further enhance cooperation and the exchange of experience among each other and with EIOPA. To this end, EIOPA will work together with NCAs and InsurTech firms by:
+Exploring options to develop a network of innovation facilitators for the benefit of NCAs and InsurTech firms
+Assessing what InsurTech-related data might need to be collected systematically to support NCAs and EIOPA work on InsurTech
+Spearheading further work on understanding new technologies and different business models including the impact of InsurTech on traditional business models on insurance companies
+Monitoring of outsourcing and the developments in licencing InsurTech companies
+Analysing the potential growth of the P2P insurance market

@@ -1,0 +1,23 @@
+SIRIUS: EUROPEAN UNION DIGITAL EVIDENCE SITUATION REPORT 2019
+20 December 2019
+Press Release
+
+
+
+
+
+THIS NEWS/PRESS RELEASE IS ABOUT 
+
+A  aims to draw a picture of the status of access of European Union (EU) Member States to electronic evidence held by foreign-based online service providers in 2018. The report presents data in relation to the volume of requests from EU Member States to online service providers; the main reasons for refusal or delay of EU requests; and the main challenges in the process from the perspective of the different stakeholders.
+Manuel Navarrete, Head of the  at Europol: “This is the first time such an exercise is carried out in a systematic way and including survey with judicial authorities, law enforcement from all EU Member States and input from over 12 online service providers. The information gathered gives indications of short-term actions, which could be taken to improve the swiftness of this process.”
+The report comprises a set of recommendations that are directed to online service providers and law enforcement agencies and may be applicable regardless of potential future developments in policy and regulations.
+RECOMMENDATIONS FOR ONLINE SERVICE PROVIDERS
+Provide clear guidelines for law enforcement authorities, including information about which data sets can be requested and to which legal entity the data requests should be addressed.
+Prepare periodic transparency reports regarding requests from EU authorities, including standardised data categories across online service providers and files in CSV format.
+If direct requests or emergency disclosure requests are rejected, inform the requesting authority of the reason for rejection without delay.
+RECOMMENDATIONS FOR EU LAW ENFORCEMENT AGENCIES
+Provide periodic training courses to officers dealing with cross-border requests to online service providers.
+In EU Member States where there is no central unit to submit requests, establish single points of contact within the law enforcement agency to deal with the most relevant online service providers.
+Collect statistics regarding cross-border requests to online service providers. 
+The  is a response to the increasing need of European Union authorities to access electronic evidence from foreign-based online service providers, in the context of criminal investigations. Spearheaded by Europol’s European Counter Terrorism Centre and the  at Europol, in close partnership with Eurojust and the European Judicial Network, SIRIUS aims to help investigators and judicial authorities to cope with the complexity and volume of information in a rapidly changing online environment. The SIRIUS project was created by Europol in October 2017. 
+.

@@ -1,0 +1,22 @@
+EIOPA consults on guidelines on Information and Communication Technology security and governance
+NEWS
+ 
+DATE:
+ 
+12 Dec 2019
+Today, the European Insurance and Occupational Pension Authority (EIOPA) launched a . These guidelines shall provide guidance to national supervisory authorities and market participants on how regulation regarding operational risks set forth in Directive 2009/138/EC and in the Commission's Delegated Regulation 2015/35 and EIOPA Guidance set out in EIOPA's Guidelines on System of Governance is applied in the case of ICT security and governance. The consultation is open until Friday, 13 March 2020.
+In line with its Joint ESA's Advice and in reply to the , EIOPA developed these guidelines addressed to national supervisory authorities with the following objectives:
+To create a common baseline for information security throughout the EU Member States
+To enhance convergence of supervisory practices in this area
+
+In developing the Joint Advice, the ESAs' objective was that every relevant entity should be subject to clear and general requirements on governance of ICT, including cybersecurity, to ensure the safe provision of regulated services. As these requirements are not in general 'sector-specific for the (re)insurance market, EIOPA also considered the most recent guidelines published by the European Banking Authority 
+EIOPA's Guidelines cover the following areas:
+Governance and risk management 
+ICT operations security 
+ICT operations management
+Consultation process
+For responding to this consultation please use the page below. The deadline for submission of feedback is Friday, 13 March 2020 at 23.59 hrs CET.
+Unless requested otherwise, all contributions received will be published after the deadline for submission.
+Legal basis
+These guidelines have been developed according to Article 16 of the Regulation (EU) 1094/2010. Under this Article EIOPA may issue Guidelines and Recommendations addressed to competent authorities and financial institutions with a view to establish consistent, efficient and effective supervisory practices and ensuring the common, uniform and consistent application of Union law. 
+In accordance with Article 16(3) of that Regulation, competent authorities and financial institutions are required to make every effort to comply with those Guidelines and Recommendations.

@@ -1,0 +1,10 @@
+MIFID II: ESMA CONSULTS ON POSITION LIMITS IN COMMODITY DERIVATIVES
+05 November 2019 
+MIFID - SECONDARY MARKETS
+PRESS RELEASES
+The European Securities and Markets Authority (ESMA) has today launched a  on position limits and position management in commodity derivatives. 
+ESMA launches this consultation paper in the context of the review it is obliged to perform under MiFID II, together with the European Commission (EC), on the impact of position limits on liquidity, market abuse and orderly pricing and settlement conditions in commodity derivative markets and is seeking stakeholders’ views on some proposed amendments to the legal framework.
+Building on the responses received to the call for evidence published in May 2019, the consultation paper analyses the impact of position limits on market abuse and orderly pricing and settlement as well as the impact the position limit regime may have had on less liquid commodity derivative contracts. The consultation paper is also seeking stakeholders’ views on some proposed changes to the legal framework aiming in particular at limiting the scope of commodity derivatives subject to position limits to key contracts, introducing a limited position limit exemption for financial counterparties and enhancing convergence in the implementation of position management regimes by trading venues.
+In a second part, the consultation paper is seeking stakeholders’ views on an amendment to the quantitative thresholds that trigger publication of weekly position reports by trading venues so that more transparency is available for commodity derivative contracts traded in the EU27.
+Next steps and timeline 
+Stakeholders are invited to provide feedback by 8 January 2020. ESMA will consider the feedback received in drafting its final report to the EC on the impact of position limits and position management controls on commodity derivatives markets and in finalising the technical advice on weekly position reports. ESMA intends to complete those two workstreams by the end of March 2020.

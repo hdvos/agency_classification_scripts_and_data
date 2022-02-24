@@ -1,0 +1,25 @@
+Priority plant pests in the EU: 5 things you need to know
+
+
+What are priority pests?
+The 20 pests on the list published by the European Commission in October 2019 are quarantine pests that have been identified as top priorities for EU Member States based on the severity of the economic, social and environmental problems they can cause. They include Xylella fastidiosa, the Japanese beetle, the Asian long-horned beetle, citrus greening and citrus black spot.
+
+Why did the European Commission draw up this list?
+Globalisation and climate change are redrawing the landscape of plant pest distribution. This trend poses a threat to natural and managed environments, agricultural and forestry production, ecosystems and biodiversity in the European Union territory. In the past decade the EU has been confronted with several large-scale outbreaks of new plant pests that have had significant impacts, such as Xylella fastidiosa and Hymenoscyphus fraxineus (the fungus that causes ash dieback). Against this background, the EU Plant Health legislation has been revised with the adoption of Regulation (EU) 2016/2031, commonly known as the Plant Health Law, which comes into effect in December 2019. Among the measures included in this legislation is the establishment of a list of the most dangerous pests on the EU’s umbrella list of quarantine pests.
+
+How did the Commission decide which pests to include?
+The list is based on impact assessments carried out by EFSA and the European Commission’s Joint Research Centre (JRC) on a number of pests identified by the Commission. The assessments considered a number of indicators such as impact on crop yields, damage to trade and the cost of control measures; social consequences such as unemployment, reduced food safety and security, and impact on landscapes and cultural heritage; and damage to the environment such as reduced biodiversity and ecosystem services. The pests were then ranked according to how highly they “scored” across the different criteria.
+
+What information was used for the assessments?
+For each pest, EFSA provided a report containing data on the following:
+
+The area of potential distribution in the European Union.
+A list of potential host plants.
+Expected changes in the use of plant protection products following the arrival of the pest.
+Estimated yield and quality losses.
+Likely spread rate.
+Estimated time between establishment and first detection of the pest.
+The information was derived from the most complete, up-to-date, pest categorisation(s) and/or pest risk assessment(s) carried out by EFSA, the European Plant Protection Organization (EPPO), and other European or non-European institutions. Additional information and data were obtained via literature search and complemented by expert contributions. Expert knowledge elicitations (EKEs) were conducted with groups of risk assessors and pest experts to estimate probability of impact, spread and time to detection. More information about the methodology used by EFSA can be found here.
+
+How will this list protect Europe from new pests?
+For each of the listed pests, EU Member States will be required to carry out annual surveys, draw up and keep up to date a contingency plan, perform simulation exercises, communicate with the public, and adopt an eradication plan for any of the listed pests that are present in the Union territory. This means that the EU territory has a coordinated, harmonised preparedness strategy for protecting agriculture, the environment and the economy from dangerous pests.

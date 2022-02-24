@@ -1,0 +1,8 @@
+ESMA UPDATES ITS OPINION ON ANCILLARY ACTIVITY CALCULATIONS
+27 May 2019 
+MIFID - SECONDARY MARKETS
+The European Securities and Markets Authority (ESMA) has today published an updated  on ancillary activity calculations. This updated opinion provides the estimation of the market size of commodity derivatives and emission allowances for the year 2018. ESMA has prepared those estimations based on data collected from trading venues as well as data reported to trade repositories under EMIR.
+Market participants, under the revised Markets in Financial Instruments Directive (MiFID II), are required to measure their own activity against total market sizes in commodity derivatives. These sizes are important to enable market participants to assess whether they exceed the ancillary activity thresholds in MiFID II and consequently would have to apply for authorisation as an investment firm.
+In issuing this opinion, ESMA considers that the guidance on market size will contribute positively to the consistency of supervisory practices and will ensure a uniform approach throughout the Union.  
+Background
+Determining market size figures is challenging for national competent authorities (NCAs) and market participants since there is no centralised recording of on-venue and off-venue transactions for commodity derivatives and emission allowances, which are publicly available. NCAs and market participants have asked ESMA to provide guidance for the determination of the market size figures to ensure the correct application of Article 2(3) of the Delegated Regulation. 

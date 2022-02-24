@@ -1,0 +1,9 @@
+ESMA UPDATES ITS Q&AS ON MIFID II AND MIFIR COMMODITY DERIVATIVES TOPICS
+04 January 2019 
+MIFID - SECONDARY MARKETS
+The European Securities and Markets Authority (ESMA) has today updated its  on MiFID II and MiFIR commodity derivatives topics. These Q&As provide clarification on issues related to the MiFID II/MiFIR regime for commodity derivatives, including on position limits, position reporting and ancillary activity. 
+The new answer is provided on the following topic: 
+ESMA clarifies the correct application of the field “price multiplier” when reporting electricity contracts, in order to mitigate the risk of different contracts receiving the same ISIN.
+The purpose of these Q&As is to promote common supervisory approaches and practices in the application of MiFID II and MiFIR. They provide responses to questions raised by market participants in relation to the practical application of the level 1 and level 2 provisions relating to commodity derivative issues.
+ 
+ESMA will continue to develop these Q&As in the coming months and will review and update them where required. 

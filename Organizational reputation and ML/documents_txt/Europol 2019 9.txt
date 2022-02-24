@@ -1,0 +1,21 @@
+ADDRESSING ACCESS TO CROSS-BORDER ELECTRONIC EVIDENCE IN THE EU AT THE THIRD ANNUAL SIRIUS CONFERENCE 
+25 October 2019
+Press Release
+
+
+
+
+
+THIS NEWS/PRESS RELEASE IS ABOUT 
+
+
+
+The third annual SIRIUS conference took place on 23 and 24 October 2019, at Europol’s Headquarters in The Hague. This two-day event, organized in collaboration with Eurojust, gathered over 300 law enforcement officers and members of judicial authorities from 40 countries, as well as representatives from Google, Microsoft, Ebay, Cloudflare and Twitter, to address issues and challenges when conducting Internet-based investigations. 
+IT IS CRUCIAL FOR LAW ENFORCEMENT AND JUDICIAL AUTHORITIES TO KNOW THE DATA THEY CAN REQUEST
+Lawful access to electronic evidence can be very challenging, as both the types of data Online Service Providers (OSP) collect and the legal systems in which they are based vary greatly. It is therefore crucial for law enforcement and judicial authorities to know which type of data they can request and how to request it. The third annual SIRIUS conference was the perfect opportunity to build capacity among those stakeholders both at an EU and a US level, and to share knowledge and best practices.
+The conference followed a rich programme, which included sessions by the FBI MLAT unit, the UNCTED who presented a new Global Initiative with the UNODC and IAP, and the Irish Department of Justice and Equality who discussed data request processes for US companies also based in Ireland. The SIRIUS team presented key takeaways from ground breaking research undertaken in 2019 related to the EU situation of access to e-evidence. The European Judicial Network gave an overview of the e-evidence legal framework in EU Member States and Eurojust presented a broader judicial perspective on this issue. This year, the SIRIUS conference also presented a selection of the most successful EU-funded Research and Innovation projects, who were able to present their results and experiences in e-evidence extraction and analysis.
+SIRIUS PLATFORM: AN INNOVATE PLATFORM TO INVESTIGATE AND PROSECUTE CRIME AND TERRORISM
+Europol’s EU Internet Referral Unit and the European Cybercrime Centre officially launched the SIRIUS platform during a kick-off meeting in The Hague in October 2017. SIRIUS is an innovative project which includes an interactive knowledge-sharing platform accessible to law enforcement authorities and members of the judiciary, and aims to produce and disseminate trainings and digests to improve EU-US cooperation on cross-border access to electronic evidence. The project is of operational added value in the investigation and prosecution of crime and terrorism.
+Mr Manuel Navarrete, Head of the , said: “SIRIUS is a flagship Europol project, and through an unprecedented collaboration with Eurojust, Europol is rapidly evolving and adapting to the world of big data. With SIRIUS, our aim is to support EU Member States in lawfully accessing electronic evidence.”
+ Vice President Mr Klaus Meyer-Cabri stated; “The internet has led to many positive developments. It has however the side effects of cybercrime and online abuse. In view of this, electronic evidence is key to investigations. If we want this to work well, cooperation between judicial authorities and with law enforcement and private actors is of prime importance, as is the introduction of a good system of digital justice.”
+The  project is funded by the European Commission’s Service for Foreign Policy Instruments (FPI) under grant agreement No PI/2017/391-896.

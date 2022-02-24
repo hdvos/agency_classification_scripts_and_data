@@ -1,0 +1,13 @@
+MIFID II: ESMA ISSUES LATEST DOUBLE VOLUME CAP DATA
+07 October 2019 
+MIFID - SECONDARY MARKETS
+MIFID II: TRANSPARENCY CALCULATIONS AND DVC
+The European Securities and Markets Authority (ESMA) has updated today its  with the latest set of double volume cap (DVC) data under the Markets in Financial Instruments Directive (MiFID II).
+Today’s updates include DVC data and calculations for the period 1 September 2018 to 31 August 2019 as well as updates to already published DVC periods.
+The number of new breaches is 75: 63 equities for the 8% cap, applicable to all trading venues, and 12 equities for the 4% cap, that applies to individual trading venues. Trading under the waivers for all new instruments in breach of the DVC thresholds should be suspended from 10 October 2019 to 9 April 2020. The instruments for which caps already existed from previous periods will continue to be suspended.
+In addition, ESMA highlights that none of the previously identified breaches of the caps proved to be incorrect thus no previously identified suspensions of trading under the waivers had to be lifted.
+As of 7 October 2019, there is a total of 376 instruments suspended.
+Please be aware that ESMA does not update DVC files older than 6 months. 
+As also announced today in ESMA public statement on the “ ”, in case of a no-deal Brexit, ESMA will not perform the DVC calculations in November and December 2019 due to concerns about potential disruptions of the ESMA IT-systems after Brexit. The DVC calculations would be resumed in January 2020.
+Background
+MiFID II introduced the DVC to limit the amount of dark trading in equities allowed under the reference price waiver and the negotiated transaction waiver. The DVC is calculated per instrument (ISIN) based on the rolling average of trading in that instrument over the last 12 months.

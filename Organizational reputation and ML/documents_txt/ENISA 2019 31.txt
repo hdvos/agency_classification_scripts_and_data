@@ -1,0 +1,11 @@
+ENISA supports Portuguese National Cybersecurity Exercise on electoral process 
+In the context of the upcoming double elections in Portugal, the Portuguese National Cybersecurity Centre CNCS have requested the EU Agency for Cybersecurity ENISA to support a cybersecurity exercise on the electoral process. 
+Published on February 26, 2019
+
+Tagged with 
+
+The exercise, called ExNCS 2019, will be organised in cooperation with CNE – the National Elections Commission of Portugal. 
+ENISA will actively support the Portuguese authorities by providing its unique cyber exercise expertise and capabilities. As part of the exercise scenario, the electoral process will be put to test by several simulations of cybersecurity incidents and disinformation campaigns.
+This is the second edition of ExNCS. It is envisaged that it will contribute to the consolidation of the national cybersecurity capacity in Portugal, in order to reinforce the resilience of the national and European democratic system.
+ENISA has a vast experience in organising cyber exercises. Since 2010, ENISA has organised five large-scale exercises called ‘Cyber Europe’ – simulations of large-scale cybersecurity incidents that escalate to EU-wide cyber crises. These exercises offer opportunities to analyse advanced cybersecurity incidents, and to deal with complex business continuity and crisis management and communication situations.
+ For more information, read the report by CNSC: / [PT]

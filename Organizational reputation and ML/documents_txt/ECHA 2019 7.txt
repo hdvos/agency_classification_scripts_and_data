@@ -1,0 +1,9 @@
+Updated guidance for registering substances in nanoform
+ECHA/NR/19/44
+Two guidance documents have been updated with advice for companies preparing registration dossiers that cover nanoforms. The documents help registrants in fulfilling new legal requirements for nanomaterials that apply from 1 January 2020.
+Helsinki, 3 December 2019 – A new Appendix for nanoforms to the Guidance on Registration and Substance Identificationhas been developed. It aligns ECHA’s guidance with the revised REACH annexes for nanomaterials that enter into application on 1 January 2020. The document explains the term nanoform, provides advice on how to build and justify sets of nanoforms and explains what characterisation information needs to be reported.
+The Appendix for nanoforms applicable to the Guidance on QSARs and Grouping of Chemicals has been updated to reflect the advice of the above-mentioned guidance. The update also clarifies the differences between creating a set of nanoforms and read-across for justifying the use of hazard data between different (sets of) nanoforms of a substance.
+ECHA will keep updating the existing guidance for human health and environmental information requirements during 2020. To further support potential registrants in meeting the new information requirements, an updated overview of available test guidelines and other recognised methods and standards is available on the European Union Observatory for Nanomaterials (EUON).
+
+Background
+By 1 January 2020, companies must provide additional information on nanomaterials on the EU/EEA market under the REACH Regulation. The new information requirements concern companies that manufacture or import nanoforms of substances that are subject to registration under REACH. Nanoforms of substances are those that fulfil the European Commission’s recommendation for a definition of a nanomaterial.

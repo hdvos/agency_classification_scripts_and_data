@@ -1,0 +1,12 @@
+EASA initiates a new era of incremental certification for Integrated Modular Avionics
+
+
+On June 18, 2019, the European Union Aviation Safety Agency (EASA) issued the first ETSO-2C153 certificate for an Integrated Modular Avionics (IMA) module to THALES AVS France SAS.
+
+With the ETSO-2C153 standard, together with the more recent ETSO-C214 for aircraft functions using an IMA platform, EASA is paving the way of the incremental certification in the domain of IMA. 
+
+Equipment manufacturers can now obtain, independently from the aircraft TC process, incremental ETSO authorisations for their IMA platform and the ETSO functions that have been further developed on the certified IMA platform. Thanks to the pertinent requirements of the standards, the ETSO authorisation brings a credit fully recognised at TC level and which reduces the TC certification effort.
+
+This will contribute to the competiveness of the European equipment manufacturers, through a more cost-efficient and transparent certification process.
+
+The ETSO-2C153 standard, published in 2016, has been developed in a joint EASA - ASD working group, with members from aircraft manufacturers community as well as equipment manufacturers.

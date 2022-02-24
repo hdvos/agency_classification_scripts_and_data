@@ -1,0 +1,19 @@
+ESMA UPDATES MIFID II Q&AS ON TRANSPARENCY ISSUES 
+03 June 2019 
+MIFID - SECONDARY MARKETS
+SUPERVISORY CONVERGENCE
+The European Securities and Markets Authority (ESMA) has today updated its  (Q&As) regarding transparency issues under the Market in Financial Instruments Directive (MiFID II) and Regulation (MiFIR).
+The updated Q&As provide clarification on the following topics:
+The mandatory systematic internaliser (SI) regime;
+The voluntary SI regime; and,
+Quoting obligation for SI in non-TOTV instruments.
+Updates to obsolete Q&As
+ESMA also reviewed its published Q&As on transparency issues with the objective of deleting or amending obsolete Q&As such as those addressing issues pertaining to either 3 January 2018, or the following 12 months. This concerns five Q&As:
+First calculations to be published on 3 January 2018 - shares admitted to trading on RM (Q&A 1 of section 6 on the double volume cap mechanism);
+First calculations to be published on 3 January 2018 - MTF only shares, depositary receipts, certificates (Q&A 2 of section 6 on the double volume cap mechanism);
+Reporting of a new ISIN in FIRDS and FITRS following a corporate action (Q&A 13 of section 2 on General Q&As on transparency topics);
+Pre-trade transparency waivers under MiFID I (Q&A 1 of section 5 on Pre-trade transparency waivers); and,
+Compliance with the SI regime and notification to NCAs (Q&A 6(b) of section 7 on the systematic internaliser regime).
+Background
+The purpose of these Q&As is to promote common supervisory approaches and practices in the application of MiFID II and MiFIR. They provide responses to questions posed by the general public and market participants in relation to the practical application of level 1 and level 2 provisions relating to transparency and market structures issues.
+ESMA will continue to develop these Q&As in the coming months and will review and update them where required.

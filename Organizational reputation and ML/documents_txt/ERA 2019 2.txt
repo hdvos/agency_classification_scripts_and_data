@@ -1,0 +1,7 @@
+telematics application for freight and passengers - ERA and RNE announce the publication of European Rail Primary Codes
+18Dec2019
+Thanks to the joint effort of ERA and RNE in the scope of the telematics applications for freight and passengers European Rail Primary Codes are publicly available. 
+
+More than 60.000 rail stations at your fingertip from December 2019! Rail Net Europe and the European Union Agency for Railways are happy to announce that all the European Rail Primary Location Codes are publicly available.
+This is the results of a strong cooperation between the ERA and RNE carried over in the scope of the development and implementation of TAF – TAP TSIs.
+After a quick registration at Rail Net Europe’s Common Components , you will gain access to the codes together with their corresponding country code, location, name and geographical coordinates.

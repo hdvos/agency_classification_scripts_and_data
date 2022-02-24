@@ -1,0 +1,18 @@
+Showcasing progress of future datalink solutions
+Nov. 25, 2019
+On 23 October, SESAR JU member and partners held an open day in Brussels bringing together a wide audience of stakeholders to present the progress in datalink communications achieved during the first phase of SESAR 2020 research and innovation.
+The open day presented the work coming out of the SESAR 2020 project PJ.14 EECNS (Essential and Efficient Communication, Navigation and Surveillance Integrated System) on the the future technologies emerging in the domain communications, navigation and surveillance domains to manage future operational services, such as 4D trajectory management.
+
+Opening the day, Paul Dunkley (SESAR JU) outlined the strategic overview of datalink solutions within SESAR2020 in relation to the European ATN Master Plan, target architecture and CNS strategy. Bernhard Haindl (Frequentis) provided the research results on multilink management, traffic routing and mobility in the ATN/IPS aeronautical network (14.02.04).
+The open day focused on progress made on a number if solutions:
+Christoph Rihacek (Frequentis) presented work on the candidate future terrestrial datalink system called LDACS (Lband-Digital Aeronautical Communication System), and future interoperability and spectrum test roadmaps (Solution #PJ.1402-01). 
+Stefano La Barbera and Alessia Miglietta (Thales Alenia Space Italy) gave an update the validation of satellite datalink technology (SatCom+VDL2 and SATCOM Class A) within the context of collaboration with the ESA Iris Programme. 
+Giulio Vivaldi (Leonardo) presented details of the completion of AeroMACS development, which is available for industrialisation and implementation for airport surface communication services. 
+JensUwe Koch (DFS) presented the potential of making available updated flight and traffic Information services (FIS/TIS) in order to increase situational awareness to general aviation - flight tests are needed as a next step towards proof of concept. 
+Volker Stuhlsatz and Thierry Salée (Eurocontrol MUAC) discussed the operational benefits brought by datalink in aspects of capacity, safety, and flight efficiency and sustainability, and stressed the importance of advancing towards ATN Baseline 2 services.
+ 
+The presentations and discussions triggered throughout the event helped SESAR partners identify, thanks to direct feedback from the stakeholder community, gaps and challenges to be taken into account in future activities.
+Work on datalink communication solutions will continue in the next wave of SESAR 2020 research in two dedicated projects focusing on: FCI Services, L-DACS, future satellite communications, hyper connected ATM, and Integrated CNS and spectrum.
+
+ 
+This project has received funding from the SESAR Joint Undertaking under the European Union's Horizon 2020 research and innovation programme under grant agreement No 734168

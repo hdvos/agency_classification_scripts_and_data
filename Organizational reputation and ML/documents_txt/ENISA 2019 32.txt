@@ -1,0 +1,15 @@
+Acceptance of eIDAS audits: Global or local?
+ENISA has published a new report to explore the paths to global acceptance of the eIDAS auditing framework for trust service providers (TSPs) issuing qualified website authentication certificates (QWACs).
+Published on January 15, 2019
+
+© Copyright: Shutterstock
+Tagged with 
+
+
+
+The eIDAS Regulation sets up a framework to grant qualified status to an array of trust services (e.g. electronic signatures, seals etc.) aiming to enhance consumer trust in the digital environment. Qualified trust services undergo regular assessments by accredited bodies, overseen by national and EU authorities for the purpose of meeting requirements laid out in the eIDAS framework. Taking the view point of a global audience, ENISA has published a new report to address aspects of conformity assessment in an effort to improve the global acceptance of eIDAS audits. Towards this goal, the report recommends to:
+adopt a harmonised conformity assessment approach in the EU and promote it at the international level
+promote and reference specific standards on the auditing of TSPs and conformity assessment
+The report also carries out a review of concurring international auditing schemes for qualified TSPs and the accreditation of the respective CABs. Strategies largely based on improving existing European standards are also proposed for the purpose of fostering cooperation with browser vendors and thus improve better acceptance of eIDAS audits.
+Read the full report here: 
+

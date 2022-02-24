@@ -1,0 +1,8 @@
+First building block to enable safe VTOL operation and new air mobility in Europe
+Related Content
+
+On 2 July 2019, the European Union Aviation Safety Agency (EASA) released the first building block to enable the safe operation of hybrid and electrical vertical take-off and landing (VTOL) aircraft. Patrick Ky, EASA Executive Director declared “We are actively engaging with the industry to develop the right technical requirements to take benefit of the new technologies bringing safety and environmental benefits to the community. The establishment of a common set of conditions for the certification of these new concepts of vehicles will enable a fair competition on the European market as well as clarity for future manufacturers and their investors.”
+
+The final Special Condition published today provides the framework for manufacturers to develop innovative VTOL aircraft. It applies to person-carrying VTOL heavier-than-air aircraft in the small category, with lift/thrust units used to generate powered lift and control. The small category covers aircraft with a passenger seating configuration of 9 or less and a maximum certified take-off mass up to 3175 kg. The Special Condition was opened for public consultation in October 2018 and widely consulted with stakeholders worldwide. The certification objectives are made dependent on the type of operation in order to provide flexibility and proportionally and also to give a clear visibility to the industry of the objectives for their designs. 
+
+For more information, please see our press release.

@@ -1,0 +1,38 @@
+5th eHealth Security Conference: ENISA advises on cybersecurity for hospitals
+ENISA, the EU Agency for Cybersecurity organised the 5th consecutive eHealth Security Conference in cooperation with the Spanish Authorities and the Centre for Information Security of Catalonia (CESICAT) on the 30th October in Barcelona.
+Published on October 31, 2019
+
+Pictured from left to right: Evangelos Ouzounis, ENISA; Jordi Puigneró i Ferrer, Generalitat de Catalunya; Francisco de Paula Polo Llavata, Ministry of Economy and Business; Marco Marsella, DG CONNECT.
+Tagged with 
+
+
+
+
+
+
+The conference took place in the margins of the Barcelona Cybersecurity Congress and covered multiple topics particularly incident reporting; good cybersecurity practices for health care organizations with a focus on procurement; demos for hacking medical devices and Cyber Europe; and ultimately, future strategies to increase the level of awareness in the health sector. An audience of around 100 stakeholders, including around 20 speakers and panellists gathered to support the event’s moto: Working together towards secure eHealth.
+ENISA’s Executive Director, Juhan Lepassaar, stated: “Cybersecurity remains a joint responsibility and the active involvement of all relevant stakeholders in the annual eHealth Cybersecurity conference is required for raising the sector’s cybersecurity maturity and positioning. ENISA is assisting Member States in building cybersecurity in the Healthcare sector, enhancing its policy role”.
+Thus, this important annual conference proves a platform for policy makers, regulators, operators, manufacturers and other stakeholders from the healthcare sector to discuss and exchange good practices on the subject of eHealth security.
+High-level speakers at the event included Francisco de Paula Polo Llavata, Spanish Secretary of State for Digital Advancement, Ministry of Economy and Business; Jordi Puigneró i Ferrer, Counselor of Digital Policy and Public Administration, Generalitat de Catalunya; Marco Marsella Head of eHealth, Well-Being and Ageing Unit at DG CONNECT; Evangelos Ouzounis, Head of Secure Infrastructures and Services Unit at ENISA.
+eHealth Cybersecurity Policy & Incident Reporting
+Representatives of different Member States shared their experiences and lessons learned when addressing eHealth Security at a national level, covering among others topics:
+Sectorial National Cybersecurity Strategies for Healthcare
+Healthcare CSIRTs
+Sectorial incident reporting
+Meeting cybersecurity objectives via good procurement practices
+ENISA presented the preliminary findings of its 2019 study on procurement guidelines for hospitals, which will be published later in the year, while speakers bringing the perspective of healthcare organisations and medical device/system suppliers shared their views on how procurement can be improved to address cybersecurity
+Hacking healthcare
+In addition to the demos, ENISA presented how healthcare organisations and other stakeholders can test their preparedness to deal with these and other incidents in practice: Cyber Europe 2020. Next year, the upcoming cyber incident and crisis management exercise will focus on the healthcare sector and will involve healthcare stakeholders of both the public and private sectors from the EU and EFTA Member States.
+A very lively session demonstrated concrete examples of how healthcare assets such as medical devices can be hacked in practice and compromise the privacy of users and protection of such devices.
+A glimpse at the future of eHealth Cybersecurity and key conclusions
+The final session gave the audience a glimpse at the future of eHealth Cybersecurity with presentations emphasising the importance of and need to focus on raising awareness around cybersecurity within healthcare professionals. Two presentations highlighted how this issue can be tackled and what some concrete benefits of increased awareness might be. DG SANTE concluded the Conference by presenting the evolving policy and regulatory context at an EU level.
+ENISA’s work on eHealth Cybersecurity and future strategic objectives 
+ENISA intends to keep playing its role in this continuous process by addressing key issues and recommendations in the following years, such as:
+Supporting policy and regulatory initiatives and promoting good cybersecurity practices in the healthcare sector.
+ENISA will keep working on supporting initiatives related to information sharing within the sector.
+Cybersecurity is key to improve the most important thing we have: health.
+Next Cyber Excercise in 2020 will be focused on healthcare, a critical infrastructure to protect. Coordination in cyber exercises of this kind is essential for reporting incidents among the healthcare sector.
+Support in building cybersecurity awareness strategies and training methodologies among healthcare providers, staff, doctors.
+Digital health and cybersecurity is a joint responsibility: regional, national and international healthcare stakeholders need to work together to raise the standards of security in hospitals and medical devices.
+For interviews:
+For further queries or interviews, please contact 

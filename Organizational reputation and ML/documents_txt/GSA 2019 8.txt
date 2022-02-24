@@ -1,0 +1,27 @@
+GSA funding opportunity: Enhanced GNSS Receiver/User Terminal
+Published: 
+19 September 2019
+
+The deadline for submissions is 31 October 2019, a webinar on 9 October will help you prepare.
+The European GNSS Agency (GSA) has opened a call for proposals within its Fundamental Elements funding mechanism, targeting the implementation of OS-NMA and/or I/NAV features in close-to-market receivers and/or GNSS user terminals. The deadline for submissions is 31 October 2019.
+This Call for Proposals aims to implement OS-NMA and/or I/NAV improvements capability in close-to-market (i.e. min TRL 7) receivers and/or GNSS user terminals suitable for target application domains other than the Smart Tachograph.
+The applicants are requested to propose a solution to reach this objective in such a way that:
+The receiver and/or terminal shall be able to receive and process OS-NMA and/or be fully compliant with and make optimal use of the new Galileo E1-OS I/NAV features introduced with the Galileo Open Service Interface Control Document (OS ICD).
+In case of OS-NMA implementation, the enhanced receiver and/or GNSS user terminal shall aim at optimising the level of protection at least against those spoofing attacks that are specific to the target application.
+The developed receiver and/or GNSS user terminal shall be cost efficient and compliant with the specific application constraints.
+For more details, please see the call .
+EGNSS differentiators: OS-NMA and I/NAV improvements
+As part of its service portfolio, Galileo plans to provide a navigation message authentication feature over its Open Service (OS). From the Galileo standpoint, Navigation Message Authentication (NMA) is defined as the ability of the system to guarantee to users that they are utilising navigation data from the Galileo satellites and not from any other, potentially malicious, source.
+In addition, with the same objective of enhancing the Galileo services portfolio, three new features will soon be provided free of charge to all Open Service users. These features will be gradually implemented from 2020 and will be openly accessible through the I/NAV message carried by the E1-B signal.
+The OS-NMA feature is considered an important asset for the Galileo programme, being a strong technical differentiator with respect to the other GNSS. This capability will allow Galileo user terminals to assess the authenticity of the data provided through the Signal in Space transmitted by Galileo satellites against attempts to spoof it. It will also help improve the overall robustness of GNSS for various applications, particularly those for which security and trustworthiness are a priority. Furthermore, the OS-NMA will also offer a certain level of anti-replay capability. This capability will strictly depend on the measures implemented by the actual receiver and therefore cannot be considered a Galileo service.
+The three new features, whilst ensuring full backward compatibility with existing Galileo receivers, will further improve the robustness of Galileo OS when retrieving the navigation data, particularly in challenging environments, and will enhance the Galileo OS capability to resolve users’ clock uncertainty. In this respect, a key performance metric (especially when GNSS operates in unassisted mode) is the time to receive Clock and Ephemeris Data (CED). Two of the newly introduced features contribute in different ways to improving the Time-To-CED, and therefore the overall Time to First Fix (TTFF).
+Fundamental Elements call: at a glance
+Market segment: Transversal
+Deadline for submission of proposals: 31 October 2019
+Expected signature of contract: April to June 2020
+Maximum budget allocated: EUR 3 000 000
+Maximum number of projects: 2
+EU financing amount of each of the two projects: up to EUR 3 000 000 (70% co-funding)
+Webinar date: 9 October 2019 15:00
+Webinar
+On 9 October 2019 at 15:00, a webinar on the Fundamental Elements Call “” will be held to provide applicants with information on how to prepare a proposal. To connect to the webinar click .

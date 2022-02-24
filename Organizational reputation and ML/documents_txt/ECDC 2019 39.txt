@@ -1,0 +1,15 @@
+ECDC launches e-learning course and operational tool for development of rapid risk assessments
+News story
+14 Mar 2019
+
+ECDC launches a new e-learning course on rapid risk assessments (RRA) as well as an operational tool that describes the RRA methodology used by the Centre. The course and the tool support public health experts responsible for developing RRAs at European, national or sub-national level.
+The operational tool facilitates the structured and reproducible development of RRAs for communicable diseases incidents. It is consistent with the ECDC operational guidance on RRAs that was published in 2011.
+The operational tool highlights the key components of a good RRA and presents in detail each of the five stages involved in the development of an RRA:
+Define the risk questions;
+Collect and validate event information;
+Perform a literature search and extract evidence;
+Appraisal of evidence;
+Estimation of risk.
+It also provides checklists to ensure that all the required information is being considered, as well as algorithms for assessing probability and impact.
+The e-learning course addresses persons with no prior knowledge of working on RRAs, is open to all and available for free on ECDC's Virtual Academy (EVA). It enables participants to recognise the steps in RRA production, to describe what is expected to be done in each step and to contribute to a team working on RRAs. It is self-paced, with no specific starting date, and the estimated duration is between 3 and 5 hours of active learning. Those interested can  for full access to the course.
+As part of its core work of monitoring and assessing threats to public health in Europe from infectious diseases, RRAs are an integral part of ECDC’s work. RRAs are undertaken in the initial stages of an event or incident of potential public health concern, whereas more comprehensive risk assessments, which often include the conduct of full systematic reviews, are produced at a later stage of an event, usually when more time and information are available. The goal for ECDC is that an RRA should be produced within a limited timeframe.

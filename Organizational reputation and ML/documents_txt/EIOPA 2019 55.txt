@@ -1,0 +1,13 @@
+Monthly technical information for Solvency II Relevant Risk Free Interest Rate Term Structures – End January 2019 
+NEWS
+ 
+DATE:
+ 
+06 Feb 2019
+Today, the European Insurance and Occupational Pensions Authority (EIOPA) published technical informationon the relevant risk free interest rate term structures (RFR) with reference to the end of January 2019.
+The RFR information reflects the content of the published on 14 August 2018 including a revised methodology for the calculation of the Danish Volatility Adjustment.
+Following the  published by EIOPA in April 2017, the risk-free interest rates have been calculated with Ultimate Forward Rates (UFRs) derived in accordance with the  for the calculation of the UFR for 2019 published by EIOPA on 28 March 2018. The UFR applied to the euro has decreased from 4.05% to 3.90%.
+Furthermore, the regular annual update of the transition matrices to calculate the fundamental spreads and the volatility adjustments was also carried out.
+Technical information relating to risk-free interest rate (RFR) term structures is used for the calculation of the technical provisions for (re)insurance obligations.
+In line with the Solvency II Directive, EIOPA publishes technical information relating to RFR term structures on a monthly basis via a dedicated section on EIOPA's Website also containing the release calendar for 2019, the RFR Technical Documentation, the RFR coding and Frequently Asked Questions.
+With this publication, EIOPA ensures consistent calculation of technical provisions across Europe.

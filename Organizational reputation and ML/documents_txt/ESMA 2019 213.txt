@@ -1,0 +1,6 @@
+REGTECH AND SUPTECH – CHANGE FOR MARKETS AND REGULATORS
+14 March 2019 
+RISK ANALYSIS & ECONOMICS - MARKETS INFRASTRUCTURE INVESTORS
+The European Securities and Markets Authority (ESMA) has carried out an analysis of the regulatory and supervisory technologies currently being developed in response to various demand and supply drivers. The results of this analysis are presented in an . 
+ESMA finds that on the demand side, regulatory pressure and budget limitations are pushing the market towards an increased use of automated software to replace human decision-making activities. This trend is reinforced by supply drivers such as increasing computing capacity and improved data architecture. Market participants are increasingly using new automated tools in areas such as fraud detection, regulatory reporting and risk management, while potential applications of new tools for regulators include greater surveillance capacity and improved data collection and management.
+With these new tools come challenges and risks, notably operational risk. However, with appropriate implementation and safeguards, RegTech and SupTech may help improve a financial institution’s ability to meet regulatory demands in a cost-efficient manner and help regulators to analyse increasingly large and complex datasets.

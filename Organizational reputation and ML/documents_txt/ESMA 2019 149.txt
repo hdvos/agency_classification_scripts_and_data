@@ -1,0 +1,18 @@
+ESMA CONSULTS ON FUTURE REPORTING GUIDELINES UNDER SFTR
+27 May 2019 
+SECURITIES FINANCING TRANSACTIONS
+The European Securities and Markets Authority (ESMA) has today opened a  on draft guidelines on how to report securities financing transactions (SFTs). 
+The SFT Regulation (SFTR) establishes that both parties to an SFT need to report new, modified or terminated SFTs to a registered or recognised trade repository (TR), including the composition of the collateral.
+This Consultation Paper (CP) seeks stakeholders’ views on key elements of future ESMA Guidelines on reporting under SFTR. These Guidelines will complement the SFTR technical standards and ensure the consistent implementation of the new SFTR rules. The technical standards on reporting entered into force on 11 April 2019 and the reporting for credit institutions and investment firms will start one year later with a phased-in application for the rest of entities until January 2021.
+The guidelines include general principles that apply to SFT reporting, including how the reports should be constructed and where the reports should be sent. The guidelines provide clarity and a harmonised implementation on the following aspects: 
+the number of reportable SFTs
+the population of reporting fields for different types of SFTs
+the approach used to link SFT collateral with SFT loans
+the population of reporting fields for margin data
+the population of reporting fields for reuse, reinvestment and funding sources data
+the management by counterparties of feedback from TRs, namely in the case of:
+rejection of reported data; and
+reconciliation breaks
+the provision of access to data to authorities by TRs
+Next Steps
+In Q3 2019 ESMA will consider the feedback it receives to this consultation. ESMA expects to publish a final report on the Guidelines on Reporting under SFTR in Q4 2019.

@@ -1,0 +1,6 @@
+Phasing out the use of Halon in aircraft
+
+EU airline operators now have to ensure that newly manufactured large aircraft (both aeroplanes and helicopters) do not use the ozone depleting substance ‘halon’ as a fire extinguishing agent.
+The aim, shared by ICAO, is to gradually mitigate the environmental impact that halon extinguishing agents in firefighting equipment have on the ozone and climate, and to progressively achieve a ‘halon-free’ aviation, which balances the environmental concerns with safety-enhancing and cost-efficient rules. 
+The requirement is laid down in .
+Further improvements in the area of ‘Part-26 – Additional Airworthiness Specifications for a given type of operation’ include requirements that: newly manufactured large passenger aeroplanes will be equipped with passenger seats that comply with the latest seat design standards to improve passenger safety in case of an emergency landing; and that thermal or acoustic insulation material will have to comply with the latest design standards in order to improve passenger safety in case of fire. 

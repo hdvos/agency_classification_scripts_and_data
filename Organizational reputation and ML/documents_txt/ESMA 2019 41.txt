@@ -1,0 +1,21 @@
+ESMA ADVISES EC ON THE SUPERVISORY REGIME FOR THIRD-COUNTRY CCPS 
+11 November 2019 
+POST TRADING
+The European Securities and Markets Authority (ESMA), the EU’s securities markets regulator, has published three sets of technical advice to the European Commission (EC) regarding third-country central counterparties (TC-CCPs) under the revised European Market Infrastructure Regulation (EMIR 2.2). 
+ESMA’s advice details:
+how to specify the criteria to determine whether a TC-CCP is systemically important for the EU or a Member State’s financial stability ();
+how to assess ; and
+the  to be charged to TC-CCPs.
+Steven Maijoor, ESMA Chair, said:
+“CCPs are important financial market infrastructures that play a key role in helping to mitigate transactional risks related to central clearing. To achieve the stability and safety of the EU financial system, it is important that we capture the risks associated with CCPs, be they EU or third-country based.
+“Our technical proposals, once implemented, will help to achieve this goal by ensuring proportionate supervision is in place for all CCPs, depending on whether they are systemically important for the EU or not.”
+ESMA’s technical advice on tiering  
+EMIR 2.2 introduces a set of criteria to be considered by ESMA to determine whether a TC-CCP is systemically important or likely to become systemically important for the financial stability of the EU or of one of its Member States, a Tier 2 TC-CCP. Where a TC-CCP has not been determined as being Tier 2, it will be a Tier 1. 
+ESMA’s advice proposes a range of indicators to be considered in determining a TC-CCP’s tiering and provides guidance on what it may consider in this assessment.
+ESMA’s technical advice on comparable compliance 
+The two-tier regime introduced with EMIR 2.2 requires that a Tier 2 TC-CCP must comply, at recognition and on an on-going basis, with all CCP requirements under EMIR in addition to the requirements of its home country.
+However, comparable compliance allows a Tier 2 TC-CCP to comply with EMIR requirements by complying with the regulations and requirements of its home country, subject to a specific assessment by ESMA. In practice, to benefit from comparable compliance, Tier 2 TC-CCPs will have to evidence how compliance with the requirements applicable in their home country also satisfies the requirements under EMIR.     
+ESMA’s technical advice on fees charged to TC-CCPs
+EMIR 2.2 requires TC-CCPs that operate in the EU to pay fees to cover for the relevant supervisory and administrative costs. ESMA’s advice details the fees ESMA will charge for each category of TC-CCPs, as well as the payments and reimbursement conditions. This includes fees for recognition and withdrawel of TC-CCP recognition, annual fees, and fees for comparable compliance assessments.
+Next steps
+ESMA has sent its advice to the EC for the development of the corresponding Delegated Acts under EMIR 2.2, on which the EC will consult publicly before it finalises them.

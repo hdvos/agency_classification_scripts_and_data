@@ -1,0 +1,22 @@
+FRA’s antisemitism survey dataset now available
+Rights areas:
+
+
+
+The dataset from FRA’s second antisemitism survey is now available for further use by researchers. The dataset contains a wealth of information from over 16,000 Jews in 12 EU Member States about their perceptions and experiences of antisemitism.
+Publication
+
+
+
+
+
+The dataset provides invaluable evidence of how Jews perceive and experience antisemitism, discrimination, violence and harassment in different areas of life. It also provides an insight into what Jews think is needed to improve their feelings of safety and security.
+Researchers can carry out their own detailed analysis of the survey results. Academia can also use the data for teaching.
+The dataset is stored with the , a certified trusted digital repository.
+The GESIS Data Archive contains a description of the antisemitism survey dataset and accompanying documents. In order to request access, users have to fill in a data usage contract. The data are released once FRA grants permission in writing.
+The accompanying  outlines FRA’s data protection policies concerning access to the data through the GESIS Data Archive.
+FRA carried out the survey across 12 EU Member States: Austria, Belgium, Denmark, France, Germany, Hungary, Italy, the Netherlands, Poland, Spain, Sweden and the United Kingdom between May and June 2018. These Member States are home to over 96% of the EU’s estimated Jewish population.
+Detailed information on how the data were collected can be found in the  that accompanies the survey. The survey  is also available online.
+The agency’s own analysis of the survey data is available on the FRA website in the form of a . The  of the key findings is available in various EU official languages.
+Data from the agency’s first antisemitism survey from 2012 can be found in FRA’s and .
+For more information, please contact .

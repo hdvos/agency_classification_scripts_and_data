@@ -1,0 +1,27 @@
+EFSA to share data on open-access platform
+
+
+EFSA has taken a major step towards becoming a fully open data organisation by committing to publish the scientific data it uses for EU-wide monitoring programmes and surveys and many of its risk assessments.
+
+In a report published today, EFSA lays out how it intends to share data collected in areas such as: food consumption habits; pesticide residues in food; chemical contaminants and additives in food; foodborne disease outbreaks; and antimicrobial resistance.
+
+The data will be made available on Knowledge Junction, EFSA’s curated, open repository, which was set up to improve transparency, reproducibility and reusability of evidence in food and feed safety risk assessments. The first datasets will be published this year.
+
+Knowledge Junction is a community on the Zenodo platform and can be accessed by anyone with a web browser.
+
+Mary Gilsenan, head of EFSA’s Evidence Management Unit, said: “Making this data freely available will mark a significant milestone for the Member States who provide so much of the data we use, and for EFSA itself.
+
+“For the first time, when we publish certain scientific outputs we will simultaneously make available all the data used in the assessment. This will give us a data publication process that is timely, comparable, interoperable and accessible.”
+
+As well as being in line with one of EFSA’s key strategic objectives – to widen its evidence base and maximise access to its data – the move is part of wider EU efforts to promote public access to data and information.
+
+Ms Gilsenan added: “Open data is a key enabler for transparency, accountability and evidence-based decision-making. Moving from data-on-demand to a proactive data-by-default approach is a positive move for EFSA and all our stakeholders.”
+
+The report was drafted by EFSA data specialists in close consultation with experts and authorities from EU Member States.
+
+It includes a review of the measures that individual countries are taking to provide public access to government data. Food and feed safety organisations are taking different approaches, but the availability of food safety data is increasing year by year.
+
+“We hope our report will help to stimulate the adoption of an open data policy in the food safety domain across Europe,” Ms Gilsenan said. “Access to open data can help consumers to make healthy choices, enhance food safety monitoring systems and drive innovation in the food production sector.”
+
+Report: Publication of scientific data from EU-coordinated monitoring programmes and surveys
+EFSA Journal editorial: The future of data in EFSA

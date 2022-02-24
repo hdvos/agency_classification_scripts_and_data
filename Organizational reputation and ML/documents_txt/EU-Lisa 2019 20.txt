@@ -1,0 +1,13 @@
+19/03/2019
+VIS Operational Training Course delivered in Strasbourg 
+The second cycle of eu-LISA VIS Development Training Programme for IT Operators (DTPITO) moved forward earlier this month with the delivery of an Intermediate Level (L2) session on the 6th of March.
+The aim of the course was to introduce VIS operational system principles, technical system aspects and to provide a detailed overview of operations. 
+The target audience was Single Point of Contact (SPoC) managers and senior operational staff from Member States.
+During the course the following topics were covered:
+Introduction to VIS Incident Management and Request Fulfilment;
+VIS Data Quality and VIS Service Manager 9 (SM9)
+Incident and Requests Management - Hands on.
+Twelve participants from 10 EU Member States were trained during the Intermediate Level course. The training was supported with possibilities for e-learning through the eu-LISA LMS.
+The attendees also had the opportunity to take an assessment test to measure the level of knowledge acquired during the training with 11 of them obtaining a VIS Professional certificate. The average test result was 86.7%.
+DTPITO will continue with VIS Development Training Programme for IT Operators - Advanced Level (L3) on 3-4 April 2019 in Tallinn, Estonia. This will be the first ever training activity for Member States that will take place in eu-LISA's headquarters.
+Member States; Training; VIS

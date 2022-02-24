@@ -1,0 +1,30 @@
+ACER reports on gas conditional capacity products in the EU
+
+05/04/2019
+TwitterFacebookLinkedInE-mail
+The Agency publishes today its Report on the conditionalities stipulated in contracts for standard capacity products for firm capacity and an underlying consultancy Study as required by the EU Regulation establishing a Network Code on Capacity Allocation Mechanisms in gas transmission systems.
+ 
+In order to ensure that gas can be traded independently of its location in the system, network users must be given the freedom to book entry and exit capacity independently from each other. ACER's Report analyses the current restrictions in capacity products that prevent this from happening.
+ 
+What are conditional contracts?
+
+The entry-exit system is a market access model that allows network users to book capacity rights independently at any entry and any exit point of the system. The entry-exit model promotes trading of entry-paid gas at hubs and leads to a dynamic way to transport gas through zones, with easy access to multiple end-users.
+Current EU legislation recognises firm and interruptible capacity products. It does not mention, nor does it forbid, conditional capacities. Conditionalities exist when a network user is not allowed to book entry and exit capacities independently from one another, or faces restrictions on freely flowing gas from any entry to any exit point of a market area or zone. It also exists when network users can choose not to use the free and fully allocable firm capacity and commit to a more restrictive contract. In such cases, network users are incentivised to limit their capacity rights by discounts.
+
+Which countries are concerned?
+
+The use of conditional products and legacy contracts with contractual limitations occur in Austria, Belgium, Bulgaria, Germany, Hungary, Luxemburg, the Netherlands, Poland, Romania, Slovakia, and Great Britain. The underlying Study provides a full review of these situations.
+
+What are ACER's recommendations?
+
+The main recommendations of the Agency to the National Regulatory Authorities (NRAs) and the transmission system operators (TSOs):
+create a EU-catalogue of conditional products with product and pricing descriptions;
+harmonise the discounts concerning conditional products;
+study the cross-border effects of conditional products and their tariffs in order to limit cross-subsidies between transit and domestic users;
+provide higher transparency about the traded volumes and capacity tariffs of conditional products on the European Network of Transmission System Operators for Gas (ENTSOG) Transparency Platform;
+perform a cost-benefit analysis (CBA) for zone mergers potentially creating or increasing the use of conditional products;
+terminate transit contracts that do not follow the entry-exit model.
+The Agency supports clarifying in the EU legislation the definition of the entry-exit model and the legal requirements of this model. The Agency, in general, recommends that the national regulatory authorities assess on a case-by-case basis whether conditional capacity products are favourable compared to alternative measures to deal with network restrictions, such as an upgrade of the gas network, by using cross-border CBAs.
+You can access the ACER report here.
+You can access the underlying consultancy Study here.
+Find the related dataset here​.

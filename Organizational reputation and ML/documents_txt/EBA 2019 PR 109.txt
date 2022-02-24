@@ -1,0 +1,11 @@
+EBA goes live with its central register of payment and electronic money institutions under PSD2 
+18 March 2019
+The European Banking Authority (EBA) launched today its central electronic register under the Payments Services Directive (PSD2). The register will provide information on several thousand payment and electronic money institutions and 150,000 agents within the EU. Its objective is to increase transparency and ensure a high level of consumer protection within the European Single Market.
+Commenting on the launch of the electronic register, the Executive Director of the EBA, Adam Farkas, said: "The EBA has worked hard to provide a freely accessible and reliable source of key information for market participants across the single market that will facilitate the roll out of PSD2, support the provision of the newly regulated payments services and improve transparency for consumers in the EU".
+This register provides consistent information, among others, on (1) the identity of authorised payment and electronic money institutions, including payment initiation service providers and account information service providers); (2) the country of establishment of these providers and the services they provide; and (3) information on passporting, i.e. the services provided in host Member States.
+The EBA Register will be a single source of aggregated information about payment and electronic money institutions in the EU. The information included in it is provided by national authorities and, therefore, mirrors the content of their national registers, and is updated by them at least once a day.
+The register is also free of charge and easy to access on the  where users can also download a copy in a machine-readable format.
+Legal basis
+Article 15(1) of the PSD2 requires the EBA to develop, operate and maintain an electronic central register that contains information as notified by competent authorities. The EBA is required to make the register publicly available on its website and to allow easy access to and easy search for information listed, free of charge.
+The register has been developed in accordance with the requirements of the draft RTS and ITS on the EBA Register under PSD2, which were submitted to the European Commission in December 2017.
+ 

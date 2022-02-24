@@ -1,0 +1,20 @@
+EBA publishes 2020 EU-wide stress test methodology and draft templates 
+07 November 2019
+The European Banking Authority (EBA) published today the final methodology and draft templates for the 2020 EU-wide stress test along with the key milestones of the exercise. The methodology and templates cover all relevant risk areas and incorporate the feedback received during the discussion with the industry in the summer of 2019. The stress test exercise will be formally launched in January 2020 and the results published by 31 July 2020.
+The Board of Supervisors of the European Banking Authority (EBA) agreed on the publication of the 2020 EU-wide stress test package, which includes the methodology, templates and template guidance. Similar to the 2018 exercise, the 2020 EU-wide stress test is a bottom-up exercise with constraints, including a static balance sheet assumption. The exercise is primarily focused on the assessment of the impact of risk drivers on the solvency of banks. Banks are required to stress a common set of risks (credit risk – including securitisations – market risk and counterparty credit risk, and operational risk – including conduct risk). In addition, banks are requested to project the impact of the scenarios on net interest income and to stress P&L and capital items not covered by other risk types.
+A draft version of the stress test templates is also published along with a template guidance that contains instructions on how to populate them. The draft version of the templates can still be subject to minor technical adjustments before its final publication. 
+Key milestone dates of the 2020 EU-wide stress test exercise
+Launch of the exercise at the end of January 2020;
+First submission of results to the EBA at the beginning of April 2020;
+Second submission to the EBA in mid-May 2020;
+Third submission to the EBA at the end of June 2020
+Final submission to the EBA in mid-July 2020;
+Publication of results by end-July 2020
+Notes to editors
+The aim of the EU-wide stress test is to assess the resilience of EU banks to a common set of adverse economic developments in order to identify potential risks, inform supervisory decisions and increase market discipline.
+ 
+The EBA's EU-wide stress tests are conducted in a bottom-up fashion, using consistent methodologies, scenarios and key assumptions developed jointly with other authorities.
+ 
+In particular, the exercise is coordinated by the EBA and carried out in cooperation with the European Central Bank (ECB), the European Systemic Risk Board (ESRB), the European Commission (EC) and the Competent Authorities (CAs) from all relevant national jurisdictions.
+ 
+To give banks sufficient time to prepare for the exercise, the EBA publishes the methodology and templates well ahead of the formal launch, which will include relevant macroeconomic scenarios.

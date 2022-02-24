@@ -1,0 +1,31 @@
+DRIVING FORWARD EUROPEAN FUEL-CELL TECHNOLOGY - FCH JU AWARDS 2019
+The Fuel Cells and Hydrogen Undertaking (FCH JU) has announced the winners of the 2019 FCH Awards. The successful projects reduce fuel-cell technology production costs, speed up manufacturing, develop new materials to increase fuel-cell performance and demonstrate how people can rely on hydrogen energy. Overall, they pave the way for a world-class European fuel-cell industry that sustains clean energy. The Awards were presented at a ceremony hosted by the Royal Museums of Fine Arts in Brussels on 20 November 2019, attended by about 300 industry, research and EU representatives.
+SOSLeM took home the top prize in the Best Project Innovation category for their novel testing device which enables fuel cell manufacturers to scale-up production volumes.  
+The award was presented by Deputy Director General for Research and Innovation, Patrick Child: “The Commission is delighted to see the innovation prize going to a project on manufacturing and lowering production costs of fuel cells. Much more should be done in this area to achieve higher market uptake of hydrogen technologies and products”. 
+This year’s Best Success Story, ‘Driving forward fuel cell technologies’, is looking at a series of projects (VOLUMETRIQ, INSPIRE, CRESCENDO, GAIA and PEGASUS) which are making fuel cells more affordable and competitive.
+ “These projects are delivering results that enable Europe to be a leader in the fuel cell technology and have a strong impact on the clean energy transition. The aim is to pry open market potential, ensuring a greener future for the EU’s transport sector” said FCH JU’s Executive Director Bart Biebuyck.
+ “The best success story award proves the true value of a public private partnership in accelerating and initiating new areas of development for hydrogen technologies. Showcasing these projects highlights that Industry plays a crucial role alongside Research and the European Commission to ensure the achievement of the European climate goals while laying the foundation for a robust industrialization of these technologies. Our public private partnership impacts our ambition towards a decarbonized European society”, said Valerie Bouillon-Delporte, President of Hydrogen Europe, and Chair of the FCH JU Governing Board, who presented the success story award.
+ Hydrogen achievements in Scotland (Orkney Islands) were in the spotlight as the BIG HIT project was presented with a special award for Best Outreach. Through active communication, the project helped to create a wider proactive atmosphere in favour of hydrogen research and development in Europe.
+FCH JU Awards 2019 
+The Awards were presented at a ceremony at the Royal Museums of Fine Arts in Brussels on 20 November 2019, attended by about 300 industry, research and EU representatives. The 2019 Awards Ceremony is the second of the FCH JU, a public-private partnership which is boosting industry and SME collaboration, driving research, development, deployment and market introduction of fuel cells and hydrogen technologies. The winners were chosen by public vote, which mobilised the European Fuel Cells and Hydrogen community around the 24 nominees – 12 for each category (success stories and innovation).
+Best innovation
+Winner : A novel testing device enables fuel cell manufacturers to scale-up production volumes
+One of the main barriers for fuel cells at the moment are the high production costs associated to manufacturing. This novel device will enable manufacturers to quickly test fuel cell stacks in order to avoid any defective products being shipped to customers, thereby ensuring the quality of the product and lowering production costs.
+Project: SOSLeM (); 
+Partner leading the innovation: AVL ()
+‘A monitoring  device for fuel-cell cars has been transferred to stack manufacture for micro CHP systems. It can look inside the stack in the conditioning phase and see if it doesn’t work, saving time and resources for manufacturers.' Richard Schauperl from automotive engineering company AVL LIST GmbH.
+'The project has reduced the cost of a core component, the stack, by 70% and the stack conditioning time to one day. We need to make it more affordable for consumers to switch from oil to natural gas and we can make fast steps here with micro CHPs of 1.5 kW’ said Olivier Bucheli from solid oxide fuel cell systems and stacks manufacturer SOLIDpower.
+Best success story: 
+Winner: 
+Fuel-cell powered vehicles remain relatively expensive because of costly technology. The FCH JU has brought together industry and academic experts to explore different paths to lower the production costs of fuel cells, while at the same time guaranteeing increasing performances. A cluster of projects looks into developing new materials, improving manufacturing and quality control techniques; while. Other projects are investigating how to improve performance while reducing the amount of critical raw materials, such as platinum.
+VOLUMETRIQ  ; /
+INSPIRE  ; 
+CRESCENDO ; 
+GAIA  ;  ()
+PEGASUS  ; 
+'EU public support is speeding forward European hydrogen and fuel cells technology. All projects exchanged material and are using each other's outcomes (...) The stack will be competitive worldwide, strengthening European jobs and industry and increasing automotive performance' Deborah Jones, coordinator of VOLUMETRIQ, CRESCENDO and GAIA and research director at the French National Scientific Research Council (CNRS). 
+'We are pushing industry into a new area in useful products. This technology will be a key business driver in the future”.  Stefan Hornauer from stack manufacturer ElringKlinger AG, in VOLUMETRIQ.
+'Industry suppliers are involved in the projects, which is a huge strength. The components developed are compatible with end use.' Silvain Buche, coordinator of INSPIRE and global sustainable technologies leader, Johnson Matthey who also manufacture fuel cell components.’
+ Best outreach 
+Winner: BIG HIT ( )
+Proving hydrogen and fuel cells are viable options even in isolated locations like the island of Orkney (Scotland), BIG HIT’s colourful and proactive outreach efforts showed a beautifully integrated model of hydrogen production, storage, transportation and use in full action ().

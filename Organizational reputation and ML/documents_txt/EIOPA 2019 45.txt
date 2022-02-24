@@ -1,0 +1,14 @@
+EIOPA re-publishes the monthly technical information on the Icelandic Krona (ISK) and updates the Solvency II relevant risk-free interest rate term structures -End May 2019 
+NEWS
+ 
+DATE:
+ 
+18 Jun 2019
+Following the publication on 6 June 2019 of the end-May 2019 risk-free-rate technical information, the Icelandic Krona (ISK) government bond yields used for calculating the relevant risk-free interest rate term structures were incorrect.
+Therefore, EIOPA recalculated the risk-free interest rate term structures for the ISK to ensure that insurance and reinsurance undertakings can base their calculation of technical provisions on the correct technical information.
+The technical information related to all other currencies remains unchanged.
+This RFR information has been calculated on the basis of the last updated documents published on EIOPA's website.
+Background
+Technical information relating to risk-free interest rate (RFR) term structures is used for the calculation of the technical provisions for (re)insurance obligations.
+In line with the Solvency II Directive, EIOPA publishes technical information relating to RFR term structures on a monthly basis via a dedicated section on EIOPA's Website also containing the release calendar for 2019, the RFR Technical Documentation, the RFR coding and Frequently Asked Questions.
+With this publication, EIOPA ensures consistent calculation of technical provisions across Europe.

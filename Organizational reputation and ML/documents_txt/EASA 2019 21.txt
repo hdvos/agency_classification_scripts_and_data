@@ -1,0 +1,18 @@
+The new EASA approach for the definition of Level of Involvement (LOI)
+
+On 3 June 2019, the European Commission has published  amending Regulation (EU) No 748/2012 as regards of the inclusion of risk-based compliance verification and the implementation of requirements for environmental protection.
+The main element of this Regulation is an amendment of the certification process in respect of what is commonly referred to as “Level of Involvement (LOI)”.
+The new LOI concept
+Affected applicants will have to propose a break-down of the certification programme into meaningful groups of compliance demonstration activities and data (ref to point 21.A.15(b)(5)and similar provisions).
+Then, for each identified group of compliance demonstration activities and data, the affected applicants will have to perform a risk assessment considering the likelihood of an unidentified non-compliance with the type-certification basis, operational suitability data certification basis or environmental protection requirements and the potential impact of that non-compliance on product safety or environmental protection. 
+Based on this assessment, the applicant shall make a proposal for the Agency's involvement in the verification of the compliance demonstration activities and data.
+EASA will determine its LOI considering the proposals submitted by the affected applicants.
+Details about this new LOI concept, as well as possible means of compliance with these new points in Part 21,  have been presented by EASA e.g. at:
+The following material is currently available
+Applicability - when does the new LOI become mandatory?
+
+More information and training
+As the new amendment of Part 21 incorporates a significant number of changes, EASA will organise 5 events to explain to interested stakeholders the amendments to Part 21 in order to ensure a smooth implementation. 
+During these events, EASA will explain the amended rules and the expected impacts to design organisations, including the new LOI concept. EASA will also describe acceptable means to comply with the new requirements. 
+List of scheduled events:
+

@@ -1,0 +1,50 @@
+EIOPA launches field test on revised and new templates under Solvency II reporting and disclosure review 2020
+NEWS
+ 
+DATE:
+ 
+09 Oct 2019
+The European Insurance and Occupational Pensions Authority (EIOPA) launched today - as part of the 2020 Solvency II reporting and disclosure review – Wave 1 - a field test on the revised and newly proposed templates. As indicated in the context of the consultation on supervisory reporting and public disclosure the revision covers both content and structure of different templates. 
+The aim of the field test is to provide undertakings the possibility to implement the new and revised reporting requirements, to identify main issues and to report on them. The field test does not aim that National Competent Authorities (NCAs) receive real data. Experience shows that many important questions and concerns including those linked with the interpretation of which information is requested, are raised during implementation. To address these questions and concerns, EIOPA conducts this field test and welcomes any feedback, e.g. questions, concerns and any problem encountered during the test phase.
+The field test covers the following templates:
+S.04.03 - Basic Information - list of underwriting entities
+S.04.04 - Activity by country - location of underwriting
+S.04.05 - Activity by country - location of risk
+S.14.01 - Life obligations analysis
+S.14.02 - Non-life business - policy and customer information
+S.25.01 - Solvency Capital Requirement - for undertakings on Standard Formula
+S.25.02 - Solvency Capital Requirement - for undertakings using the standard formula and partial internal model or full internal model
+SR.25.02 - Solvency Capital Requirement - for undertakings using the standard formula and partial internal model or full internal model - RFF/MAP
+S.29.05 - Detailed analysis per period for life insurance and reinsurance undertakings - Technical flows and Technical provisions
+S.29.06 - Detailed analysis per period for non-life insurance and reinsurance undertakings - Technical flows and Technical provisions
+S.42.01 - Cyber risk
+S.43.01 - Internal model - Additional information on IM
+S.43.02 - Internal model - Market & credit risk and sensitivities
+S.43.03 - Internal model - Credit event risk for financial instruments
+S.43.04 - Internal model - Credit risk Non-Financial Instruments
+S.43.05 - Internal model - Non-life & Health non-slt
+S.43.06 - Internal model - Output correlations between undertaking's internal lines of business
+S.43.07 - Internal model - Life & health risk
+S.43.08 - Internal model - Operational risk
+S.43.09 - Internal model - Model Changes
+Taxonomy package content: The field test is based on the templates and instructions of templates as published in the  (see Annexes). The package consists of:
+DPM excel files (Annotated templates and DPM dictionary; list of the same data points is included in the Annotated templates file, suggestions regarding potential validation checks are added as comments)
+XBRL files
+Database
+Some templates, namely S.01.01, S.01.02, S.01.03 and T.99.01, were added to the package to assure that the field test DPM and XBRL taxonomy consists of the same functional templates as the officially released taxonomy packages, e.g. 2.4.0. 
+Conceptually two sets of templates are mutually exclusive and shall be treated as two different approaches to gather information about the Internal Models details:
+Variant 1 (open template gathering information about all relevant types of risks):
+S.43.01 - Internal model - Additional information on Internal Models
+Variant 2 (set of separate templates, mostly closed templates, gathering information about different types risks):
+S.43.02 - Internal model - Market & Credit Risk and Sensitivities
+S.43.03 - Internal model - Credit event risk for Financial Instruments
+S.43.04 - Internal model - Credit risk Non-Financial Instruments
+S.43.05 - Internal model - Non-life & Health non-slt
+S.43.06 - Internal model - Output correlations between undertaking's internal lines of business
+S.43.07 - Internal model - Life & health risk
+S.43.08 - Internal model - Operational risk
+Although, as mentioned above, there is no intention to collect real data during the field test exercise, the 2.4.0 taxonomy architecture has been used including its 2.4.0 Filing rules. Please note that the potential final implementation of the template may include also further improvements coming from the technical means review to be conducted in the coming months.
+Who can participate? The field test is open for all solo undertakings and service providers. EIOPA appreciates the participation of different types and sizes of undertakings. 
+Field test process: Stakeholders are invited to participate in the field test, testing one, some or all of the templates.
+Feedback is welcome until the 31 January 2020 and has to be sent via email using the comments template to the following email address: . 
+Feedback received until 31 January 2020 will support EIOPA ongoing discussions with stakeholders on and considerations of the issues. However, EIOPA also welcomes feedback after that date, to be considered for the future development of the Implementing Technical Standards (ITSs) on reporting and disclosure.

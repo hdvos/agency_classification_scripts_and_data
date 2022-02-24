@@ -1,0 +1,15 @@
+ENISA cybersecurity certification preparation underway
+ENISA, the European Union Agency for Cybersecurity is hosting the first meeting to prepare a candidate cybersecurity certification scheme.
+Published on November 27, 2019
+
+Tagged with 
+
+
+
+Today, ENISA is chairing the kick-off meeting in Athens, Greece of the ad-hoc working group to prepare the first cybersecurity certification scheme in accordance with the Cybersecurity Act.
+Following the request from the European Commission, ENISA has set up an Ad hoc Working group to support the preparation of a candidate cybersecurity certification scheme to serve as a successor to the existing SOG-IS (“Senior Officials Group Information Systems Security“) MRA (Mutual Recognition Agreement), which has 20 years of experience.
+The scheme looks into common information technology security evaluation criteria, which is likely to improve the internal market conditions of technology products, services and processes. These common criteria have proven particularly efficient for the certification of chips and smartcards and has therefore contributed to enhance the level of security of electronic signature devices, for means of identification such as passports, banking cards, tachographs for lorries.
+The Working Group is composed of 20 selected members representing industry (developers, evaluators), as well as around 12 participants from accreditation bodies and Members States.
+ 
+Notes to editors:
+Further information on Cybersecurity Certification Framework can be found here: 

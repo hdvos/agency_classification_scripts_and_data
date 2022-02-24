@@ -1,0 +1,10 @@
+50 % of EUTM applications exclusively use HDB terms
+
+
+More than half of all incoming EUTM applications now use preaccepted terminology in their lists of goods and services. Lists containing only Harmonised Database (HDB) terms can be automatically classified, resulting in faster, cheaper and more efficient processing.
+The HDB is a database of terms to describe goods and services that are preapproved by every EU national and regional IP office, as well as the EUIPO, resulting in automatically accepted lists of goods and services.
+Work on the HDB began in 2009 with the goal of creating one common database of preapproved goods and services and developing an organisational system, known as ‘taxonomy’, to help users find the terms they need quickly and efficiently. The first HDB publication took place four years ago.
+Ten years on, the HDB is now the world’s largest multilingual database of descriptions of goods and services. It has nearly 1.5 million terms in 23 languages, with more being added all the time using terminology taken from real applications. The HDB incorporates the Nice Classification system, the ID list of preapproved descriptions of goods and services from the TM5 IP offices (made up of the EUIPO, China, Japan, South Korea and the United States) and the Madrid Goods and Services — the preapproved database of terms from WIPO for Madrid applications.
+All HDB terms are preapproved, which means that they are automatically accepted by every EU national and regional IP office, as well as the EUIPO. For example, last year saw almost 80 % of terms to describe goods and services automatically accepted by the EUIPO.
+The HDB aids EU trade mark offices by allowing them to draw from one EU-wide database when they validate, examine and translate lists of goods and services provided by applicants.
+

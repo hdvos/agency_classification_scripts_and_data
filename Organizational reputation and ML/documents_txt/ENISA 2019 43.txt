@@ -1,0 +1,14 @@
+Hope is stronger than fear: ENISA celebrates the European Data Protection Day
+ENISA today celebrates the 13th European Data Protection Day. This date marks the anniversary of the Council of Europe Convention 108 on the protection of personal information that provides an impetus for the protection of personal data in the EU allaying the fear of abuse and malpractice.
+Published on January 28, 2019
+
+Tagged with 
+
+On this occasion, ENISA shares some of its work in the fields of shaping technology according to GDPR provisions and security of personal data processing.
+An overview of data pseudonymisation
+ENISA today publishes a new report, which discusses the notion of pseudonymisation and its role under the . To this end, specific techniques that may be utilised for pseudonymisation are presented together with relevant best practices, with a focus on the area of mobile applications.
+Exploring the notion of data protection by default
+The principle of “data protection first”, as promoted by GDPR when it comes to data protection by default, has neither been the standard behaviour of products, services and applications nor a regular principle in software design methods. This report aims to shed some light on what the data-protection-by-default principle means in information technology design, what is the situation today, as well as how this new obligation could support controllers in selecting data-protection-friendly defaults.
+Sketching the notion of “state-of-the-art” for security of personal data processing
+Under GDPR, security of personal data is one of the main elements of controllers’ accountability. As such, it requires an engineered approach capable of striking a balance between security goals, costs and “state-of-the-art” solutions. To this end, ENISA, following past years’ work on the security of personal data processing for SMEs, publishes a new report, which discusses well-established security practices in a number of categories of security measures.
+

@@ -1,0 +1,21 @@
+Eligible organisations invited to join cybersecurity group ECCSA
+News category:  Cybersecurity
+Related News
+Related Content
+
+The European Centre for Cybersecurity in Aviation (ECCSA) is opening its doors to eligible organisations that would like to become members of the knowledge centre and information sharing network, which was established two years ago to counter the threats to aviation posed by cyberattacks.
+
+Industry-wide cooperation on cybersecurity matters is particularly important in the aviation sector as most aviation services can only be offered with the contribution of many stakeholders. The vulnerabilities of one actor may therefore affect other organisations, who benefit from being aware of a potential threat. This in turn increases the overall level of protection.
+
+ECCSA was initiated in response to a call to action by the European Commission and aviation stakeholders and is supported by the European Union Aviation Safety Agency (EASA). A further 12 founder members represent all aspects of the aviation industry in Europe:  Airbus, Air France/KLM, Brussels Airport, the Civil Aviation Authority of the Republic of Poland, ENAV S.p.A., EUROCONTROL, Finnair, Frankfurt Airport, Leonardo S.p.A., Lufthansa Group, NAV Portugal and Thales Group.
+
+In its first 24 months, ECCSA established governance and methodologies for the secure sharing of information on this sensitive topic, taking account of the different operating constraints of the various types of participating organisations.  A pilot phase to test the new processes and services was completed in March this year with the publication of the ECCSA Charter and Membership Guide.
+
+The Computer Emergency Response Team (CERT-EU) assisted with the development of information products such as advisories, newsletters and threat landscape reports related to aviation.
+
+Membership provides access to the various forums for exchange of information and best practices as well as to ad hoc activities. In addition, ECCSA offers feeds of relevant daily news for the aviation community and the general public. It further offers support to individuals that want to report vulnerabilities uncovered in good faith research activities. 
+
+Organisations relevant for the safety and security of European civil aviation who are interested in becoming an ECCSA member should register to express interest and receive further information: ECCSA Membership - Expression of Interest.
+Organisations who then make a formal application will be screened to ensure they meet eligibility criteria.
+
+Individuals seeking assistance related to a vulnerability disclosure can find further information on our website:  Vulnerability Disclosure - Request for Assistance.

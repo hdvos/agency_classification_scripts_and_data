@@ -1,0 +1,11 @@
+Improving Communication and Information Sharing Across Incident Response Communities
+ENISA publishes a report to guide incident response teams forming a community to choose secure communications solutions. 
+Published on September 04, 2019
+
+Tagged with 
+
+These are required to facilitate information exchange among teams and improve reaction time to security incidents.
+The methodology presented could also be valid for other operational teams grouped in an information sharing and analysis centre (ISAC). The goal is to provide a methodology and to illustrate what criteria they could consider when selecting communication solutions that can fit their size and needs.
+As of June 2019 there are more than 414 incident response teams in Europe. These teams work together to respond to cyber-attacks and need to use secure and reliable communication channels to share threat and incident information while protecting European citizens and businesses. These incident response teams are often organized in communities such as CSIRTs Network, TF-CSIRT, FIRST and other regional, sub regional or sectorial communities and they continuously communicate and exchange information. Typical information exchanged among teams include threat intelligence, indicators of compromise (IoCs), malware samples and details about relevant incidents.
+Previous ENISA work on the topic
+Since 2005, ENISA has been supporting Member States and CSIRT communities in EU to build and advance their incident response capabilities with handbooks, online & onsite trainings and dedicated projects. ENISA’s portfolio of work is related to setting up, running or developing capabilities of Computer Security Incident Response Teams (CSIRTs).  The goal is to define minimum common baseline practices across the EU to improve operational cooperation, preparedness and information exchange for the next generation of cyber-attacks.  More info can be found at 

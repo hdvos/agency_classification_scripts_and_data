@@ -1,0 +1,8 @@
+ESMA UPDATES Q&A ON MIFIR DATA REPORTING
+09 April 2019 
+MARKET INTEGRITY
+MIFID - SECONDARY MARKETS
+The European Securities and Markets Authority (ESMA) has today updated its  under the Market in Financial Instruments Regulation (MiFIR).
+The Q&As provide clarifications in relation to the requirements for submission of reference data under MiFIR. In particular, the Q&As relate to reporting obligations for trading venues operating on the basis of a specified list of instruments.
+The Q&A on a defined list of instruments provides new answers on how operators of trading venue(s) should report instrument reference data in accordance with Article 2 of RTS 23 and related MAR RTS and ITS. The amendments to the existing Q&A on MiFIR data reporting becomes effective from 9 April 2019.
+The purpose of this Q&A is to promote common supervisory approaches and practices in the application of MiFIR. It provides guidance to Investment Firms, Trading Venues, ARMs and Systematic Internalisers on compliance with the reporting provisions of MiFIR. ESMA will periodically review these Q&A and update them where required.

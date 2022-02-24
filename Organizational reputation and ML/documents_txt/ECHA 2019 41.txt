@@ -1,0 +1,9 @@
+ECHA releases new submission portal for poison centres
+ECHA/PR/19/08
+ECHA has released a new portal that allows companies to prepare and submit information on hazardous mixtures that can be used by poison centres.
+Helsinki, 24 April 2019 – ECHA’s submission portal for poison centres is a secure, online way to centrally manage notifications – creating, submitting and following their status. It is based on the harmonised format which defines the information requirements set in the CLP Regulation.
+The portal allows companies to notify several Member States in which they intend to place their products on the market with a single submission. This will reduce companies’ administrative burden and costs when submitting information on hazardous mixtures to appointed bodies in EU Member States and EEA countries. ECHA is not charging a fee for the use of the portal but some Member States may levy fees to cover their costs. Notifications submitted through the portal will be valid once the relevant Member State is ready to accept them.
+Further improvements to the user interface and more functionalities will be implemented in future releases of the portal in July and November 2019.
+
+Background
+Under the Classification, Labelling and Packaging (CLP) Regulation, companies placing hazardous mixtures on the market have to provide information about these mixtures to the relevant national appointed bodies. This information has to be provided in a harmonised format from 1 January 2020 for mixtures for consumer use, from 1 January 2021 for mixtures for professional use, and from 1 January 2024 for mixtures for industrial use. The appointed bodies in Member States make this information available to poison centres so that they can provide rapid medical advice in the event of an emergency.

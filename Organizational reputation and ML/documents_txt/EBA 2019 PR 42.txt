@@ -1,0 +1,23 @@
+EBA publishes the regular Basel III capital monitoring report and an update on the compliance of EU banks with liquidity measures 
+02 October 2019
+ 
+The European Banking Authority (EBA) published today two reports, which monitor the impact of implementing the final Basel III reforms and the current implementation of liquidity measures in the EU. The EBA Basel III capital monitoring report is the latest in a regular exercise using the methodology of the Basel Committee of Banking Supervision and is not comparable to the broader Call for Advice report published in July 2019. The present report includes an assessment of the impact of the full implementation (to 2027) of the Basel III package on EU banks based on data as of 30 June 2018. The report on liquidity measures and evaluates the liquidity coverage requirements currently in place in the EU. Overall, the EBA estimates that the Basel III reforms, once fully implemented, would determine an average increase by 19.3% of EU banks' Tier 1 minimum required capital.  The liquidity coverage ratio (LCR), which was fully implemented in January 2018, stood at around 149% on average in June 2018, well above the minimum threshold of 100%.
+Basel III capital monitoring results
+The results of the Basel III capital monitoring exercise, based on data as of 30 June 2018, show that European banks' minimum Tier 1 capital requirement would increase by 19.3% at the full implementation date (2027). The impact of the risk-based reforms is 20.4%, of which the leading factors are the output floor (5.4%) and operational risk (4.7%).  
+To comply with the Pillar 1 requirements in the new framework, EU banks would need EUR 26 billion of additional total capital, of which EUR 24.9 billion of Tier 1 capital.
+Change in total T1 MRC, as percentage of the overall current Tier 1 MRC, due to the full implementation of Basel III (2027) (weighted averages, in %)
+ 
+ 
+Source: EBA quantitative impact study (QIS) data (December 2018); sample: 113 banks.
+ 
+EBA report on liquidity measures
+The EBA report on liquidity measures shows that EU banks have continued to improve their compliance with the liquidity coverage ratio (LCR). In December 2018, the average LCR was 149%. The aggregate gross shortfall amounted to EUR 15.7 billion and it is entirely attributed  to four banks that monetised their liquidity buffers during times of stress. An in-depth analysis of potential currency mismatches in LCR levels suggests that banks tend to hold significantly lower liquidity buffers in some foreign currencies, in particular US dollar and GBP. Insome cases LCR ratios in USD or GBP are well below 100%. The analysis of the impact of the LCR on lending does not provide clear empirical evidence of this relationship. 
+Notes to the editors
+The Basel III monitoring report assesses the impact on EU banks of the final revisions of credit risk, split into four sub-categories, operational risk, and leverage ratio frameworks, as well as of the introduction of the aggregate output floor. It also quantifies the impact of the credit valuation adjustments (CVA) and the new standards for market risk (FRTB). 
+The cumulative impact analysis of the Basel III monitoring exercise report uses a total sample of 113 banks.
+The current report provides a high-level assessment of the impact of the final Basel III reforms on Pillar 1 Tier 1 MRC and capital shortfalls. 
+The results of the Basel III capital monitoring report are presented separately for Group 1 and Group 2 banks. Group 1 banks are those with Tier 1 capital in excess of EUR 3 billion and are internationally active. All other banks are categorised as Group 2 banks. 
+The analysis of the Basel III capital monitoring report provides separate figures for the sample of global systemically important institutions (G-SIIs). Where applicable, the analysis takes account of G-SIIs capital buffer for the risk-based capital requirements and the leverage ratio requirements.
+The results of the report on liquidity measures are presented separately for G-SIIs and O-SIIs and other banks (non G-SIIs or O-SIIs). Some figures are presented by country.
+Article 412(1) of the CRR foresees the possibility of monetising liquid assets during times of stress (resulting in an LCR below 100%) as maintaining the LCR at 100%, under such circumstances, could produce undue negative effects on the credit institution and other market participants.
+LCR ratios in USD or GBP are calculated as the ratio of the liquidity buffer and net cash outflows taking into account the positions in USD/GBP only.

@@ -1,0 +1,9 @@
+ESMA UPDATES ON THE IMPACT ON ITS DATABASES AND IT SYSTEMS OF A NO-DEAL BREXIT SCENARIO ON 12 APRIL 2019
+08 April 2019 
+BREXIT
+MIFID II: TRANSPARENCY CALCULATIONS AND DVC
+In accordance with the previous  from 28 March 2019, the below dates of the operations of ESMA data systems detailed in its  from 19 March 2019 are amended as follows:
+The maintenance window of the Financial Instruments Reference Data System (FIRDS) system will take place from Friday 12 April 2019 21:30 CEST until Wednesday 17 April 2019 12:00 CEST (noon);
+The maintenance window of the Financial Instrument Transparency System (FITRS) system will take place from Friday 12 April 2019 21:30 CEST until Monday 22 April 2019 12:00 CEST (noon);
+For the purpose of transaction reporting during the FIRDS maintenance window, NCAs shall continue using the latest available reference data from before 12 April 2019; and, 
+The termination / authorisation date for UK entries in ESMA databases submitted before Brexit, in particular financial instruments, authorised entities, prospectuses and others, will be set to 12 April 2019.

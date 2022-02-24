@@ -1,0 +1,8 @@
+ESMA PUBLISHES STUDY ON THE EXPOSURE OF THE EU FUND INDUSTRY TO CLOS
+24 September 2019 
+RISK ANALYSIS & ECONOMICS - MARKETS INFRASTRUCTURE INVESTORS
+Following the significant pickup in the issuance of leveraged loans and collateralised loan obligations (CLOs) in the US and EU, supervisors have expressed concerns about the potential risk to investors.
+
+The European Securities and Markets Authority (ESMA), the EU’s securities markets regulator, in a study included in the latest , looks at the exposure of investment funds to this market and finds that the EU fund industry’s exposure remains limited at this stage at EUR 130bn (less than 1% of EU fund industry net assets). This study is the first carried out using actual data from the relevant sector, combining regulatory data with commercial databases to ensure a more complete view of the market. 
+The surge in the issuance of leveraged loans and CLOs is an indication of how market-based finance can supplement bank credit to finance the real economy. At the same time, the deterioration of underwriting standards coupled with low spreads point to a potential underpricing of risk. Average credit ratings of outstanding leveraged loans have recently deteriorated, and simulations carried out by ESMA show that model uncertainty can impact the credit ratings of CLOs, potentially triggering forced sales from some types of investors.  
+Looking ahead, ESMA will review the quality of the rating process methodologies for CLOs, with a view to ensuring these are robust.

@@ -1,0 +1,20 @@
+Innovation in the Spotlight: Using Batteries for Maximum Operational Flexibility in Rail
+June 20, 2019
+Category: , , 
+
+ 
+Main benefits
+Reduction of CO2 emissions by 20% per train, providing eco-friendly propulsion.
+Reduction of overall energy consumption by 20%.
+Noise reduction when operating in battery mode.
+In addition to the successful study and workshop on the Fuel Cell & Hydrogen technology for rail, Shift2Rail is also working to introduce innovative hybrid and battery-supported propulsion concepts for future energy efficient freight locomotives. The new technology will increase last mile operation flexibility, reduce CO2emissions and overall energy consumption when it reaches the market gradually from 2022.
+The challenge
+Today, European electric mainline freight locomotives are operating efficiently and with high reliability, although, due to missing catenary they lack flexibility when it comes to last mile operation in shunting and marshalling. The most modern electric freight locomotives have introduced small diesel engines dedicated to improving last mile applications, adding however, a pollution source to the traction chain.
+On secondary routes and in many countries outside Europe, freight and shunting locomotives are outdated and powered by diesel, being a heavy contributor to CO2 emissions. Additionally, because the start/stop functionality cannot be implemented in these diesel locomotives, they continue to pollute even when idle.
+The solution
+The Shift2Rail Joint Undertaking, as part of its rail freight research programme’s technology demonstrator 5.4., is working together with the industry to solve the flexibility issue and provide environmentally friendly last mile solutions. The first solution focuses on hybridisation of the current diesel locomotives by adding state-of-the-art water cooled Li-Ion batteries to the engine. The second solution includes substituting the small diesel engines used in electric freight locomotives with Li-Ion batteries, ensuring full electrification.
+The approach of integrating such powerful energy storage system will ensure emission-free last mile operation in shunting and marshalling yards. Research shows that the technology is both environmentally friendly and also quieter, contributing to a 20% reduction in CO2 emissions per train.
+The innovation will offer several advanced on-board energy management systems that reduce energy consumption and air pollution, including power boost, power peak shaving, sleeping concept and brake energy recuperation
+It is expected that the power boost feature will lead to a 20% diesel engine downsize and allow to use medium size engines, which are more likely to meet emission standards. Additionally, diesel locomotives are highly polluting even when idle. The electric mode feature will permit disconnection of diesel engines under idle or low power conditions, reducing the overall air pollution.
+This will contribute to a reduction of up to 20% of the overall energy consumption and permit for the operation of high power locomotives at full load rate connected with low power supply capacity. The feature will reduce not just the energy cost in certain networks, but also peak power of up to 20%.
+It is also predicted that the innovation will decrease the overall life-cycle and maintenance costs, reduce fuel usage and help fulfil sustainable development goals focusing on affordable and clean energy and pollution management.

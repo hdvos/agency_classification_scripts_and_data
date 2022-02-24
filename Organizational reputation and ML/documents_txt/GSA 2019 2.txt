@@ -1,0 +1,21 @@
+EUTELSAT 5 West B successfully launched with EGNOS payload
+Published: 
+10 October 2019
+
+Testing of the EGNOS GEO-3 payload will begin 2 weeks after the launch of EUTELSAT 5 West B.
+The EUTELSAT 5 West B satellite was successfully launched on a Proton M/Breeze M launch vehicle from Pad 39 at Baikonur Cosmodrome, Kazakhstan, at 12.17 CET on Wednesday 9 October. Hosting the GEO-3 payload of the European Geostationary Navigation Overlay System (EGNOS), the satellite will support EGNOS V3 - the next generation of the EGNOS programme.
+The satellite separated from the launch vehicle 15 hours 36 minutes after the launch and testing of the EGNOS GEO-3 payload should start within 2 weeks after separation. 
+EGNOS V3 will augment both GPS and Galileo in the L1 and L5 bands. Furthermore, it will provide additional satellite-based augmentation system (SBAS) service capabilities through a new SBAS channel on L5 and will deliver increased EGNOS service availability within and beyond the EU Member States, supporting a growing number of users. 
+“This new EGNOS payload will be key in developing and testing EGNOS V3 - the latest evolution of the system. This launch is also a first decisive step in the implementation of the EGNOS Space Segment roadmap defined by the GSA. Together with the next GEO-4 payload, which is under procurement, it will allow the programme to ensure a smooth transition to EGNOS V3 operations, with swaps between GEOs ensuring that the programme provides adequate service robustness to its increasing user base,” said EGNOS Services Programme Manager Jean-Marc Piéplu.
+Read this: 
+Reinforced security
+The next generation of the EGNOS programme will also benefit from reinforced security, which will increase the robustness of EGNOS services against potential threats. EGNOS V3 will be made available in 2024 and will augment Galileo signals from 2025.
+“This successful launch is an important milestone for the EU space programmes EGNOS and Galileo. It is carrying to orbit the foundation stone of the next generation of EGNOS, which will improve and expand EGNOS service provision and enable the programme to augment signals from Galileo satellites, bringing EGNSS full circle,” European GNSS Agency (GSA) Executive Director Carlo des Dorides said.
+Supporting economic growth
+The current EGNOS generation – EGNOS V2 – is already improving positioning accuracy and supporting applications in a range of sectors – from precision agriculture and shipping to the aviation sector. To learn more about the role of EGNOS in aviation, watch our new EGNOS for Aviation video .
+And this: 
+“Space plays an increasingly important role in the lives of Europeans, with about 10% of Europe’s economy and large numbers of jobs in various sectors dependent on space services. This launch implemented by EUTELSAT through their 5 West B satellite, and the subsequent evolution of EGNOS, will ensure that the European programmes Galileo and EGNOS continue to support economic growth in Europe and deliver services to European citizens,” said GSA Chief Operating Officer Pascal Claudel.
+About EGNOS
+EGNOS is Europe's regional satellite-based augmentation system (SBAS). It is currently used to improve the performance of GPS and will augment Galileo from 2025 onwards. EGNOS was deployed to provide safety of life navigation services to aviation, maritime and land-based users.
+EGNOS uses GNSS measurements taken by reference stations deployed mainly across Europe and North Africa. These measurements are transferred to a central computing centre where differential corrections and integrity messages are calculated. These calculations are then broadcast over the covered area using geostationary satellites that serve as an augmentation, or overlay, to the original GNSS message. 
+The information provided by EGNOS improves the accuracy and reliability of GNSS positioning information while also providing a crucial integrity message. In addition, EGNOS also transmits an accurate time signal.

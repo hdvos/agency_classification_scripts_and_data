@@ -1,0 +1,22 @@
+EIOPA publishes a report on insurers’ asset and liability management in relation to the illiquidity of their liabilities
+NEWS
+ 
+DATE:
+ 
+16 Dec 2019
+The European Insurance and Occupational Pensions Authority (EIOPA) has today published a report on .
+The report supplements information provided in EIOPA's annual reports on long-term guarantee measures and is published in response to a request from the European Commission in the context of the 2020 Review of Solvency II. 
+The report provides information on:
+insurance liabilities;
+the asset management of insurers;
+long-term guarantee measures, including matching adjustment, volatility adjustment, actual yield and dynamic volatility adjustment; and
+the market valuation of insurance liabilities.
+In its analysis, EIOPA investigated the illiquidity of insurance undertakings from two different perspectives: a total balance-sheet approach with a focus on how undertakings can hold on to their investments and a liability perspective that focuses on the predictability of the timing of the cash flows.
+On asset management, a key distinction is made between the length of an investment in individual assets and of an investment in an asset class when establishing the holding period of assets. Another distinction is made between actual observed investment practices in the past and undertaking's capacity to hold on to investment in times of distress. 
+Regarding long term guarantee measures, the report provides detailed information about the corresponding portfolios for the matching adjustment and about the reference portfolio used to calculate the volatility adjustment. The weighted average net and gross dynamic volatility adjustment impact are analysed for solo undertakings and for groups, including under a spread-widening scenario and a spread-tightening scenario. 
+Finally, EIOPA's findings as to market valuation of insurance liabilities are set out in the report, but were also set out in its consultation paper on the opinion on the 2020 review of Solvency II. 
+ EIOPA will draw upon the analysis in this report in its Opinion on the 2020 Review of Solvency II.
+Background information
+In April 2018, EIOPA received a request from the European Commission submitted for information on insurers' asset management in relation to the illiquidity of their liabilities. 
+The request for information was made in the context of the review of the Solvency II Directive 2009/138/EC due by the end of 2020 in mind, in particular related to the availability of long-term guarantees in insurance products, the behaviour of insurers as long-term investors and, more generally, financial stability.
+The European Commission invited EIOPA to provide its response by 16 December 2019.

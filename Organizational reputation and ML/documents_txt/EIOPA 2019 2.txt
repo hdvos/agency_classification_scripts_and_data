@@ -1,0 +1,14 @@
+EIOPA updates representative portfolios to calculate volatility adjustments to the Solvency II risk-free interest rate term structures
+NEWS
+ 
+DATE:
+ 
+17 Dec 2019
+Today, the European Insurance and Occupational Pensions Authority (EIOPA) published updated representative portfolios that will be used for calculation of the volatility adjustments (VA) to the relevant risk-free interest rate term structures for Solvency II.
+EIOPA will start using these updated representative portfolios for the calculation of the VA end of March 2020, which will be published at the beginning of April 2020.
+EIOPA publishes the updated representative portfolios now, i.e. three months in advance in order to allow (re)insurers sufficient time to prepare for this change.
+The updated portfolios are based on the end-of-2018 annual reporting templates as reported by European (re)insurance companies to their national supervisory authorities. The updated portfolios enable more accurate reflection of the impact of market volatility under the Solvency II framework.
+EIOPA is revising the representative portfolios on a yearly basis with the next update being scheduled for the end of 2020 according to art. 194 of the Technical Documentation.  
+Background
+The volatility adjustments are derived from spreads of representative portfolios of assets. The representative portfolios are derived in accordance with Article 49 of Commission Delegated Regulation (EU) 2015/35.
+The volatility adjustment is a measure to ensure the appropriate treatment of insurance products with long-term guarantees under Solvency II. (Re)insurers are allowed to adjust the RFR to mitigate the effect of short-term volatility of bond spreads on their solvency position. In that way, the volatility adjustment prevents pro-cyclical investment behaviour of (re)insurers.

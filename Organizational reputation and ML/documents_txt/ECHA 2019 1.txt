@@ -1,0 +1,27 @@
+44 % of hazardous mixtures not compliant with classification and labelling obligations
+ECHA/PR/19/17
+An EU-wide Forum enforcement project has found significant non-compliance in the classification and labelling of mixtures.
+Helsinki, 17 December 2019 – The sixth EU-wide Enforcement Forum project (REF-6) focused on the classification and labelling of mixtures. The most common mixtures checked were washing and cleaning products; biocidal products; coatings, paints, thinners and paint removers; adhesives and sealants; room fragrances and air freshener products – these are known to commonly contain hazardous ingredients.
+Altogether, inspectors in 29 countries checked 3 391 mixtures and inspected 1 620 companies (manufacturers, importers, downstream users and distributors).
+The project also looked at exemptions from labelling and packaging requirements, harmonised classification, biocidesobligations and specific rules for liquid laundry detergent capsules.
+The main findings of the project were:
+43 % of all reported companies were found to have at least one non-compliance and 44 % of reported mixtures were non-compliant in some way.
+17 % of reported mixtures were using an incorrect classification, which may result in incorrect labelling on the mixtures, and thereby incorrect safe use advice.
+For certain substances that have hazards of highest concern (carcinogenicity, mutagenicity, reproductive toxicity and respiratory sensitisers), classification and labelling is harmonised throughout the EU to ensure adequate risk management. For 9 % of those substances checked in the project, the required harmonised classification and labelling were not applied.
+33 % of reported mixtures had incorrect labelling.
+33 % of the checked safety data sheets were non-compliant with the requirements checked in the project.
+Inspectors checked the requirements for packaging and labelling liquid laundry detergent capsules (LLDCs). The most significant finding is that for 22 % of the checked LLDCs, the closure of the outer packaging did not maintain its functionality when repeatedly opened and closed during the life span of the packaging.
+For checked biocidal products, around 7 % of them lacked either valid authorisation according to the Biocidal Products Regulation (BPR) or to national legislation during the transitional period. For 17 % of the biocides, labels were non-compliant.
+Manufacturers, importers and downstream users have to put more effort into deriving the right classification for mixtures and communicating it down the supply chain. This will prevent incorrect information being disseminated in safety data sheets and on labels. Industry should also work on improving the quality of safety data sheets which will in turn lead to improved information flowing through the supply chain.
+Furthermore, the understanding of biocides legislation should be improved to minimise breaches caused by a lack of knowledge of the BPR.
+For liquid laundry detergent capsules, industry is advised to improve packaging to ensure that closures function correctly throughout the lifespan of the products as required by legislation.
+
+Background
+The main scope of the REF-6 project was checking compliance of the classification and labelling of chemical mixtures. The project also included additional optional modules for:
+exemptions from labelling and packaging requirements;
+harmonised classification and labelling of substances;
+specific rules applicable to liquid laundry detergent capsules (LLDC); and
+biocides.
+The aim of the project was to check compliance with and raise awareness of a variety of legal provisions under the CLP Regulation, the most relevant of which were Articles 4, 17, 29, 35 and 37 of CLP, as well as Article 31 of REACH and Articles 17 and 69 of BPR.
+Chemical products used by consumers are mixtures of different substances. To make sure that consumers can use them safely, information on safe use is passed onto them on labels on products that communicate the hazards and inform how to use them safely.
+To prepare the correct information on safe use, the mixture must first be classified to identify hazardous properties and on the basis of such hazard classification an appropriate CLP label is prepared.

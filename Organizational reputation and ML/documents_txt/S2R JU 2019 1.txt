@@ -1,0 +1,23 @@
+Innovation in the Spotlight: Enhancing tracks, switches and crossings – the building blocks of rail
+December 4, 2019
+Category: , , 
+Main Benefits
+Whole system modelling approach
+Switch and Crossing sensor system to extend operational lifespan
+Enhanced track design solutions through predictive analyses
+The infrastructure that we depend upon for a comfortable and reliable train ride is often unnoticed by the average passenger, however, rail tracks plus switches and crossings play a crucial role in the overall availability of the transportation network. Innovative work is being realized across these important building blocks. 
+
+The Challenge 
+To ensure that Europe can meet its goals in realising a resilient, cost-efficient, and high-capacity rail network, a highly functioning and sophisticated rail track plus switch and crossing infrastructure is paramount.
+Switches and crossings are a critical sub-system of the railway infrastructure in terms of safety and performance. Service affecting failures associated with switches and crossings account for some 25-30% of all infrastructure failures on European railways.  Furthermore, a significant proportion of the life cycle cost of switches and crossings relate to monitoring and maintenance activities.
+Additionally, we must rethink how we build tracks, which in some cases have not changed in design for decades. Enhanced track systems will explore new designs with modern materials with a high attention to sustainability, load capacity and life cycle costs. Furthermore, a common problem facing infrastructure managers is the lack of standardisation in historical data of maintenance tasks. To this end, an integrated sensor system in tracks and components will ensure the longevity of tracks in the digital age.
+The Solution 
+Enhanced Switches and Crossings
+A modelling technique for switches and crossings has been developed using a whole system approach to provide a common framework for interfacing existing state-of-the-art simulation tools and techniques. This way, when changes are made to one or more switch and crossing sub-systems or components, the impact on the whole switch and crossing system performance may be assessed.
+To demonstrate the approach, initial calculations following the switch and crossing whole system model approach were carried out for rolling contact fatigue damage in a crossing panel by combining multibody system simulation and the “wedge” model that predicts rolling contact fatigue crack initiation and wear (based on the distribution of the plastic shear strain in a thin layer near the surface). The results demonstrate the applicability of the whole system model approach to switches and crossings and the feasibility of carrying out rolling contact fatigue damage assessment using the “wedge” model.
+Another implemented example is the prediction of crossing geometry evolution due to plasticity and wear under operational loading. This modelling, which includes a multitude of numerical tools, allows a crossing design that, after a short time, “wears in” to the optimal geometry. This will significantly increase the operational life of the crossing. The economic benefit will depend on the operational conditions, the base case and local rates for maintenance and replacements including secondary costs.
+Enhanced Tracks
+The areas of innovations in enhancing tracks is being realised across various domains, from reinforcing slab tracks, to predicting how cracks will form along the lines. This is done in relation to life cycle costs, robustness, and performance (load carrying capacity).
+In general, rail cracks can form in the foot, web and head of the rail. In short, foot cracks typically relate to (mechanical or corrosive) induced damage that causes crack propagation and eventually rail break. Web cracks typically relate to welds or drilled holes in the web. Rail head cracks can form at the underside of the head.
+A method for repair of discrete rail defects using line welding has been further investigated. In particular, the propensity for subsurface initiated rolling contact fatigue at the weld has been investigated in depth using numerical simulations. Through this simulation-based validation, the risk has been shown to be moderate, which makes the method suitable for implementation in field demonstrators. Due to its efficiency and reduction of operation time, the method was shown to be a cost-efficient method to handle severe rail surface defects.
+Although scientific publications and conferences were held on the area of enhanced tracks, this is an ongoing process and more innovative work is still to come!

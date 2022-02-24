@@ -1,0 +1,12 @@
+Major update to ECHA’s chemicals database
+ECHA/NR/19/25
+Several new features and improvements are now publicly available in our chemicals database. These include new information in substance Infocards, quick links to deeper datasets for each substance and more visibility on nanomaterials.
+Helsinki, 3 July 2019 – The properties of concern section in the Infocards has been extended and the search possibilities for substances based on these properties has been likewise extended.
+The current regulations and regulatory activities section has been restructured and the different regulatory lists are now laid out by legislation in expandable blocks, with explanations why the substances are on key lists.
+The other identifiers section has also been improved and restructured to include all public identifiers, including translated names and where available allowing to search them in different EU languages.
+For all of these improvements and new features, the Infocard integrated help system has been updated with extensive explanations and links to more information.
+There are also new quick links to key datasets for each substance, giving users a faster way to browse through more data-rich datasets, such as the Brief Profiles, REACH registered substance factsheets, the Classification and Labelling (C&L) Inventory, biocides data and the public activities coordination tool (PACT).
+
+The advanced search has also been extended and restructured, allowing new search possibilities. For instance, the advanced classification and labelling search now also covers Seveso Directive data.
+The Infocards now have a new nanomaterial form section, which shows whether the substance is placed on the EEA market in nanoform and provides links to the EU Observatory for Nanomaterials (EUON). Through the EUON’s search for nanomaterials, information on over 300 nanomaterials on the EU market can be found and linked to hazard data. The search uses data from REACH registrations, the cosmetic ingredients notification portal as well as the French and Belgian national inventories.
+Finally, disseminated REACH registration data will now start to be automatically linked to the OECD’s eChemPortal. 

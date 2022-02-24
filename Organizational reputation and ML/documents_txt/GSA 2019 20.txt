@@ -1,0 +1,14 @@
+Targeting the development of a drone-borne Galileo receiver
+Published: 
+13 December 2019
+
+This FE call is targeting the development of a Galileo receiver for the rapidly developing drone market.
+A Call for Proposals recently opened under the European GNSS Agency’s (GSA) Fundamental Elements funding mechanism is targeting the development of a drone-borne double-frequency Galileo receiver that leverages the differentiators of European GNSS (EGNOS and Galileo).
+Drones bring innovation and new applications and business models to European citizens, becoming the 3rd GNSS market segment for device shipments according to the last . The sector is booming and growth in drone use is set to outstrip any other user base in aviation. Drones generally integrate GNSS solutions in an effort to navigate efficiently and safely. EGNSS added value
+European GNSS, EGNOS and Galileo, provides significant added value to drone navigation, positioning and related applications, and the use of their differentiators will be instrumental in opening up new business opportunities.
+Read this: 
+Within this context, this Call for Proposals is targeting the development of a drone-borne low-cost double-frequency Galileo multi-constellation receiver, integrated with INS (inertial navigation system) and other sensors. The technology should be at a sufficient level of maturity (technology readiness level 7).
+ 
+Robust solution
+The call aims at delivery of a robust navigation solution, including integrity requirements for operations, that leverages Galileo differentiators such as OS Authentication and High Accuracy. The solution should be validated in a representative environment for the target operations. This includes conducting flight tests and analysing the performances obtained from a Galileo-only constellation and comparing these with those coming from multi-constellation mode.
+For more information on this call, click .

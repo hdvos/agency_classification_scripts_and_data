@@ -1,0 +1,4 @@
+EIOPA reviews the use of Big Data Analytics in motor and health insurance 
+Today, the European Insurance and Occupational Pensions Authority (EIOPA) published its report on Big Data Analytics in motor and health insurance.
+Data processing has historically been at the very core of the business of insurance undertakings, which is rooted strongly in data-led statistical analysis. Data has always been collected and processed to inform underwriting decisions, price policies, settle claims and prevent fraud. There has long been a pursuit of more granular datasets and predictive models, such that the relevance of Big Data Analytics for the sector is no surprise.
+For further details please refer to the related resources.

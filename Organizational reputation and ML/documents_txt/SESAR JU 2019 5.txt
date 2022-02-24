@@ -1,0 +1,23 @@
+New Solutions to enhance flight safety in airport environment
+Nov. 7, 2019
+The SAFE project (Safer Airports and Flights for Europe) is a European project powered by SESAR Joint Undertaking supporting even safer airport operations. Led by DSNA, the French Air Navigation Service Provider, the project will deliver the results of 17 validation exercises and specifications for candidate SESAR Solutions by the end of year 2019, aiming to guarantee an improved ground safety to aircraft, flight crew and passengers:
+The most mature Solution, SURF-ITA+ (Traffic Alerts for Pilots in Airport Operations),
+provides alerts to the Flight Crew in case of risk of collision on ground. This new system is based on ADS-B information (Automatic Dependent Surveillance – Broadcast) received from surrounding traffic.
+The second Solution, enhanced CMAC (Conformance Monitoring Alerts for Controllers) / CATC (Conflicting ATC Clearances alerts for Controller), takes into account new and more affordable data sources, such as camera feeds and ADS-B. This Solution was validated for major airports with A-SMGCS (Advanced Surface Movement Guidance & Control System) and on secondary airports, where no A-SMGCS is available. Moreover, this Solution extends the detection of conflicting ATC clearance on the whole manoeuvring area at larger airports, including aprons.
+The third Solution, dealing with the prevention of runway excursions, develops a standardized Runway Condition Code (RWYCC), updated in real time with the latest data from various sources (meteorological, runway embedded sensors, as well as the latest reports from aircraft having just landed on the runway). This code can then be used by Airport Operators to improve the planning and execution of runway decontamination and by Flight Crew to comprehend the expected runway condition for take-off and landing.
+The fourth Solution, Conformance Monitoring Safety Net for Pilots (CMAP), warns the Flight Crew if there is a discrepancy between aircraft movement and the procedures in force or the instructions they received, independently from the alerts sent to controllers. 
+These four SESAR Solutions build on results delivered in 2016 related to the following Solutions :
+RWSL (Runway Status Lights) that warn Flight Crew when it is not safe to enter, or take-off from a runway. This system is already deployed at Paris-CDG airport.
+AVDR (Alerts for Vehicle Drivers) in case of an aircraft converging or a defined zone penetration. This system will be deployed on Parisian airports in a short/mid term.
+Basic CMAC/CATC which is part of Pilot Common Project requirements and will be deployed between 2021 and 2024 on 26 major airports in Europe.
+
+All these Solutions are independent from each other, interoperable and cooperate to even enhance
+airport safety, each one acting as a new barrier in Reason’s model. They are being validated through
+flight trials, fast and real time simulations and dedicated workshops, featuring international experts in
+relevant domains (Human Factors, Safety and Air Navigation) as well as pilots, controllers and
+representatives from each concerned stakeholders (Airlines, ICAO, IATA, and EUROCONTROL).
+The solution SURF-ITA+ will be made available for industrialisation, subject to a final review by the SESAR
+Joint Undertaking and partners, while further validations will take place on the remaining solutions to
+bring them to the necessary level of maturity.
+Every validated Solution, every aircraft equipped with these new systems and every airport using
+enhanced ground safety nets are a new step towards even safer ground operations at European airports.

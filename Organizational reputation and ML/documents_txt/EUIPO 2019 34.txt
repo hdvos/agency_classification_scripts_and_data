@@ -1,0 +1,9 @@
+European Cooperation: Austria implements e-filing for trade marks
+
+
+The Austrian Patent Office () has implemented the Software Package Front Office (SPFO) for the e-filing of trade marks, a tool developed under the EUIPO’s European Cooperation Projects.
+The new e-filing system represents a step forward in the way trade marks are processed and registered and is expected to serve more than 5,500 trade mark applications per year.
+The e-filing software is able to process standard, fast track and divisional applications of trade marks.
+ÖPA started the analysis phase of the project in March 2018, with the aim not only to start using a new software but to also contribute to the transposition of the Directive for new type of trade marks (Directive (EU) 2015/2436 of the European Parliament and of the Council of 16 December 2015 to approximate the laws of the Member States relating to trade marks) as of 14 January 2019.
+The implementation is an important milestone, bringing to 20 the number of IP offices using the e-filing software. It is also the triggering point for the launch of further projects in collaboration with ÖPA, such as e-filing for designs and e-services as well as the implementation of the Software Package Back Office in 2020.
+The EUIPO and its stakeholders are working together on five major European Cooperation Projects. The overall aim of the projects is to benefit users across the EU by providing modern, state of the art tools and services for EU IP offices.

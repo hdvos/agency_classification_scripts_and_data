@@ -1,0 +1,16 @@
+ENISA launches a tool which maps security measures for OES to international standards
+ENISA, the European Union Agency for Cybersecurity conducted research on international security standards per sector in order to design this new tool intended to map security measures for Operators of Essential Services (OES) to international standards.
+Published on November 28, 2019
+
+Copyright: Shutterstock
+Tagged with 
+
+
+
+
+The new tool is now available through an online platform dedicated to operators in the sectors of energy, transport, banking, financial market infrastructures, health, drinking water supply & distribution and digital infrastructures. Developed by ENISA, the tool is aimed at Operators of Essential Services, as well as public regulatory authorities of the Member States.
+The initiative stems from the NIS directive (EU) 2016/1148, which provides for the establishment of security measures for those operators offering essential services across the EU, in order to achieve a high common level of Security of Network and Information System. 
+The specific work stream of the NIS Directive Cooperation Group on security measures for OES enabled the analysis of security requirements in the EU against the most frequently used international information security standards across the defined sectors. The result of this analysis is visible in the tool as it compiles the existing security measures identified.
+The tool facilitates the search of security measures and their respective security controls in international standards. It also helps assessing their use in the Member States and in various NISD sectors.
+Operators can use this tool to map their own standards to the proposed security measures, enabling the assessment of their information security practices against the requirements adopted by the Cooperation Group.
+The Member States can use this tool to identify issues and look for solutions when assessing the security measures of their national OES and possibly identify a mapping to corresponding national security measures of other Member States.

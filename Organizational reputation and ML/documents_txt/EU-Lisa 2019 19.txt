@@ -1,0 +1,17 @@
+26/07/2019
+#NoMoreRansom turns 3 
+Today, the  (NMR) project turns 3 years old. As a partner right from the beginning, eu-LISA is proud to support this international initiative that has helped more than 200 000 victims of ransomware recover their files free of charge.
+There is far more to mark than a birthday! The following facts are worthy of notice too: 
+Since its launch in 2016, the web portal has received more than 3 million visits from 188 different countries. This highlights the global nature of the threat and has driven to the implementation of NMR in 36 different languages.
+No More Ransom is the first initiative of its kind and a unique public-private reality. It is formed by more than 150 entities, like EU Agencies, law enforcement bodies and private companies that deal with internet security and financial services. This demonstrates a shared and common will to fight this type of crime internationally, a reality in which cooperation and shared information are key. 
+The NMR project can now count on 82 tools, 14 of which added this year, that allow the system to recognize 109 types of ransomware-related menaces and keep 108 million US dollars' worth of profit out of the wrong pockets.
+For more details about the initiative, read about how everything started here: 
+
+PREVENTION IS THE KEY 
+However, even if the NMR online portal has considerably grown and developed in only three years, the best solution against ransomware is always prevention and be precaution. There are easy ways to do so:
+Firstly, back-up offline your digital files;
+Be sure to update your software and apps;
+Use reliable and strong antivirus programs;
+Be aware or "strange" links and attached files, and do not click on them if you are suspicious;
+And if you are a victim, DON'T pay the ransom, and REPORT it to the police.
+

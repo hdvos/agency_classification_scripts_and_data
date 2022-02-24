@@ -1,0 +1,22 @@
+EU wide rules on drones published
+Safe, secure and sustainable operation of drones
+Related Content
+On 11 June 2019 common European rules on drones, Commission Delegated Regulation (EU) 2019/945 & Commission Implementing Regulation (EU) 2019/947, have been published to ensure drone operations across Europe are safe and secure. The rules will amongst others help to protect the safety and the privacy of EU citizens while enabling the free circulation of drones and a level playing field within the European Union.
+
+“Europe will be the first region in the world to have a comprehensive set of rules ensuring safe, secure and sustainable operations of drones both, for commercial and leisure activities. Common rules will help foster investment, innovation and growth in this promising sector” said Patrick Ky, Executive Director of EASA.
+
+The common rules will help drone operators, whether professional or recreational, to have a clear understanding of what is allowed or not. At the same time it enables them to operate across borders. Once drone operators have received an authorisation in the state of registration, they are allowed to freely circulate in the European Union. This means that they can operate their drones seamlessly when travelling across the EU or when developing a business involving drones around Europe.
+
+The new rules include technical as well as operational requirements for drones. On one hand they define the capabilities a drone must have to be flown safely. For instance, new drones will have to be individually identifiable, allowing the authorities to trace a particular drone if necessary. This will help to better prevent events similar to the ones which happened in 2018 at Gatwick and Heathrow airports. On the other hand the rules cover each operation type, from those not requiring prior authorisation, to those involving certified aircraft and operators, as well as minimum remote pilot training requirements. The new rules will replace existing national rules in EU Member States.
+
+While the EU regulation will enter into force in the next 20 days, it will be applicable only in one year, to give Member States and operators time to prepare and implement it.  As of June 2020 operators of drones will need to register in the Member State where they have their residence or their main place of business. 
+
+The applicability will be gradual according to a timeline that can be consulted on the EASA drone page.
+
+What’s next?
+
+EASA will soon publish guidance material and a proposal for two "standard scenarios" to support drone operators to comply with the adopted rules. Towards the end of the year EASA will make a proposal to the European Commission for U-space service regulation to enable complex drone operations with a high degree of automation.
+
+During the next High Level Conference on Drones 2019 EASA will give the opportunity to discuss the new rules and the upcoming regulatory proposal in depth.  
+
+This yearly conference is organised by EASA and takes place from 5 - 6 December 2019 during Amsterdam Drone Week. The event with the topic “Scaling drone operations” will bring together regulatory bodies and industry experts from all over the world to discuss the development of a common European market for drones.

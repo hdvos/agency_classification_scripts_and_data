@@ -1,0 +1,24 @@
+ESMA PUBLISHES 2ND ANNUAL REPORT ON EMIR PENALTIES AND SUPERVISORY MEASURES
+09 December 2019 
+POST TRADING
+PRESS RELEASES
+SUPERVISORY CONVERGENCE
+The European Securities and Markets Authority (ESMA), the EU’s securities markets regulator, has published its second  regarding supervisory measures carried out and penalties imposed by national competent authorities (NCAs) under the European Market Infrastructure Regulation (EMIR). 
+The Report, covering the period from January to December 2018, focuses on NCAs supervisory measures and enforcement actions, their powers and the interaction between NCAs and market participants, when monitoring compliance with the following EMIR requirements:
+the clearing obligation for certain OTC derivatives (Art. 4 EMIR);
+the reporting obligation of derivative transactions to TRs (Art. 9 EMIR);
+requirements for non-financial counterparties (Art. 10 EMIR); and
+risk mitigation techniques for non-cleared OTC derivatives (Art. 11 EMIR).
+Increased harmonisation
+The Report found that some supervisory areas are highly harmonised, such as NCAs’ sources of information used to check compliance with EMIR requirements, including trade repository data, their competences, and NCAs’ supervisory and enforcement tools.
+It found that supervisory practices have evolved in relation to compliance with EMIR requirements shifting from an initial focus on raising awareness to greater efforts towards making better use of the information available for supervisory purposes.  
+Challenges
+However, the report also identifies areas of supervisory challenge which might benefit from coordinated approaches, notably related to the supervision of NFCs in relation to the clearing obligation and on how to identify excessive reliance on the exception applied to hedging positions. There is also room for closer analysis and cooperation between NCAs in areas such as supervision of counterparties below the clearing threshold and of third country entities trading in OTC derivatives with significant impact in the European Union.
+Enforcement
+During 2018 the number of NCAs conducting investigations into the following issues were:
+·         18 regarding reporting requirements;
+·         8 into risk-mitigation techniques;
+·         6 into the clearing obligation; and
+·         4 into non-financial counterparties.
+Also, around 10% of NCAs issued recommendations or sent warning letters to market participants. While, no new sanctions or penalties were imposed on supervised entities during the period.  
+ESMA expects this report to be a useful tool to understand the supervisory and enforcement efforts of NCAs. The Report has been sent to the European Parliament, the Council and the Commission.

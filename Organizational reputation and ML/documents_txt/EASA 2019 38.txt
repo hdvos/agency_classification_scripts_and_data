@@ -1,0 +1,15 @@
+Entry into force of Airspace Requirement on ADS-B and Mode S
+News category:  Third Country Operators
+Related News
+
+According to Article TCO.205 of Part-TCO, a third country operator shall, when undertaking operations within the airspace above the territory to which the Treaty on European Union applies, equip its aircraft with and operate such navigation, communication and surveillance equipment as required in that airspace. 
+
+For all flights operating in accordance with instrument flight rules in the airspace within the ICAO EUR and AFI regions where Member States are responsible for the provision of air traffic services, Regulation (EU) No 1207/2011, as amended by Regulation (EU) No 1028/2014 and Regulation (EU) 2017/386, applies, which is laying down requirements for the performance and the interoperability of surveillance for the single European sky. This Regulation introduces requirements for the carriage of ADS-B and Mode S, which includes equipping aircraft with secondary surveillance radar transponders having the capabilities as provided below.
+
+All Aircraft are to be equipped with secondary surveillance radar transponders having the capabilities set out in Part A of Annex II of Regulation (EU) No 1207/2011, requiring these aircraft to be compliant with Mode S Elementary Surveillance.
+
+Non-fixed wing aircraft with a maximum certified take-off mass exceeding 5 700 kg or having a maximum cruising true airspeed capability greater than 250 knots are to be equipped with secondary surveillance radar transponders having the capabilities set out in Part A of Annex II of Regulation (EU) No 1207/2011, requiring these aircraft to be compliant with Mode S Elementary Surveillance AND the capabilities set out in Part B of Annex II of Regulation (EU) No 1207/2011, requiring these aircraft to also be compliant with ADS-B out requirements.
+
+Fixed wing aircraft with a maximum certified take-off mass exceeding 5 700 kg or having a maximum cruising true airspeed capability greater than 250 knots are to be equipped with secondary surveillance radar transponders having the capabilities set out in Part A of Annex II of Regulation (EU) No 1207/2011, requiring these aircraft to be compliant with Mode S Elementary Surveillance AND the capabilities set out in Part B of Annex II of Regulation (EU) No 1207/2011, requiring these aircraft to also be compliant with ADS-B out requirements AND the capabilities set out in Part C of Annex II of Regulation (EU) No 1207/2011, requiring these fixed wing aircraft to also be compliant with Mode S Enhanced Surveillance.
+
+By 7 June 2020 at the latest, operators shall ensure compliance with these requirements, both for retrofit and newly manufactured aircraft.

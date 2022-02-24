@@ -1,0 +1,17 @@
+Advanced Metrology & Characterisation for 3D CMOS
+
+As nano-electronics technology is moving beyond the boundaries of (strained) silicon in planar or finFETs, new 3D device architectures and new materials bring major metrology and characterization challenges which cannot be met by pushing the present techniques to their limits. 3DAM “3D Advanced Metrology and materials for advanced devices” is an EU-ECSELfunded pathfinding and assessment project focusing on innovations and progress in metrology and characterization related to the latest generation of 3D front-end of line (FEOL) and back-end of line (BEOL) structures (fins, nanowires, TSVs) as well as 2D materials:
+
+• Dimensional metrology: 3D-SPM, CD-SEM, OCD
+• Structural analysis: Electron Tomography, PL & CL, SHG, X-ray NanoCT
+• Compositional/dopant analysis: SIMS, APT, STEM-EDX and EELS, IRR, Raman, HRXRD
+• Carrier distribution and mobility: 3D-SSRM, micro-multi-point probes, THz spectroscopy
+• Strain and stress: HRXRD, Raman, Precession Electron Diffraction in a TEM
+
+The goal of this workshop is to disseminate the results of the projects to the public, in the context of the requirements from the semiconductor industry. The combination with the insights and learnings from invited experts will make this one-day workshop an up-to-date overview of the most recent advances in the analytical techniques and diagnostic capabilities essential for technology development.
+Invited Speakers:
+Dr. Maud Vinet (LETI)
+Prof. Dr. Ehrenfried Zschech (Fraunhofer Institute)
+Dr. Delphine Le Cunff (ST Microelectronics)
+Dr. Zineb Saghi (LETI)
+Dr. Igor Turovets (NOVA)

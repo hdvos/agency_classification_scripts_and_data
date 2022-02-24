@@ -1,0 +1,9 @@
+ESMA UPDATES Q&A ON MIFIR DATA REPORTING
+07 October 2019 
+MIFID - SECONDARY MARKETS
+The European Securities and Markets Authority (ESMA) has today updated its on data reporting under the Market in Financial Instruments Regulation (MiFIR).
+The Q&As provide clarifications in relation to the requirements for submission of reference data and transactions under MiFIR. In particular, the Q&As relate to reporting of FX forward financial instruments under art. 26 and art. 27 of MiFIR.
+The Q&A on national client identifiers for natural persons provides an update on how different national identifiers specified in Annex II of RTS 22 are represented, in particular the amendments are related to the new provisions for Portuguese and Romanian national client identifiers.
+The amendments to the existing Q&A on MiFIR data reporting becomes effective from 07 October 2019.
+The purpose of this Q&A is to promote common supervisory approaches and practices in the application of MiFIR. It provides guidance to Investment Firms, Trading Venues, ARMs and Systematic Internalisers on compliance with the reporting provisions of MiFIR.
+ESMA will periodically review these Q&A and update them where required.

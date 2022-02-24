@@ -1,0 +1,24 @@
+Good practices in the implementation of regulatory technical standards
+ENISA publishes today ‘Good practices in the implementation of regulatory technical standards’, a study on the implementation of the PSD2 in the 28 Member States of the European Union.
+Published on January 24, 2019
+
+Copyright: Shutterstock
+Tagged with 
+
+
+The study will provide stakeholders such as payment service providers, competent authorities, and EU Member States, with an overview of the implementation of the PSD2 in different national legislations.
+
+Payment service providers (PSPs) can rely on this study to understand the most important topics that have been taken into consideration in the national transposition and security measures applied, such as:
+Transparency of information provided to payment service users;
+Protection of personalised security credentials;
+Monitoring of security incidents; and
+Security measures.
+In the process of drafting the study, the following tasks have been carried out:
+Analysis of common aspects and differences among the different EU Member States, with regards to the transposition of the articles of PSD2 related to incident reporting and security measures;
+Information on the incident reporting authorities and which channels they use;
+The security measures adopted in accordance with EBA guidelines.
+More information can be found in the study ""
+Background information
+The European Parliament adopted the Second Payment Services Directive (PSD2) on 25 November 2015. This directive is an extension of the First Payment Services Directive (PSD1, Directive 2007/64/EU), published in 2007, which will promote competition and innovation in the context of financial services, while protecting the security of payment service users.
+
+ENISA, as the European centre for cybersecurity and the competent security incident reporting authority in the European Union, has launched an analysis to investigate the current status of the implementation of the PSD2 in the EU Member States. The main purpose of the project is to provide an overview of the transposition of the PSD2 and of how each of the states has implemented it.

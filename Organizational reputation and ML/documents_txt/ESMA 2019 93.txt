@@ -1,0 +1,15 @@
+ESMA CONSULTS ON THE COMMERCIAL TERMS FOR PROVIDING CLIENT CLEARING SERVICES UNDER EMIR
+03 October 2019 
+POST TRADING
+The European Securities and Markets Authority (ESMA), the EU’s securities markets regulator, has today published a  (CP) on draft technical advice to the European Commission (EC) on specifying the conditions under which commercial terms are to be considered fair, reasonable, non-discriminatory and transparent (FRANDT) where clearing service providers offer clearing services to clients.
+During the implementation of EMIR’s clearing obligation, several counterparties have experienced issues around access to clearing. In response to this access issue EMIR Refit has introduced a number of measures to address it, including the FRANDT requirements.
+The aim of FRANDT for client clearing services
+The FRANDT requirements are part of a broader set of regulatory efforts to enhance access to clearing. The proposal on how to specify the conditions under which commercial terms are to be considered fair, reasonable, non-discriminatory and transparent aims to strike the right balance between maintaining providers’ ability to develop their client clearing offerings and to manage their risk, while ensuring the fundamental principles of FRANDT in how these services are offered in order to facilitate access to clearing for all types of clients.
+The FRANDT requirements should not result in price regulation and should continue to allow providers to control the risks related to their clearing services. However, where clearing services are provided, whether directly or indirectly, providers should offer and provide those services under fair, reasonable, non-discriminatory and transparent commercial terms.
+The CP sets out the requirements for FRANDT commercial terms, based on the four criteria listed under Article 4(3a) of EMIR, namely:
+·         fairness and transparency;
+·         unbiased and rational contractual arrangements;
+·         to facilitate clearing services and prices to be fair and non-discriminatory; and
+·         risk control criteria.
+Next steps 
+ESMA will consider all comments received by 2 December 2019 and expects to publish a final report and to submit its technical advice to the EC in Q1 2020.

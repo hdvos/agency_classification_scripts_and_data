@@ -1,0 +1,9 @@
+ESMA UPDATES ESEF XBRL TAXONOMY FILES TO FACILITATE IMPLEMENTATION OF THE ESEF REGULATION
+20 December 2019 
+EUROPEAN SINGLE ELECTRONIC FORMAT
+The European Securities and Markets Authority (ESMA), the EU securities markets regulator, has updated today the to reflect the 2019 update of the .
+With this publication, ESMA aims to facilitate the implementation of the ESEF Regulation by providing XBRL taxonomy files that are compliant with all relevant technical and legal requirements in the updated ESEF Regulation.  
+The ESEF taxonomy is based on the . As the IFRS Standards evolve, the ESEF Regulation and the corresponding ESEF XBRL taxonomy files evolve accordingly to provide preparers with the most relevant taxonomy for tagging International Financial Reporting Standards (IFRS) consolidated financial statements. 
+The taxonomy is made up of a set of electronic files (‘ESEF XBRL taxonomy files’) providing a structured representation of the elements that substantively constitute the core taxonomy. The human-readable labels of the core taxonomy, listing and defining the specific elements that preparers can use to tag the information disclosed within IFRS consolidated financial statements, are included in Annex VI of the Consolidated version of the ESEF Regulation.
+Preparers can access the taxonomy in the form of a set of electronic XBRL files that are available in a machine-readable and freely downloadable format. These can be accessed on ESMA’s website in the form of a which includes entry points in all EU language. All files within the taxonomy package are also available at their hosted on the ESMA website.
+The publication of the ESEF XBRL Taxonomy files is accompanied by the publication of a set of documentation material presenting their architecture and content.

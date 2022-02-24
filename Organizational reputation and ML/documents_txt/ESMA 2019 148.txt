@@ -1,0 +1,10 @@
+ESMA CONSULTS ON INDICES AND RECOGNISED EXCHANGES UNDER THE CAPITAL REQUIREMENTS REGULATION 
+24 May 2019 
+MIFID - SECONDARY MARKETS
+The European Securities and Markets Authority (ESMA) has today published a  proposing amendments to the main indices and recognised exchanges under the Capital Requirements Regulation (CRR). ESMA considers it necessary to introduce amendments to the Implementing Technical Standard (ITS) to ensure that the most updated list of main indices and recognised exchanges is incorporated into the legislative text.
+ITS 2016/1646 sets the criteria to identify the main indices and recognised exchanges for the purposes of the CRR. As there is no legislative procedure, other than amending the ITS, ESMA is now proposing to update the legislative text to take into account relevant amendments to the list of main indices and recognised exchanges since the publication of the original ITS.
+ESMA, to identify the main indices, is proposing to use a new methodology that can be homogeneously applied to EU and non-EU indices. Under this new methodology, an index would qualify as a main index if it passes one of two tests as set out in the consultation: 
+The first test aims at capturing indices composed predominantly by medium and large cap stocks; while, 
+the second ensures that indices composed predominantly of small cap stocks are also eligible to be included in the list of main indices, as long as all the components of the index are sufficiently liquid.
+Next steps
+Stakeholders are invited to provide feedback until 5 July 2019. ESMA, based on the responses received, will finalise a draft ITS amending ITS 2016/1646 and submit a final report to the European Commission for endorsement.

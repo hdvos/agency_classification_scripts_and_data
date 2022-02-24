@@ -1,0 +1,14 @@
+Clean Sky ADVANCEs towards better aircraft maintenance!
+
+25 November 2019
+The results of the ADVANCE maintenance demonstrator, an important milestone for Clean Sky 2, were presented at a closure event on 19-20 November 2019 at the ZAL Center of Applied Aeronautical Research in Hamburg. The event brought together over 100 participants including three airlines, Airbus, Thales, Clean Sky and the partners of the projects (from Clean Sky 2’s Calls for Proposals) which are contributing to this demonstrator.
+During the event, the End to End Maintenance Architecture was presented by Airbus and Transport Air Portugal (TAP) teams and the partners had the opportunity to present the outcomes of their projects and their contributions. Participants were able to test the digital solutions for aircraft maintenance, tools for maintenance scheduling optimisation and dispatch, and a contextualised documentation app for mobile devices.
+ADVANCE reached TRL4 at A/C level but most of the technologies implemented have passed TRL5/6 with potential of exploitation and deployment in the short term.
+This maintenance demonstrator is part of Clean Sky 2’s Large Passenger Aircraft IADP, and started in 2015 for a duration of four years. It brought together 19 European partners including SMEs and academia across 7 different European countries, with a total budget of around €14.5 million, with €12 million of EU funding. 
+The work carried out in Clean Sky 2 paves the way for:
+future digitalisation of aircraft maintenance and customised solutions for the benefit of various airlines and MROs (maintenance, repair and overhaul organisations)
+reduction of operational disruption caused by unscheduled maintenance through application of Health Monitoring and Management Solutions, considering 5 to 6% of flights are delayed by approx. 28 minutes due to failure discovered at the last minute
+maximisation of airline and maintenance asset utilisation through condition-based maintenance and maintenance mobile tools solutions 
+value improvement through a service-driven E2E (end to end) integration approach and a collaborative way of working
+enhanced mobility and industrial competitiveness in Europe in Horizon 2020
+Learn more about the project and check out the video: 

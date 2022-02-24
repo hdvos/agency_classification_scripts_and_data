@@ -1,0 +1,36 @@
+Training courses on Advanced Human Factors, Fatigue Risk Management, and Flight Data Monitoring
+Seats still available!
+News category:  Technical Training
+Downloads
+Related News
+
+The three courses addressing aviation professionals are offered in December at EASA Headquarters in Cologne
+
+Flight Data Monitoring
+3-day classroom course at EASA Headquarters in Cologne
+
+Flight data monitoring (FDM) is the day-to-day collection and analysis of flight data in order to improve safety. Flight data monitoring is an important component of an operator’s safety management system (SMS).
+
+This course aims to provide participants a thorough understanding of Flight Data Monitoring, including the regulatory framework, the processes and practical implementation aspects. The course should enable the participants to work with FDM specialists and to understand FDM guidance documents.
+
+Objectives include, amongst others, understanding of the concept and the processes of an FDM programme; knowing the type of airborne recorders used for FDM; understanding of flight data flow from aircrafts systems to airborne recorder and from airborne recorder to the operator’s FDM system; knowledge of common flight parameters and how they are measured/computed; understanding limitations inherent to flight data recording, sampling, accuracy, recording resolution, range; understanding principles of flight data recording and recovering including raw data format and how to transform back this raw data into flight parameters expressed in engineering units; extracting information about a flight from time series plots incl. several parameters; understanding and defining FDM events; understanding FDM software, functionalities, benefits, limitations including flight data visualisation tools and animation tools; using statistics in FDM; analysing FDM outputs in combination with other data (weather data, air safety reports, traffic data etc.); FDM within Safety Management Systems and practical organisation; Just Culture principles, FDM data protection; ICAO framework and applicable EU requirements; available guidance and best practices.
+
+Fatigue Risk Management
+2-day classroom course at EASA Headquarters in Cologne
+
+The course focuses on the science of fatigue and FRM regulations and processes.
+
+Key topics/objectives include understanding the science of fatigue including sleep circadian rhythms and sleep inertia; exploring the causes and controls for fatigue, in particular scheduling and how to schedule design can both increase and decrease fatigue; focusing on the operator responsibilities and evaluating compliance with ORO.FTL; understanding how to determine if an equivalent level of safety, and adequate alertness, has been demonstrated by an operator’s application; scientific safety case studies.
+
+Advanced Human Factors
+3-day classroom course at EASA Headquarters in Cologne
+
+Advanced Human Factors is about analysing the behaviour of human beings in their working environments (tools, procedures, colleagues, team etc.). The approach is often used in high risk industries and is most effective if everyone understands their role in the decision-making process. This course is not only relevant to managers and the designers of systems and procedures, but also to the first-line operators.
+
+Key topics include Safety culture & organisational factors; Human performance & limitations; Error models, theories and types of error; Avoiding and managing error; Error reporting and just culture; Human factors & complex systems related issues; Procedures, tools and practices; Auditing personnel and organisation; Management, supervision and leadership; Human factors & auditing types and aspects.
+
+The objectives of the Advanced Human Factors training course are to gain in-depth understanding of the covered subjects in the area of Human Factors and to assess if the HF elements of the EASA regulations ensure the application and the improvement of the European Aviation Safety Standards.
+
+How to enrol
+
+Fill in the application form and submit it to TT@easa.europa.eu. Your application will be processed in due course and you will receive an automated course confirmation upon registration.

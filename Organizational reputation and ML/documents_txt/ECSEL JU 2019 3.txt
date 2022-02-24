@@ -1,0 +1,22 @@
+EFECS2019 Pilot Lines Impact workshop
+
+ 
+
+ 
+
+
+
+
+The EFECS co-located workshop “ECSEL Pilot lines success stories and impact” was successfully organised by STMicroelectronics in cooperation with its partners CEA- LETI,   TU Darmstadt, SOITEC, Global Foundries, LYNRED, Robert Bosch GmbH on Tuesday November 19th at Helsinki.
+
+It provided a unique opportunity to share with EFECS participants the results of these ECSEL pilot lines and a common vision defined by 3 key attributes: Scale, Persistence and Excellence.  
+Scale, by mobilizing large communities with a mix of companies and public research organizations and reinforcing partnerships. They had the critical mass to work along the technology/supply chain -From materials to product- and along the value chain to accelerate the co-innovation and market adoption and strengthen demand in Europe
+Persistence and continuity, as these projects belong to a pipeline of ambitious projects around technologies such as FDSOI, RFSOI and memories for MCUs. 
+These projects provided Excellence as the different examples of success stories can testify (link to presentations)
+The presented projects were:
+PANACHE: Developed an embedded flash technology platform dedicated to the design of innovative microcontrollers and their manufacturing. 
+REFERENCE:  Developed innovative RF-SOI substrates & technologies (including move to 300mm) enabling the realization of integrated front-end modules, and system level demonstrators for cellular, aeronautics, paving the way to 5G.
+POLIS: Developed differentiating technologies enabling the prototyping of a large range of innovative sensors and breakthrough micro-displays such as: Low-cost Infrared thermal sensors for consumer markets, high luminance low power micro-displays for augmented reality applications, gestures recognition sensors and depth-map camera based on Time-of-Flight, etc.
+Lab4MEMS II: Developed innovative technologies on advanced Micro-Opto-Electro-Mechanical Systems. This Pilot line realized a variety of devices including optical switch, array of micro-mirrors, optical cross-connect, lasers and micro lens amongst others.
+WAYTOGOFAST : Developed the competitiveness of FDSOI by offering higher performance node architectures in 22FDX and 28FDSOI and their substrate manufacturing.
+

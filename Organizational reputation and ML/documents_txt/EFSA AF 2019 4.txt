@@ -1,0 +1,18 @@
+Feed additives: online tool upgraded to improve exposure estimates
+
+As of today applicants can make better estimates of exposure to residues of feed additives, thanks to a new release of the Feed Additives Consumer Exposure calculator (FACE).
+
+The FACE calculator is a user-friendly tool for estimating chronic and acute dietary exposure to residues of feed additives and their metabolites present in food of animal origin. It implements the exposure methodology recommended by the Guidance on the assessment of the safety of feed additives for the consumer (see section 4.3 on Consumer exposure).
+
+The latest version of FACE will provide more accurate estimates due to the incorporation of EFSA’s new food consumption data on raw primary commodities (RPC, e.g. milk, meat). When FACE was launched in May 2018, it relied on food consumption data that still required fine-tuning. With the recent finalisation of the RPC model, these consumption data have been significantly improved and integrated into FACE.
+
+Tools: Feed Additives Consumer Exposure calculator
+How does it work?
+
+You will see a list of raw primary commodities. Enter the estimated residue levels for each relevant food product.
+
+The tool will then calculate the exposure and provide an overview on how exposure may vary between or within population groups. The tool will also indicate how the different food commodities contribute to the overall exposure.
+
+To use the tool, you need to register. Send an email to data.collection@efsa.europa.eu with your name, last name, email address and affiliation.
+
+FACE terms of use
